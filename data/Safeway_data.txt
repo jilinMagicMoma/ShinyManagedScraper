@@ -1,0 +1,1376 @@
+country			state			city			zip code			name			address			phone			store hour			gas hour
+US			PA			Audubon			19403			Genuardi's			2850 Audubon Village Dr.			610-666-0414			Mon - Sat 6:00 AM - 11:00PM Sun 6:00 AM - 10:00 PM
+US			DE			Wilmington			19810			Safeway			2522 Foulk Rd			302-475-8803			Mon-Sat 5:00AM-Midnight<br/>Sun 5:00AM-10:00PM
+US			DE			Newark			19702			Newark Safeway			2400 Peoples Plaza			(302) 832-8290			Mon-Sat 5:00AM-12:00AM<br>Sun 5:00AM-10:00PM
+US			MD			Bel Air			21015			Safeway			225 Brierhill Dr			410-420-2050			Open daily 5:00 AM - MIDNIGHT
+US			MD			Phoenix			21131			Safeway			3499 Sweet Air Rd.			410-666-0787			Mon-Tue: 6:00 AM-Midnight<br/>Wed-Sat: Open 24 hours<br/>Sun: 7:00 AM-11:00 PM
+US			DE			Dover			19901			Safeway			190 John Hunn Brown Rd			302-730-9100			Open Daily: 5:00AM-Midnight
+US			MD			Nottingham			21236			Safeway			9645 Belair Rd.			410-256-3021			Mon-Sun 5:00AM-Midnight
+US			MD			Carney			21234			Safeway			8858 Waltham Woods Rd.			410-882-8822			Open 24 hours
+US			DE			Rehoboth Beach			19971			Safeway			19266 Coastal Highway			302-226-3073			Open daily 6:00 AM-Midnight
+US			MD			Towson			21204			Safeway			1017 York Rd.			410-296-2267			Open daily 5:00 AM-12:00 PM
+US			MD			Baltimore			21214			Safeway			4401 Harford Rd.			410-319-8591			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Baltimore			21224			Safeway			2610 Boston St.			410-675-3704			Open Daily: 5:00AM-Midnight
+US			MD			Baltimore			21218			Safeway			2401 N. Charles St.			410-261-6110			Open daily 6:00 AM-11:00 PM
+US			MD			Chester			21619			Safeway			1925 Main St.			410-604-0656			Open Daily 24 Hours
+US			MD			Pasadena			21122			Safeway			4211 Mountain Rd.			410-439-4560			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Owings Mills			21117			Safeway			10335 Reisterstown Rd.			410-998-3820			Open daily 6:00 AM-Midnight
+US			MD			Easton			21601			Safeway			139 N Washington St			410-822-5055			Open daily 5:00 AM-10:00 PM
+US			MD			Baltimore			21228			Safeway			5660 Baltimore National Pike			410-869-8220			Open Daily: 5:00AM-Midnight
+US			MD			Arnold			21012			Safeway			1451 S Ritchie Hwy			410-919-1000			Open Daily 24 Hours
+US			MD			Severna Park			21146			Safeway			540 Benfield Rd.			410-647-9487			Open daily 7:00 AM-11:00 PM
+US			MD			Annapolis			21401			Safeway			1781 Forest Dr.			410-626-2710			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			MD			Westminster			21158			Safeway			444 Wmc Dr. #116			410-871-1200			Open 24 hours
+US			MD			Eldersburg			21784			Safeway			1313 Londontowne Blvd.			410-552-1021			Open daily 7:00 AM-11:00 PM
+US			MD			Ellicott City			21042			Safeway			10000 Baltimore Ntl. Pike			410-750-3000			Mon- Sun 5am-Midnight
+US			MD			Ellicott City			21043			Safeway			4370 Montgomery Rd.			410-203-1210			Mon- Sun 5am-Midnight
+US			MD			Hanover			21076			Safeway			7643 Arundel Mills Blvd			410-904-7222			Open daily 5:00 AM-Midnight
+US			MD			Columbia			21044			Safeway			5485 Harpers Farm Rd.			410-740-4501			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Mount Airy			21771			Safeway			337 E. Ridgeville Blvd			301-829-6517			Daily: 6:00AM-Midnight
+US			MD			Walkersville			21793			Safeway			151 Walkers Village Way			301-845-2844			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 8:00 AM-10:00 PM<br/>Closed Christmas Day
+US			MD			Gambrills			21054			Safeway			2466 Chapel Lake Dr.			410-451-4750			Open Daily 24 Hours
+US			MD			Damascus			20872			Safeway			9807 Main St			301-391-6146			Open daily 5:00 AM-12:00 PM
+US			MD			Annapolis			21401			Safeway			2635 Housley Rd.			410-224-8890			Open daily 5:00 AM-Midnight
+US			DC			Washington			20001			Safeway			490 L St. NW			202-719-2435			Open 24 hours
+US			DC			Washington			20009			Safeway			1701 Corcoran St NW			202-667-6825			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			DC			Washington			20024			Safeway			1100 4th St. SW			202-554-9155			Open daily 6:00 AM-11:00 PM
+US			DC			Washington			20009			Safeway			1747 Columbia Rd Nw			202-667-0774			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			DC			Washington			20003			Safeway			415 14th St. SE			202-547-4333			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			DC			Washington			20002			Safeway			1601 Maryland Ave. Ne			202-398-6903			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 6:00 AM-10:00 PM
+US			VA			Arlington			22209			Safeway			1525 Wilson Blvd			703-276-9315			Open daily 7:00AM-10:00PM
+US			DC			Washington			20007			Safeway			1855 Wisconsin Ave Nw			202-333-3223			Open 24 hours
+US			DC			Washington			20011			Safeway			3830 Georgia Ave, NW			202-722-4023			5:00AM - 12:00AM
+US			DC			Washington			20020			Safeway			2845 Alabama Ave Se			202-575-7525			Open daily 7:00 AM-11:00 PM
+US			DC			Washington			20007			Safeway			4865 Macarthur Blvd Nw			202-337-5649			Mon-Sat: 7:00 AM-10:00 PM<br/>Sun: 8:00 AM-10:00 PM
+US			DC			Washington			20019			Safeway			322 40Th St. Ne			202-397-2802			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Arlington			22207			Safeway			3713 Lee Hwy			703-841-1155			Open Daily: 5:00AM-Midnight
+US			DC			Washington			20016			Safeway			4203 Davenport St Nw			202-364-0290			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			DC			Washington			20012			Safeway			6500 Piney Branch Rd Nw			202-723-5644			Open daily 5:00AM-Midnight
+US			VA			Arlington			22205			Safeway			5101 Wilson Blvd			703-524-1528			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			DC			Washington			20015			Safeway			5545 Connecticut Ave Nw			202-244-6097			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-11:00 PM
+US			VA			Alexandria			22302			Pharmacy at Safeway			3541 W. Braddock Rd
+US			VA			Arlington			22207			Safeway			2500 N. Harrison St.			703-538-6700			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 8:00 AM-9:00 PM
+US			VA			Falls Church			22041			Safeway			5821 Crossrd.S Ctr Way			703-533-3800			Mon-Tue: 7:00 AM-Midnight<br/>Wed-Sat: Open 24 hours<br/>Sun: 7:00 AM-Midnight
+US			MD			Bethesda			20816			Safeway			4701 Sangamore Rd.			301-320-1770			Open daily 12:00 AM-11:00 PM
+US			VA			Alexandria			22314			Safeway			500 S. Royal St			703-836-0380			Mon-Sat: 7:00 AM-10:00 PM<br/>Sun: 7:00 AM-9:00 PM
+US			MD			Oxon Hill			20745			Safeway			6235 Oxon Hill Rd			301-839-0718			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Falls Church			22044			Safeway			6118 Arlington Blvd			703-531-0030			Open daily 5:00AM-Midnight
+US			MD			Silver Spring			20910			Safeway			909 Thayer Ave			301-565-0686			Mon-Sat: 7:00 AM-Midnight<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Seat Pleasant			20743			Safeway			6300 Central Ave			301-350-0220			Open daily 7:00 AM-11:00 PM
+US			MD			Bethesda			20815			Safeway			5000 Bradley Blvd			301-215-4148			Open daily 5:00AM-Midnight
+US			VA			Mclean			22101			Safeway			6244 Old Dominion Dr			703-538-6539			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 8:00 AM-10:00 PM
+US			MD			Bethesda			20814			Safeway			7625 Old Georgetown Rd			301-907-0700			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-11:00 PM
+US			VA			Alexandria			22304			Safeway			299 S Van Dorn St.			703-751-4827			Mon-Sun: 5:00AM-Midnight
+US			VA			Alexandria			22307			Safeway			1624 Belle View			703-765-3434			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Mclean			22101			Safeway			1330 Chain Bridge Rd.			703-356-6118			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			MD			Silver Spring			20901			Safeway			116 University Blvd			301-593-7526			Open daily 5:00AM-10:00PM
+US			MD			Silver Spring			20903			Safeway			10101 New Hampshire Ave			301-445-6190			Open daily 5:00AM-Midnight
+US			VA			Alexandria			22310			Safeway			6130 Rose Hill Dr.			703-313-8800			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Falls Church			22042			Safeway			7397 Lee Hwy			703-573-2057			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Kensington			20895			Safeway			10541 Connecticut Ave			301-945-4273			Open Daily 24 Hours
+US			VA			Mclean			22102			Safeway			1688 Anderson Rd			703-343-1000			Open daily 5:00 AM-12:00 PM
+US			MD			Kensington			20895			Safeway			10541 Connecticut Ave.			301-945-4273
+US			MD			Wheaton			20902			Safeway			11201 Georgia Avenue			301-933-0436			Open 24 hrs.
+US			VA			Annandale			22003			Safeway			7414 Little River Turnpike			703-941-3874			Open daily 6:00 AM-Midnight
+US			VA			Alexandria			22308			Safeway			7900 Ft Hunt Rd.			703-765-0924			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Greenbelt			20770			Safeway			7595 Greenbelt Rd			301-345-0150			Mon-Tue: 6:00 AM-Midnight<br/>Wed-Sat: Open 24 hours<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Alexandria			22315			Safeway			5980 Kingstowne Towne Ctr.			703-921-3125			Open daily 5:00AM-Midnight
+US			MD			Clinton			20735			Safeway			8785 Branch Ave			301-856-7850			Mon-Sun: 5:00 AM-Midnight
+US			MD			Rockville			20852			Safeway			5200 Randolph Rd.			301-770-3665			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			MD			Fort Washington			20744			Safeway			990 E. Swan Creek Rd.			301-965-6000			Open daily 6:00 AM-11:00 PM
+US			VA			Springfield			22151			Safeway			5204 Port Royal Rd.			703-321-8695			Mon-Sat: 7:00 AM-10:00 PM<br/>Sun: 7:00 AM-11:00 PM
+US			VA			Fairfax			22031			Safeway			3043 Nutley St.			703-269-2241			Open Daily 24 Hours
+US			MD			Potomac			20854			Safeway			10104 River Rd.			301-983-2150			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Alexandria			22309			Safeway			8646 Richmond Hwy			703-780-3646			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			MD			Rockville			20851			Safeway			1902 Veirs Mill Rd			301-762-0200			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			MD			Bowie			20720			Safeway			12410 Fairwood Pkwy.			301-867-0340			5 AM - Midnight Seven days a week
+US			MD			Silver Spring			20904			Safeway			13814 Outlet Dr.			301-890-7070			Daily 5:00AM-Midnight
+US			VA			Alexandria			22306			Safeway			7451 Mount Vernon Square			703-340-1033			Open daily 5:00 AM-Midnight
+US			VA			Fairfax			22032			Safeway			9525 Braddock Rd.			703-978-4604			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			MD			Rockville			20853			Safeway			5510 Norbeck Rd			301-438-4020			Open 7 Days a Week 5AM-Midnight
+US			MD			Upper Marlboro			20772			Safeway			7605 Crain Hwy			301-627-2121			6:00 AM-10:00 PM Seven days a week.
+US			MD			Cloverly			20905			Safeway			15411 New Hampshire Ave			301-476-8300			Open daily 6:00 AM-Midnight
+US			VA			Burke			22015			Safeway			5727 Burke Centre Pkwy.			703-323-8784			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			VA			Fairfax			22030			Safeway			10350 Willard Way			703-591-8473			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			VA			Burke			22015			Safeway			9596 Old Keene Mill Rd.			703-440-1341			5am-12am
+US			MD			Laurel			20707			Safeway			14100 Baltimore Ave			301-490-7100			Mon-Tue: 6:00 AM-Midnight<br/>Wed-Sat: Open 24 hours<br/>Sun: 7:00 AM-Midnight
+US			VA			Great Falls			22066			Safeway			9881 Georgetown Pike			703-759-3802			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-9:00 PM
+US			MD			Bowie			20716			Safeway			4101 N.View Dr.			301-262-7992			5 am - Midnight Seven days a week
+US			VA			Reston			20191			Safeway			11120 S. Lakes Dr.			703-620-3400			Mon-Sun 5:00AM-Midnight
+US			MD			Rockville			20850			Safeway			14939 Shady Grove Rd.			301-944-1584			Open 7 Days a Week 5AM-Midnight
+US			MD			Rockville			20850			Safeway			403 Redland Blvd			301-990-3150			Open 7 Days a Week 5AM-Midnight
+US			MD			Brandywine			20613			Safeway			15916 S. Crain Hwy			301-242-9260			Open daily 5:00AM-Midnight
+US			MD			Olney			20832			Safeway			3333 Spartan Rd			301-774-8153			Open daily 5:00AM - Midnight
+US			VA			Reston			20191			Safeway			2304 Hunter'S Woods Plaza			703-716-4193			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 7:00 AM-11:00 PM
+US			VA			Fairfax			22033			Safeway			12200 West Ox Road			703-359-0523			5:00 AM-Midnight
+US			MD			Bryans Road			20616			Safeway			3129 Marshall Hall Rd			301-283-6074			Mon-Sat: 6:00 AM-11:00 PM<br/>Sun: 7:00 AM-9:00 PM
+US			MD			Waldorf			20603			Safeway			3051 Waldorf Pazza Dr.			301-632-5680			Open daily 6:00 AM-Midnight
+US			VA			Herndon			20170			Safeway			413 Elden St.			571-262-2968			Mon-Sun 5AM-Midnight
+US			MD			Gaithersburg			20878			Safeway			12251 Darnestown Rd.			301-417-9447			Mon-Sun 5AM - Midnight
+US			VA			Woodbridge			22192			Safeway			2205 Old Bridge Rd.			703-494-8858			Open daily 7:00 AM-10:00 PM
+US			MD			Waldorf			20601			Safeway			10 King St.			301-843-2825			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Sterling			20164			Safeway			22350 S. Sterling Blvd			703-948-1080			5:00 AM - Midnight  Seven days a week
+US			MD			Gaithersburg			20879			Safeway			20211 Goshen Rd			301-670-1626			Open 24 hours
+US			VA			Woodbridge			22192			Safeway			4240 Merchant Plaza			703-590-1057			Open Daily 5:00AM-Midnight
+US			VA			Sterling			20165			Safeway			30 Pidgeon Hill Dr			703-430-1192			Mon-Tue: 6:00 AM-Midnight<br/>Wed-Sat: Open 24 hours<br/>Sun: 7:00 AM-11:00 PM
+US			MD			Germantown			20874			Safeway			19718 Germantown Rd.			301-916-8584			Open daily 6:00 AM-Midnight
+US			VA			Dale City			22193			Safeway			4215 Cheshire Station Plaza			703-590-5530			Open daily 5:00 AM-Midnight
+US			MD			Dunkirk			20754			Safeway			10276 S.Ern Md Blvd			301-855-3765			MON-SUN 5AM-Midnight
+US			MD			La Plata			20646			Safeway			40 Shining Willow Way			301-392-1875			Open daily 6:00 AM-Midnight
+US			MD			Edgewater			21037			Safeway			52 West Central Ave.			410-919-1156			Open 24 hours
+US			VA			Ashburn			20148			Safeway			43150 Brd.Lands Ctr. Pl. #140			703-726-1371			Open daily 6:00 AM-Midnight
+US			VA			Bristow			20136			Safeway			12821 Braemar Village Plaza			703-257-0153			Open daily 5:00AM-Midnight
+US			VA			Leesburg			20175			Safeway			437 S. King St			703-777-5833			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 8:00 AM-10:00 PM
+US			MD			Prince Frederick			20678			Safeway			80 W. Dares Beach Rd.			410-414-7400			Open 24 hours
+US			VA			Middleburg			20118			Safeway			12 W. Washington St.			540-687-6401			Mon-Sat: 7:00 AM-9:00 PM<br/>Sun: 8:00 AM-8:00 PM
+US			MD			Frederick			21701			Safeway			927 West 7Th St.			301-695-2833			Mon-Sat: 7:00 AM-Midnight<br/>Sun: 7:00 AM-10:00 PM
+US			VA			Warrenton			20186			Safeway			189 W. Lee Hwy			540-347-7909			Open daily 6:00 AM-Midnight
+US			MD			Middletown			21769			Safeway			815 E. Main St.			301-371-3126			Open Daily 5:00AM-11:00PM<br>Closed Christmas Day
+US			VA			Culpeper			22701			Safeway			309 S.Gate Shopping Ctr.			540-825-8337			Open daily 12:00 AM-11:00 PM
+US			WY			Sheridan			82801			Safeway			169 Coffeen			307-674-9800			Open daily 6:00 AM-10:00 PM
+US			MT			Missoula			59802			Safeway			800 West Brd.Way			406-721-2549			Open daily 5:00 AM-1:00 AM
+US			MT			Missoula			59801			Safeway			3801 S. Reserve St.			406-251-3311			Open daily 5:00 AM-1:00 AM
+US			MT			Hamilton			59840			Safeway			101 E. Main St.			406-363-2270			Open daily 7:00 AM-Midnight
+US			MT			Polson			59860			Safeway			146 S. Shore Route			406-883-2340			Open daily 6:00 AM-Midnight
+US			MT			Deer Lodge			59722			Safeway			201 N Main St			406-846-1550			Open daily 7:00 AM-11:00 PM
+US			MT			Anaconda			59711			Safeway			1525 W. Park			406-563-5383			Open daily 7:00 AM-11:00 PM
+US			MT			Butte			59701			Safeway			310 W. Front St.			406-723-5808			Open daily 6:00 AM-Midnight
+US			MT			Helena			59601			Safeway			611 N. Montana St.			406-443-1598			Open daily 5:00 AM-2:00 AM
+US			MT			Butte			59701			Safeway			2500 Massachusetts Ave			406-494-7046			Open daily 5:00 AM-1:00 AM
+US			TX			Gainesville			76240			Tom Thumb			206 N. Grand Ave			940-665-0311			Open daily 6:00 AM-11:00 PM
+US			TX			Addison			75001			Tom Thumb			14280 Marsh Ln			972-241-4485			Open daily 6:00 AM-1:00 AM
+US			TX			Coppell			75019			Tom Thumb			820 S. Macarthur Blvd			972-393-0411			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75234			Tom Thumb			3757 Forest Ln			972-241-4426			Open daily 6:00 AM-1:00 AM
+US			TX			Carrollton			75007			Tom Thumb			4112 N. Josey			972-394-4127			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75240			Tom Thumb			14999 Preston Rd			972-789-6950			Open Daily 6AM - 1AM
+US			TX			Coppell			75019			Tom Thumb			106 N. Denton Tap Rd			972-304-3223			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75252			Tom Thumb			18212 Preston Rd.			972-985-2240			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75230			Tom Thumb			11920 Preston Rd			972-392-2501			Open daily 6:00 AM-1:00 AM
+US			TX			Plano			75093			Tom Thumb			5968 W. Parker Rd			972-473-3300			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75230			Tom Thumb			522 Preston Royal Ctr			214-363-7685			Open daily 6:00 AM-1:00 AM
+US			TX			Lewisville			75067			Tom Thumb			1075 West F.M. 3040			214-488-3060			Open daily 6:00 AM-1:00 AM
+US			TX			Plano			75093			Tom Thumb			4836 W. Park Blvd			972-964-8190			MON-SUN 6am - 1am
+US			TX			Richardson			75080			Tom Thumb			1380 West Campbell Rd.			972-680-6010			Open daily 6:00 AM-1:00 AM
+US			TX			Irving			75038			Tom Thumb			4010 N. Macarthur Blvd			972-717-9727			Open daily 6:00 AM-1:00 AM
+US			TX			Richardson			75080			Tom Thumb			39 Arapaho Village Rd			972-235-3917			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75225			Tom Thumb			4001 Villanova Dr			214-368-8636			Open daily 6:00 AM-11:00 PM
+US			TX			Dallas			75231			Tom Thumb			10455 N. Central Expwy			214-369-9694			Open daily 6:00 AM-Midnight
+US			TX			Dallas			75225			Tom Thumb			7700 N.West Hwy			214-346-1020			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75209			Tom Thumb			7117 Inwood Rd.			214-350-3883			Open daily 6:00 AM-12:00 PM
+US			TX			Irving			75062			Tom Thumb			3535 Belt Line Rd			972-257-3420			Open daily 6:00 AM-1:00 AM
+US			TX			Flower Mound			75028			Tom Thumb			745 Cross Timbers Rd			972-539-6828			Open daily 6:00 AM-1:00 AM
+US			TX			University Park			75205			Tom Thumb			7000 Snider Plaza			214-346-4580			Open daily 6:00 AM-Midnight
+US			TX			Plano			75075			Tom Thumb			3100 Independence Pkwy			972-596-4420			Open daily 6:00 AM-1:00 AM
+US			TX			Richardson			75080			Tom Thumb			3411 Custer Pkwy.			972-470-1360			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75205			Tom Thumb			9 Highland Park Village			214-521-5025			Open daily 6:00 AM-1:00 AM
+US			TX			Flower Mound			75028			Tom Thumb			2600 Flower Mound Rd			972-355-5750			Open daily 6:00 AM-1:00 AM
+US			TX			Plano			75023			Tom Thumb			3945 Legacy Dr			972-491-2200			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75206			Tom Thumb			5809 East Lovers Lane			214-750-3200			Open 24 hours
+US			TX			Dallas			75243			Tom Thumb			8698 Skillman St			214-340-1266			Open daily 6:00 AM-Midnight
+US			TX			Frisco			75034			Tom Thumb			5550 FM 423			214-494-6213			Open Daily 6:00AM-1:00AM
+US			TX			Grapevine			76051			Tom Thumb			302 S. Park Blvd			817-481-5669			Open daily 6:00 AM-1:00 AM
+US			TX			Dallas			75214			Tom Thumb			6333 E Mockingbird Ln			214-824-1265			Open daily 6:00 AM-1:00 AM
+US			TX			Frisco			75034			Tom Thumb			4848 Preston Rd.			972-377-1800			Open daily 6:00 AM-1:00 AM
+US			TX			Flower Mound			75028			Tom Thumb			2301 Justin Rd			972-539-2366			Open daily 6:00 AM-1:00 AM
+US			TX			Grapevine			76051			Tom Thumb			4000 William D. Tate Ave			817-684-9200			Open daily 6:00 AM-1:00 AM
+US			TX			Flower Mound			75028			Tom Thumb			4301 Cross Timbers Rd			972-691-2084			Open daily 6:00AM-1:00AM
+US			TX			Plano			75074			Tom Thumb			2200 E. 14Th St			972-423-4105			Open daily 6:00 AM-1:00 AM
+US			TX			Garland			75044			Tom Thumb			2645 Arapaho			972-495-9807			Open daily 6:00 AM-1:00 AM
+US			TX			Plano			75025			Tom Thumb			7801 Alma Dr			972-527-0961			Open daily 6:00 AM-1:00 AM
+US			TX			Southlake			76092			Tom Thumb			100 W. S.Lake Blvd			817-416-5464			Open daily 6:00 AM-1:00 AM
+US			TX			Bedford			76021			Tom Thumb			3300 Harwood Rd			817-540-2040			Open 24 hours
+US			TX			Dallas			75208			Tom Thumb			315 S Hampton Rd			214-331-0160			Open daily 6:00 AM-1:00 AM
+US			TX			Allen			75013			Tom Thumb			900 W. Mcdermott Dr.			214-495-3710			Open daily 6:00 AM-1:00 AM
+US			TX			Garland			75041			Tom Thumb			925 N.West Hwy			972-271-0582			Open daily 6:00 AM-Midnight
+US			TX			Arlington			76006			Tom Thumb			2755 N. Collin			817-276-5360			6 AM - Midnight
+US			TX			Garland			75040			Tom Thumb			2535 Firewheel Pkwy			972-675-8661			Open daily 6:00 AM-1:00 AM
+US			TX			Hurst			76054			Tom Thumb			612 Grapevine Hwy			817-428-0383			Open daily 6:00 AM-1:00 AM
+US			TX			Trophy Club			76262			Tom Thumb			101 Trophy Lake Dr.			817-490-6960			Open daily 6:00 AM-1:00 AM
+US			TX			Keller			76248			Tom Thumb			1000 Keller Pkwy.			817-337-8030			Open daily 6:00 AM-1:00 AM
+US			TX			Mckinney			75070			Tom Thumb			3001 Hardin Blvd			972-547-7100			Open daily 6:00 AM-1:00 AM
+US			TX			Arlington			76012			Tom Thumb			1701 Randol Mill Rd.			817-460-8551			Open daily 6:00 AM-1:00 AM
+US			TX			Grand Prairie			75052			Tom Thumb			4215 S. Carrier Pkwy			972-266-7050			Open daily 6:00 AM-1:00 AM
+US			TX			Duncanville			75116			Tom Thumb			633 W. Wheatland Rd			972-780-0792			Open daily 6:00 AM-1:00 AM
+US			TX			Arlington			76013			Tom Thumb			2611 W. Park Row			817-462-0151			Open daily 6:00 AM-1:00 AM
+US			TX			Rowlett			75088			Tom Thumb			8805 Lakeview Pkwy			214-607-0218			Open daily 6:00 AM-1:00 AM
+US			TX			Mesquite			75149			Tom Thumb			1501 Pioneer Rd			972-290-3350			Open daily 6:00 AM-Midnight
+US			TX			Desoto			75115			Tom Thumb			210 E. Pleasant Run Rd			972-274-7000			Open daily 6:00 AM-1:00 AM
+US			TX			Arlington			76017			Tom Thumb			5425 S. Cooper			817-419-2460			Open daily 6:00 AM-1:00 AM
+US			TX			Rockwall			75087			Tom Thumb			3070 N. Goliad St			972-961-9330			Open daily 6:00 AM-1:00 AM
+US			TX			Mansfield			76063			Tom Thumb			980 Hwy N. 287			817-453-6770			Open daily 6:00 AM-1:00 AM
+US			TX			Fort Worth			76109			Tom Thumb			3000 S. Hulen			817-570-2950			Open daily 6:00 AM-1:00 AM
+US			TX			Fort Worth			76116			Tom Thumb			6377 Camp Bowie Blvd			817-377-5980			Open daily 6:00 AM-1:00 AM
+US			TX			Round Rock			78664			Randalls			2051 Gattis School Rd.			512-246-0390			Open daily 6:00 AM-1:00 AM
+US			TX			Cedar Park			78613			Randalls			1400 Cypress Creek Rd			512-506-9118			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78759			Randalls			10900 Research Blvd			512-342-4250			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78731			Randalls			8040 Mesa Dr.			512-345-1825			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78731			Randalls			5311 Balcones Dr.			512-302-2500			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78732			Randalls			5145 N. Fm 620 Rd Suite A @ Quinlan Park Rd.			512-266-3168			Open daily 6:00AM-1:00AM
+US			TX			Austin			78703			Randalls			1500 W. 35Th St			512-453-8406			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78731			Randalls			2727 Exposition Blvd			512-477-7196			Open daily 6:00 AM-Midnight
+US			TX			Austin			78703			Randalls			715 S. Exposition Blvd			512-477-5713			Open daily 6:00 AM-1:00 AM
+US			TX			West Lake Hills			78746			Randalls			3300 Bee Caves Rd			512-327-1881			Open daily 6:00 AM-1:00 AM
+US			TX			Lakeway			78734			Randalls			2301 Ranch Rd 620 S.			512-263-6420			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78704			Randalls			2025 W. Ben White Blvd			512-443-3083			Open daily 6:00 AM-1:00 AM
+US			TX			Austin			78749			Randalls			6600 Mopac Expressway S.			512-891-4350			Open Daily: 6:00AM-1:00AM
+US			TX			Austin			78748			Randalls			9911 Brodie Ln			512-282-5720			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77002			Randalls			2225 Louisiana St			713-331-1042			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77098			Randalls			2075 Westheimer Rd.			713-284-1200			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77025			Randalls			3131 W. Holcombe Blvd			713-349-2150			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77005			Randalls			5586 Weslayan St			713-668-4778			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77056			Randalls			5161 San Felipe St.			713-964-3150			Open daily 6:00 AM-1:00 AM
+US			TX			Bellaire			77401			Randalls			5130 Bellaire Blvd			713-667-1167			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77092			Randalls			5264 W. 34Th St			713-684-0520			Open daily 6:00 AM-Midnight
+US			TX			Houston			77035			Randalls			4800 W. Bellfort			713-721-0011			Open 7 Days a Week 6:00AM-1:00AM
+US			TX			Houston			77063			Randalls			9660 Westheimer			713-782-0982			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77024			Randalls			12850 Memorial Dr			713-365-6700			Open daily 6:00 AM-1:00 AM
+US			TX			Pearland			77584			Randalls			10228 W. Brd.Way St.			281-504-0273			Open daily 6:00 AM-1:00 AM
+US			TX			Pearland			77584			Randalls Fuel Station			10228 W. Brd.Way St.			713-436-4346			Fuel Only
+US			TX			Houston			77079			Randalls			14610 Memorial Dr			281-497-0630			Open daily 6:00 AM-1:00 AM
+US			TX			Stafford			77477			Randalls			11711 W. Bellfort			281-568-0415			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77062			Randalls			2323 Clear Lake City Blvd			281-280-3100			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77069			Randalls			5219 Fm 1960 West			281-440-1402			Open daily 6:00 AM-1:00 AM
+US			TX			Sugar Land			77478			Randalls			3346 Hwy 6 S.			281-980-1800			Open daily 6:00 AM-1:00 AM
+US			TX			Houston			77084			Randalls			18322 Clay Rd			281-855-9774			Open Daily 6:00AM-Midnight
+US			TX			Katy			77450			Randalls			525 S. Fry Rd			281-579-3890			Open daily 6:00 AM-1:00 AM
+US			TX			Kingwood			77339			Randalls			600 Kingwood Dr.			281-312-5000			Open daily 6:00 AM-1:00 AM
+US			TX			Katy			77449			Randalls			3050 N. Fry Rd			281-578-3888			Open daily 6:00 AM-1:00 AM
+US			TX			Sugar Land			77479			Randalls			5800 New Territory Blvd			281-634-0600			Open daily 6:00 AM-1:00 AM
+US			TX			Cypress			77429			Randalls Fuel Station			12220 Barker Cypress			281-213-9308			Fuel Only
+US			TX			Cypress			77429			Randalls			12312 Barker Cypress Rd			281-373-2500			Open daily 6:00 AM-1:00 AM
+US			TX			Kingwood			77345			Randalls			4540 Kingwood Dr			281-360-5100			Open daily 6:00 AM-1:00 AM
+US			TX			Katy			77450			Randalls			1525 S. Mason Rd			281-578-5566			Open daily 6:00AM-Midnight
+US			TX			League City			77573			Randalls			2951 Marina Bay Dr, Suite B			281-538-2500			Open daily 6:00 AM-1:00 AM
+US			TX			Richmond			77406			Randalls			1890 Fm 359 Rd			281-238-8231			Open 24 hours
+US			TX			Spring			77380			Randalls			2250 Buckthorne Place			281-367-5734			Open daily 6:00 AM-1:00 AM
+US			TX			The Woodlands			77381			Randalls			4775 W. Panther Creek Dr.			281-363-5100			Open daily 6:00 AM-1:00 AM
+US			TX			The Woodlands			77384			Randalls			9420 College Park Dr. #100			936-321-2322			Open daily 6:00 AM-1:00 AM
+US			TX			Galveston			77551			Randalls			2931 Central City Blvd			409-744-0413			Open daily 6:00 AM-1:00 AM
+US			CO			Wheat Ridge			80033			Safeway			3900 Wadsworth Blvd			303-456-2670			Open daily 5:00 AM-Midnight
+US			CO			Arvada			80004			Safeway			12680 W. 64Th Ave.			303-423-6015			Open daily 5:00 AM-Midnight
+US			CO			Arvada			80003			Safeway			7561 W. 80Th Ave.			303-420-0318			Open daily 5:00 AM-Midnight
+US			CO			Denver			80211			Safeway			3800 W. 44Th Ave			303-458-8418			Open daily 5:30 AM-Midnight
+US			CO			Lakewood			80215			Safeway			9160 W. Colfax			303-232-4989			Open daily 5:00 AM-Midnight
+US			CO			Westminster			80030			Safeway			7353 Federal Blvd			303-412-2126			Open daily 5:00 AM-Midnight
+US			CO			Denver			80211			Safeway			2660 N. Federal Bvd.			303-477-5091			Open daily 6:00 AM-11:00 PM
+US			CO			Westminster			80021			Safeway			8543 Church Ranch Blvd			303-410-0440			Open daily 6:00 AM-11:00 PM
+US			CO			Golden			80401			Safeway			1701 Jackson St.			303-278-1861			Open daily 12:00 AM-11:00 PM
+US			CO			Federal Heights			80260			Safeway			10300 Federal Blvd			303-469-0990			Open daily 6:00 AM-Midnight
+US			CO			Lakewood			80228			Safeway			13111 W. Alameda Pkwy.			303-980-9343			Open daily 5:00 AM-11:00 PM
+US			CO			Denver			80205			Safeway			757 E. 20Th Ave.			303-861-8169			Open daily 6:00 AM-Midnight
+US			CO			Lakewood			80226			Safeway			11088 W. Jewell			303-989-8810			Open daily 5:00 AM-Midnight
+US			CO			Denver			80227			Safeway			1955 So. Sheridan Blvd			303-989-9892			Open daily 5:00 AM-11:30 PM
+US			CO			Broomfield			80020			Safeway			6775 W. 120Th Ave.			303-466-7969			Open daily 12:00 AM-11:00 PM
+US			CO			Denver			80218			Safeway			560 Corona St.			303-777-1231			Open daily 5:00 AM-Midnight
+US			CO			Thornton			80229			Safeway			771 Thornton Pkwy			303-280-2245			Open daily 6:00 AM-Midnight
+US			CO			Superior			80027			Safeway			1601 Coalton Rd.			303-543-1153			Open daily 12:00 AM-11:00 PM
+US			CO			Denver			80206			Safeway			3110 East First Ave.			303-355-5486			Open daily 6:00 AM-Midnight
+US			CO			Westminster			80234			Safeway			12900 Zuni St.			720-929-9191			Open daily 6:00 AM-Midnight
+US			CO			Denver			80220			Safeway			6220 East 14Th Ave.			303-242-3523			Open daily 6:00 AM-Midnight
+US			CO			Denver			80210			Safeway			2150 S Downing St			303-722-6117			Open daily 5:00 AM-1:00 AM
+US			CO			Denver			80222			Safeway			1653 S. Colorado Blvd.			303-691-2960			Open daily 6:00 AM-Midnight
+US			CO			Englewood			80110			Safeway			201 E. Jefferson			303-781-0463			Open daily 5:00 AM-Midnight
+US			CO			Broomfield			80020			Safeway			3602 W. 144Th Ave.			303-209-2405			Open daily 5:00 AM-Midnight
+US			CO			Littleton			80127			Safeway			5025 S. Kipling			303-973-6770			Open daily 5:00 AM-Midnight
+US			CO			Thornton			80229			Safeway			3904 E. 120Th. Ave.			303-457-2995			Open daily 5:00 AM-11:00 PM
+US			CO			Denver			80222			Safeway			6440 E. Yale Ave			303-691-8870			Open daily 5:00 AM-Midnight
+US			CO			Denver			80222			Safeway			4950 E. Hampden Ave.			303-691-0051			Open daily 5:00 AM-Midnight
+US			CO			Evergreen			80439			Safeway			3851 So. Hwy 74			303-674-6625			Open Daily 5:00 AM-11:00 PM
+US			CO			Aurora			80012			Safeway			1677 S. Havana			303-481-2279			Open daily 5:00 AM-Midnight
+US			CO			Littleton			80127			Safeway			12442 W. Ken Caryl Ave.			303-978-1859			Open daily 5:00 AM-11:00 PM
+US			CO			Littleton			80123			Safeway			7500 So. Pierce			303-979-2760			Open daily 5:00 AM-11:30 PM
+US			CO			Erie			80516			Safeway			3333 Arapahoe Rd. No.B			720-890-0959			Open daily 6:00 AM-11:00 PM
+US			CO			Aurora			80012			Safeway			12200 E. Mississippi			303-751-6603			Open daily 5:00 AM-11:00 PM
+US			CO			Boulder			80302			Safeway			4800 E. Baseline Rd.			303-494-5373			Open daily 6:00 AM-11:00 PM
+US			CO			Littleton			80120			Safeway			181 W. Mineral Ave.			303-218-2100			Open daily 6:00 AM-12:00 PM
+US			CO			Boulder			80302			Safeway			2798 Arapahoe			303-443-5888			Open Daily 6:00AM-Midnight
+US			CO			Englewood			80112			Safeway			7375 Arapahoe Rd.			303-771-8707			Open daily 5:00 AM-Midnight
+US			CO			Highlands Ranch			80129			Safeway			9255 S. Brd.Way			303-683-1983			Open daily 6:00 AM-1:00 AM
+US			CO			Aurora			80017			Safeway			1730 So. Buckley Rd.			303-695-8182			Open daily 5:00 AM-Midnight
+US			CO			Boulder			80302			Safeway			3325 28Th St.			303-938-1271			Open daily 5:00 AM-1:00 AM
+US			CO			Englewood			80111			Safeway			8200 So. Quebec			303-773-1467			Open daily 5:00 AM-Midnight
+US			CO			Aurora			80015			Safeway			16921 E. Quincy Ave.			303-690-2991			Open daily 5:00 AM-11:00 PM
+US			CO			Aurora			80013			Safeway			18730 E. Hampden Ave			720-876-2244			Open daily 5:00 AM-Midnight
+US			CO			Brighton			80601			Safeway			1605 Bridge St.			303-659-6461			Open daily 6:00 AM-Midnight
+US			CO			Lone Tree			80129			Safeway			9229 E. Lincoln Ave			303-649-9111			Open daily 5:00 AM-1:00 AM
+US			CO			Conifer			80433			Safeway			27152 Main St.			303-838-4375			Open 24 hours
+US			CO			Littleton			80125			Safeway			8355 N. Rampart Range Rd.			303-242-3563			Open daily 12:00 AM-11:00 PM
+US			CO			Idaho Springs			80452			Safeway			2425 Miner St.			303-567-4471			Open daily 6:00 AM-10:00 PM
+US			CO			Centennial			80015			Safeway			20153 E. Smoky Hill Rd.			303-690-0866			Open daily 6:00 AM-Midnight
+US			CO			Firestone			80520			Safeway Fuel Station			8206 County Rd 13			303-833-2844			6:00 AM - Midnight
+US			CO			Firestone			80504			Safeway			8134 Weld County Road 13			303-833-2844			Open daily 6:00 AM-Midnight
+US			CO			Longmont			80501			Safeway			1050 Ken Pratt Bvd.			303-651-7952			Open daily 6:00 AM-Midnight
+US			CO			Fort Lupton			80621			Safeway			1300 Dexter St.			303-857-0136			Open daily 6:00 AM-11:00 PM
+US			CO			Aurora			80016			Safeway			22675 E. Aurora Pkwy			303-693-0410			Open daily 6:00 AM-11:00 PM
+US			CO			Castle Rock			80108			Safeway			560 Castle Pines Pkwy			303-814-9429			Open daily 5:00 AM-Midnight
+US			CO			Parker			80134			Safeway			11051 So. Parker Rd.			303-840-1604			Open daily 5:00 AM-Midnight
+US			CO			Longmont			80501			Safeway			1630 Pace			303-485-9500			Open daily 6:00 AM-Midnight
+US			CO			Longmont			80501			Safeway			1632 Hover Rd.			303-776-0506			Open daily 6:00 AM-Midnight
+US			CO			Castle Rock			80104			Safeway			880 S. Perry St.			303-688-5028			Open daily 5:00 AM-Midnight
+US			CO			Elizabeth			80107			Safeway			220 S. Elizabeth St.			303-646-0336			Open daily 5:00 AM-11:00 PM
+US			CO			Loveland			80537			Safeway			860 Cleveland			970-669-3440			Open daily 6:00 AM-10:00 PM
+US			CO			Loveland			80537			Safeway			2321 W. Eisenhower			970-669-1342			Open daily 5:00 AM-Midnight
+US			CO			Estes Park			80517			Safeway			451 E. Wonderview Ave.			970-586-4447			Open daily 7:00 AM-Midnight
+US			CO			Greeley			80631			Safeway			3526 W. Tenth St.			970-351-8350			Open daily 5:00 AM-Midnight
+US			CO			Windsor			80550			Safeway			1535 Main St.			970-674-1177			Open daily 6:00 AM-Midnight
+US			CO			Greeley			80634			Safeway			1122 11Th. Ave.			970-352-7421			Open daily 6:00 AM-11:00 PM
+US			CO			Greeley			80632			Safeway			4548 Ctr.Place Dr			970-330-9956			Open daily 6:00 AM-Midnight
+US			CO			Monument			80132			Safeway			624 Hwy 105			719-488-1187			Open daily 5:00 AM-Midnight
+US			CO			Fort Collins			80525			Safeway			1426 E. Harmony Rd.			970-223-6335			Open daily 6:00 AM-Midnight
+US			CO			Fort Collins			80521			Safeway			2160 W. Drake Rd. Unit 6			970-484-6048			Open daily 6:00 AM-Midnight
+US			CO			Fraser			80442			Safeway			40 County Rd. 804			970-726-9484			Open daily 6:00 AM-11:00 PM
+US			CO			Fort Collins			80524			Safeway			460-A S. College Ave.			970-484-0222			Open daily 5:00 AM-Midnight
+US			CO			Frisco			80443			Safeway			1008 Summit Blvd			970-668-5144			Open daily 6:00 AM-11:00 PM
+US			CO			Woodland Park			80863			Safeway Fuel Station			1039 Us Hwy 24			719-686-0144			6:00 AM - 10:00 PM
+US			CO			Woodland Park			80863			Safeway			1101 East U.S. Highway 24			719-686-1836			Open daily 6:00 AM-Midnight
+US			CO			Colorado Springs			80919			Safeway			840 Village Ctr. Dr			719-548-1404			Open daily 6:00 AM-11:00 PM
+US			CO			Colorado Springs			80918			Safeway			5060 N. Academy Blvd.			719-593-1343			Open daily 5:00 AM-Midnight
+US			CO			Falcon			80831			Safeway			7655 Mclaughlin Rd			719-495-7300			Open daily 5:00 AM-11:00 PM
+US			CO			Falcon			80831			Safeway Fuel Station			7507 Mclaughlin Rd			719-495-6609			6:00 AM - 10:00 PM
+US			CO			Colorado Springs			80904			Safeway			3275 West Colorado Ave			719-473-6307			Open daily 5:00 AM-Midnight
+US			CO			Colorado Springs			80907			Safeway			2210 N. Wahsatch Ave			719-471-7243			Open daily 5:00 AM-Midnight
+US			CO			Colorado Springs			80922			Safeway			2890 No Powers			719-573-4860			Open daily 5:00 AM-Midnight
+US			CO			Colorado Springs			80909			Safeway			1121 North Circle Drive			719-573-6023			Open Daily 5:00AM-Midnight
+US			CO			Colorado Springs			80906			Safeway			1920 So. Nevada Ave.			719-636-5255			Open daily 5:00 AM-Midnight
+US			CO			Colorado Springs			80916			Safeway			1425 S. Murray Blvd			719-591-0880			Open daily 5:00 AM-11:00 PM
+US			CO			Vail			81657			Safeway			2131 N. Frontage Rd. W.			970-476-3561			Open daily 6:00 AM-11:00 PM
+US			CO			Colorado Springs			80906			Safeway			6520 S. Academy Blvd			719-527-0146			Open daily 5:00 AM-11:00 PM
+US			CO			Leadville			80461			Safeway			1900 Poplar Way			719-486-0795			Open daily 12:00 AM-10:00 PM
+US			CO			Fort Morgan			80701			Safeway			620 W. Platte Ave.			970-867-3377			Open daily 6:00 AM-10:00 PM
+US			CO			Fountain			80817			Safeway			6925 Mesa Ridge Pkwy			719-322-9351			Open daily 5:00 AM-Midnight
+US			WY			Cheyenne			82007			Safeway			700 S. Greeley Hwy.			307-635-7877			Open daily 6:00 AM-10:00 PM
+US			CO			Canon City			81212			Safeway			1414 Main St.			719-275-5221			Open daily 6:00 AM-11:00 PM
+US			WY			Cheyenne			82001			Safeway			469 Cole Ctr.			307-632-5171			Open daily 6:00 AM-Midnight
+US			CO			Salida			81201			Safeway			232 G St.			719-539-3513			Open daily 6:00 AM-10:00 PM
+US			CO			Pueblo			81007			Safeway			1017 N Market Plaza			719-547-2108			Open daily 6:00 AM-11:00 PM
+US			CO			Pueblo			81008			Safeway			617 W. 29Th			719-545-1095			Open daily 6:00 AM-11:00 PM
+US			CO			Pueblo			81001			Safeway			1322 E. 8Th St.			719-542-2931			Open daily 6:00 AM-11:00 PM
+US			WY			Laramie			82070			Safeway			554 N. Third St.			307-721-5107			Open daily 6:00 AM-11:00 PM
+US			CO			Steamboat Springs			80477			Safeway			37500 E. U.S. Hwy 40			970-879-3766			Open daily 6:00 AM-11:00 PM
+US			CO			Pueblo			81005			Safeway			1231 So. Prairie			719-561-1234			Open daily 6:00 AM-11:00 PM
+US			CO			Glenwood Springs			81601			Safeway			2001 Grand			970-945-2002			Open Daily 6:00AM-11:00PM
+US			CO			Craig			81625			Safeway			1295 Victory Way			970-824-9496			Open daily 5:00 AM-11:00 PM
+US			WY			Wheatland			82201			Safeway			1307 16Th St.			307-322-4530			Open daily 6:00 AM-10:00 PM
+US			CO			Walsenburg			81089			Safeway			222 W. Seventh			719-738-3301			Open daily 7:00 AM-9:00 PM
+US			CO			La Junta			81050			Safeway			315 W. 2Nd St			719-384-4861			Open daily 6:00 AM-9:00 PM
+US			CO			Trinidad			81082			Safeway			457 W. Main St.			719-846-2246			Open daily 6:00 AM-10:00 PM
+US			CO			Alamosa			81101			Safeway			1301 Main St.			719-587-3075			Open daily 6:00 AM-11:00 PM
+US			CO			Monte Vista			81144			Safeway			1200 Second Ave.			719-852-5121			Open daily 7:00 AM-9:00 PM
+US			CO			Grand Junction			81506			Safeway			681 Horizon Dr			970-254-0227			Open daily 5:00 AM-Midnight
+US			CO			Grand Junction			81504			Safeway			2901 F Rd.			970-248-9869			Open daily 5:00 AM-Midnight
+US			CO			Grand Junction			81503			Safeway			2148 Brd.Way Blvd.			970-243-4204			Open daily 6:00 AM-10:00 PM
+US			CO			Delta			81416			Safeway			1550 Hwy 92			970-874-9032			Open daily 5:00 AM-11:00 PM
+US			CO			Montrose			81401			Safeway			1329 So. Townsend Ave.			970-249-8822			Open daily 6:00 AM-11:00 PM
+US			CO			Gunnison			81230			Safeway			112 So. Spruce St.			970-641-0787			Open daily 7:00 AM-10:00 PM
+US			NE			Scottsbluff			69361			Safeway			601 Brd.Way Blvd.			308-635-1232			Open daily 6:00 AM-9:00 PM
+US			NE			Sidney			69162			Safeway			1944 Illinois St.			308-254-4767			Mon-Sat: 6:00 AM-10:00 PM<br/>Sun: 7:00 AM-9:00 PM
+US			WY			Casper			82609			Safeway			300 E. Wyoming Blvd			307-577-7060			Open daily 6:00 AM-11:00 PM
+US			WY			Casper			82604			Safeway			1375 Cy Ave			307-265-3232			Open daily 6:00 AM-10:00 PM
+US			WY			Douglas			82633			Safeway			1900 E. Richards			307-358-3446			Open daily 6:00 AM-10:00 PM
+US			AZ			Florence			85232			Safeway			3325 N. Hunt Highway			520-723-0179			Open daily 5:00 AM-10:00 PM
+US			AZ			Queen Creek			85242			Safeway			18495 E Queen Creek Rd.			480-279-2733			Open daily 5:00 AM-Midnight
+US			AZ			Coolidge			85228			Safeway			1449 N. Arizona Blvd			520-723-5300			Open daily 6:00 AM-11:00 PM
+US			AZ			Mesa			85208			Safeway			9101 E. Baseline			480-281-0161			Open daily 5:00 AM-Midnight
+US			AZ			Apache Junction			85220			Safeway			3185 W. Apache Trail			480-982-6120			Open daily 5:00 AM-Midnight
+US			AZ			Gilbert			85296			Safeway			90 S. Val Vista Dr.			480-545-7555			Open daily 5:00 AM-Midnight
+US			AZ			Gilbert			85234			Safeway			5137 E. Baseline Rd			480-325-5807			Open daily 5:00 AM-Midnight
+US			AZ			Mesa			85206			Safeway			3622 E. Southern Ave.			480-807-0447			Open daily 5:00AM-11:00PM
+US			AZ			Chandler			85248			Safeway			4970 S. Alma School Rd.			480-883-0255			Open daily 5:00 AM-Midnight
+US			AZ			Chandler			85225			Safeway			1060 E. Ray Rd			480-855-5005			Open daily 5:00 AM-Midnight
+US			AZ			Mesa			85207			Safeway			1855 N. Power Rd			480-281-2972			Open daily 5:00 AM-Midnight
+US			AZ			Chandler			85224			Safeway			1159 W. Chandler Blvd			480-726-7776			Open daily 5:00 AM-Midnight
+US			AZ			Mesa			85213			Safeway			2740 E. University Dr.			480-833-9338			MON-SUN 6AM-11PM
+US			AZ			Casa Grande			85222			Safeway			1637 N. Trekell Rd			520-421-7447			Open daily 5:00 AM-Midnight
+US			AZ			Mesa			85202			Safeway			1225 W. Guadalupe			480-838-7452			Open daily 5:00 AM-Midnight
+US			AZ			Tempe			85284			Safeway			1515 E. Elliot Rd.			480-755-1844			Open daily 5:00 AM-Midnight
+US			AZ			Mesa			85201			Safeway			1960 W. Main St.			480-644-9448			Open daily 5:00 AM-1:00 AM
+US			AZ			Tempe			85282			Safeway			926 E. Broadway Rd.			480-829-6824			Open daily 5:00 AM-1:00 AM
+US			AZ			Phoenix			85044			Safeway			4005 E. Chandler Blvd			480-759-9611			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85044			Safeway			4747 E. Elliot Rd			480-496-0076			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85048			Safeway			1334 E. Chandler Blvd			480-283-0032			Open daily 5:00 AM-Midnight
+US			AZ			Fountain Hills			85268			Safeway			13733 Fountain Hills Blvd			480-837-0287			Open daily 5:00 AM-Midnight
+US			AZ			Scottsdale			85250			Safeway			7920 E. Chaparral			480-994-5653			Open daily 5:00 AM-Midnight
+US			AZ			Scottsdale			85259			Safeway			11275 E. Via Linda			480-451-0006			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85040			Safeway			6202 S. 16Th St.			602-268-0022			Open daily 6:00 AM-10:00 PM
+US			AZ			Phoenix			85018			Safeway			4750 E. Indian School Rd.			602-840-2161			Open daily 5:00 AM-Midnight
+US			AZ			Scottsdale			85254			Safeway			10773 N. Scottsdale Rd			480-948-6446			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85016			Safeway			3132 E. Camelback Rd			602-955-6455			Open daily 5:00 AM-Midnight
+US			AZ			Scottsdale			85260			Safeway			14696 N. Frank Lloyd Wright Blvd.			480-391-1090			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85004			Safeway			340 E. Mcdowell			602-252-4538			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85013			Safeway			520 W. Osborn Rd.			602-274-7422			Open daily 5:00 AM-Midnight
+US			AZ			Scottsdale			85254			Safeway			6501 E Greenway Pkwy. Bldg 4			480-991-3317			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85339			Safeway			5035 W. Baseline Rd.			602-567-7561			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85020			Safeway			810 E. Glendale Ave.			602-331-0134			Open daily 5:00 AM-1:00 AM
+US			AZ			Scottsdale			85255			Safeway			20901 N. Pima Rd.			480-585-3552			Open daily 6:00 AM-11:00 PM
+US			AZ			Scottsdale			85254			Safeway			4857 E. Greenway			602-996-5635			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85032			Safeway			3131 E. Thunderbird Rd			602-971-2137			Open daily 5:00 AM-Midnight
+US			AZ			Miami			85539			Safeway			2448 E. US Hwy 60			928-425-7667			Open daily 5:00 AM-Midnight
+US			AZ			Scottsdale			85255			Safeway			23565 N. Scottsdale Rd			480-585-9366			Open daily 6:00 AM-Midnight
+US			AZ			Phoenix			85022			Safeway			13440 N. 7Th St.			602-547-1288			Open daily 5:00 AM-Midnight
+US			AZ			Globe			85501			Safeway			240 S. Hill St.			928-425-5390			Open daily 5:00 AM-11:00 PM
+US			AZ			Phoenix			85051			Safeway			8021 N. 35Th Ave			602-841-0117			Open daily 5:00 AM-11:00 PM
+US			AZ			Phoenix			85022			Safeway			550 E. Bell Rd			602-863-4194			Open daily 5:00 AM-Midnight
+US			AZ			Glendale			85302			Safeway			5080 W. Olive			623-937-2522			Open daily 9:00 AM-7:00 PM
+US			AZ			Phoenix			85033			Safeway			4811 N. 83Rd Ave			623-247-4447			Open daily 5:00 AM-Midnight
+US			AZ			Phoenix			85023			Safeway			3450 W. Bell Rd			602-863-1431			Open daily 5:00 AM-11:00 PM
+US			AZ			Scottsdale			85266			Safeway			32551 N. Scottsdale Rd			480-595-9844			Open daily 6:00 AM-11:00 PM
+US			AZ			Peoria			85345			Safeway			6817 W. Peoria			623-412-2318			Open daily 6:00 AM-10:00 PM
+US			AZ			Cave Creek			85331			Safeway			29834 N.Cave Creek Rd			480-563-9335			Open daily 5:00 AM-Midnight
+US			AZ			Glendale			85306			Safeway			5860 W. Thunderbird			602-863-9700			Open daily 5:00 AM-11:00 PM
+US			AZ			Peoria			85381			Safeway			12320 N. 83Rd Ave			623-773-1109			Open daily 6:00 AM-11:00 PM
+US			AZ			Phoenix			85310			Safeway			3800 W. Happy Valley Rd			623-518-1946			Open daily 5:00 AM-Midnight
+US			AZ			Peoria			85345			Safeway			10641 W. Olive Ave			623-583-7227			Open daily 5:00 AM-Midnight
+US			AZ			Glendale			85308			Safeway			20205 N. 67Th Ave No.100			623-572-8814			Open daily 5:00 AM-Midnight
+US			AZ			Goodyear			85338			Safeway			440N. Estrella Pkwy.			623-476-1708			Open daily 5:00 AM-1:00 AM
+US			AZ			Goodyear			85338			Safeway			14175 W. Indian School Rd.			623-935-3228			Open daily 5:00 AM-Midnight
+US			AZ			Goodyear			85338			Safeway			9890 S. Estrella Pkwy.			623-691-6417			Open daily 5:00 AM-11:00 PM
+US			AZ			Sun City			85351			Safeway			10926 W. Bell Rd			623-972-1350			Open daily 5:00 AM-11PM
+US			AZ			Surprise			85379			Safeway			13828 W. Waddell Rd.			623-476-1810			Open daily 5:00 AM-11:00 PM
+US			AZ			Sun City West			85375			Safeway			13503 Camino Del Sol			623-975-2304			Open daily 5:00 AM-11:00 PM
+US			AZ			Tuscon			85743			Safeway			9100 N. Silverbell Rd			520-579-8365			5:00AM-11:00PM Daily
+US			AZ			Surprise			85374			Safeway			14505 W. Grand Ave			623-975-4022			Open daily 6:00 AM- 11:00 PM
+US			AZ			Anthem			85086			Safeway			3655 W. Anthem Way .			623-551-0200			Open daily 5:00 AM-Midnight
+US			AZ			Oro Valley			85737			Safeway			12122 N Rancho Vistoso Blv			520-297-4344			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85742			Safeway			9705 N. Thornydale Rd			520-579-1083			Open daily 6:00 AM-Midnight
+US			AZ			Surprise			85374			Safeway			17049 West Bell Rd.			623-518-1059			Open daily 5:00 AM-Midnight
+US			AZ			Peoria			85383			Safeway			28455 N.Vistancia Blvd			623-243-9204			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85704			Safeway			7110 N. Oracle			520-575-0949			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85718			Safeway			4752 E. Sunrise Dr.			520-299-3534			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85745			Safeway			2140 W. Grant			520-792-0083			Open daily 6:00 AM-Midnight
+US			AZ			Tucson			85719			Safeway			1767 E. Prince Rd			520-327-2287			Open daily 6:00 AM-Midnight
+US			AZ			Tucson			85745			Safeway			1551 W St. Marys Rd			520-624-8442			Open daily 6:00 AM-Midnight
+US			AZ			Tucson			85719			Safeway			1940 E. Brd.Way Blvd			520-206-9047			Open 24 hours
+US			AZ			Tucson			85712			Safeway			5548 E. Grant			520-298-1962			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85715			Safeway			7177 E. Tanque Verde			520-731-0117			Open daily 5:00 AM-Midnight
+US			AZ			Payson			85541			Safeway			401 E. Hwy 260			928-472-8208			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85749			Safeway			9125 E. Tanque Verde			520-760-6087			Open daily 6:00 AM-Midnight
+US			AZ			Tucson			85746			Safeway			2940 W. Valencia			520-578-0144			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85710			Safeway			8740 E. Brd.Way Blvd			520-885-1617			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85730			Safeway			6360 E. Golf Links			520-514-2008			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85748			Safeway			10380 E. Brd.Way Blvd			520-546-3929			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85730			Safeway			9460 E. Golf Links			520-296-0042			Open daily 5:00 AM-Midnight
+US			AZ			Tucson			85747			Safeway			9050 E. Valencia Rd			520-663-0009			Open daily 5:00 AM-Midnight
+US			AZ			Wickenburg			85390			Safeway			1999 W. Wickenburg Way			928-684-2999			Open daily 5:00 AM-11:00 PM
+US			AZ			Sahuarita			85629			Safeway			1301 W. Duval Mine Rd			520-648-2847			Open daily 5:00 AM-Midnight
+US			AZ			Green Valley			85614			Safeway			260 W. Continental			520-625-7283			Open daily 5:00 AM-11:00 PM
+US			AZ			Prescott			86301			Safeway			450 White Spar Rd			928-778-3086			Open daily 6:00 AM-11:00 PM
+US			AZ			Prescott Valley			86314			Safeway			7720 E. Hwy 69			928-772-6125			Open daily 5:00 AM-Midnight
+US			AZ			Prescott			86301			Safeway			1044 Willow Creek Rd			928-445-4550			Open daily 5:00 AM-Midnight
+US			AZ			Cottonwood			86326			Safeway			1635 E. Cottonwood Ln			928-634-3711			Open daily 5:00 AM-Midnight
+US			AZ			Chino Valley			86323			Safeway			1031 N. Us Hwy 89			520-636-8358			Open daily 5:00 AM-Midnight
+US			AZ			Sedona			86336			Safeway			2300 W. Hwy 89A			928-282-0118			Open daily 5:00 AM-11:00 PM
+US			CA			El Centro			92243			Vons			750 N. Imperial Ave			760-353-4603			Open daily 5:00 AM-1:00 AM
+US			CA			Brawley			92227			Vons			475 W. Main St.			760-351-3002			Open daily 5:00 AM-1:00 AM
+US			AZ			Winslow			86047			Safeway			1601 N. Park Dr.			928-289-3126			Open daily 5:00 AM-10:00 PM
+US			AZ			Show Low			85901			Safeway			900 W. Deuce Of Clubs			928-532-5656			Open daily 5:00 AM-11:00 PM
+US			AZ			Flagstaff			86001			Safeway			1201 S. Plaza Way			928-779-3401			Open daily 5:00 AM-Midnight
+US			AZ			Flagstaff			86004			Safeway			4910 N. Hwy 89			928-526-6116			Open daily 5:00 AM-Midnight
+US			AZ			Flagstaff			86004			Safeway			1500 E. Cedar Ave			928-774-3774			Open daily 5:00 AM-Midnight
+US			AZ			Lakeside			85929			Safeway			20 W. White Mountain Blvd			928-367-6677			Open daily 5:00 AM-Midnight
+US			AZ			Holbrook			86025			Safeway			702 W. Hopi Dr.			928-524-3313			Open daily 6:00 AM-10:00 PM
+US			AZ			Williams			86046			Safeway			637 W. Route 66			928-635-0500			Open daily 5:00 AM-Midnight
+US			AZ			Nogales			85621			Safeway			465 West Mariposa Rd.			520-281-4929			Open daily 5:00 AM-1:00 AM
+US			AZ			Sierra Vista			85635			Safeway			2190 E. Fry Blvd			520-459-4204			Open daily 5:00 AM-Midnight
+US			AZ			Benson			85602			Safeway			599 W. 4Th. St.			520-586-9094			Open daily 6:00 AM-Midnight
+US			AZ			Bisbee			85603			Safeway			101 Naco Rd.			520-432-3038			Open daily 6:00 AM-Midnight
+US			AZ			Willcox			85643			Safeway			650 N. Bisbee Ave			520-384-3952			Open daily 6:00 AM-Midnight
+US			AZ			Thatcher			85552			Safeway			2125 W. Highway 70			928-428-2771			Open daily 5:00 AM-Midnight
+US			AZ			Lake Havasu			86403			Safeway			1650 Mcculloch Blvd N			928-855-7760			Open daily 5:00 AM-Midnight
+US			AZ			Parker			85344			Safeway			121 W. Riverside Dr.			928-669-2243			Open daily 5:00 AM-11:00 PM
+US			AZ			Fort Mohave			86427			Safeway			4823 S. Hwy 95			928-704-4433.			Open Daily 5:00AM-1:00AM
+US			AZ			Bullhead City			86442			Safeway			1751 Hwy 95			928-763-3555			Open daily 5:00 AM-1:00 AM
+US			AZ			Kingman			86401			Safeway			3125 Stockton Hill			928-753-2943			Open daily 5:00 AM-Midnight
+US			AZ			Kingman			86401			Safeway			3970 Stockton Hill Rd			928-681-4900			Open daily 5:00 AM-Midnight
+US			NV			Henderson			89002			Vons			45 E. Horizon Ridge Pkwy.			702-558-3966			Open 24 hours
+US			NV			Boulder City			89005			Vons			1031 Nevada Hwy			702-293-5159			Open 24 hours
+US			NV			Henderson			89014			Vons			2667 E. Windmill Pkwy			702-361-0099			Open 24 hours
+US			NV			Henderson			89052			Vons			2511 Anthem Village			702-617-2505			Open 24 hours
+US			NV			Las Vegas			89119			Vons			1131 E. Tropicana Ave			702-798-8697			Open 24 hours
+US			NV			Las Vegas			89123			Vons			475 E. Windmill Ln			702-896-7544			Open 24 hours
+US			NV			Las Vegas			89169			Vons Fuel Station			1185 E. Twain Ave			702-696-0906			Open 24 Hours
+US			NV			Las Vegas			89169			Vons			1155 E. Twain Ave			702-696-0906			Open 24 hours
+US			NV			Las Vegas			89113			Vons			7405 S. Durango Dr.			702-263-4568			Open 24 hours
+US			NV			Las Vegas			89117			Vons			8540 W. Desert Inn Rd.			702-240-0293			Open 24 hours
+US			NV			Las Vegas			89128			Vons			7530 W. Lake Mead Blvd			702-228-6099			Open 24 hours
+US			NV			Las Vegas			89145			Vons			820 S. Rampart Blvd			702-946-5330			Open 24 hours
+US			NV			Las Vegas			89134			Vons			1940 Village Ctr Cir.			702-240-3755			Open 24 hours
+US			NV			Las Vegas			89131			Vons			6450 Sky Pointe Dr.			702-515-1815			Open 24 hours
+US			NV			Lovelock			89419			Safeway			400 Dartmouth Ave			775-273-2418			Open daily 7:00 AM-10:00 PM
+US			NV			Fallon			89406			Safeway			890 W. Williams			775-428-2330			Open 24 hours
+US			NV			Sparks			89436			Safeway			2858 Vista Blvd.			775-352-8470			Open 24 hours
+US			NV			Sparks			89436			Safeway Fuel Station			2808 Vista Blvd.			775-352-8470			Open 24 Hours
+US			NV			Reno			89523			Safeway			5150 Mae Anne Ave			775-746-9000			Open 24 hours
+US			NV			Reno			89523			Safeway Fuel Station			5150F Mae Ann Ave.			775-746-9000			Open 24 Hours
+US			CA			Kings Beach			96143			Safeway			7815 N. Lake Blvd			530-546-0170			Open 24 hours
+US			CA			Truckee			96161			Safeway			11290 Donner Pass Rd			530-582-7950			Open 24 hours
+US			CA			Tahoe City			96145			Safeway			850 No Lake Blvd			530-583-2772			Open daily 6:00 AM-10:00 PM
+US			NV			Zephyr Cove			89448			Safeway			212 Elk Point Dr			775-586-8387			Open 24 hours
+US			CA			South Lake Tahoe			96150			Safeway			1020 Johnson Ln			530-542-7740			Open 24 hours
+US			CA			Quincy			95971			Safeway			20 E Main St			530-283-1404			Open daily 6:00 AM-1:00 AM
+US			CA			Pollock Pines			95726			Safeway			6498 Pony Express Trail			530-647-7440			Open 24 hours
+US			CA			Grass Valley			95945			Safeway			867 Sutton Way			530-273-2249			Open daily 5:00 AM-1:00 AM
+US			CA			Grass Valley			95945			Safeway			105 Neal St			530-273-0115			Open daily 6:00 AM-Midnight
+US			CA			Susanville			96130			Safeway			2970 Main St.			530-257-2029			Open 24 hours
+US			CA			Placerville			95667			Safeway			3955 Missouri Flat Rd.			530-295-2972			Open 24 hours
+US			CA			Auburn			95603			Safeway			2550 Bell Rd			530-887-3230			Open daily 6:00 AM-Midnight
+US			CA			Cameron Park			95682			Safeway			3380 Coach Ln			530-676-6930			Open 24 hours
+US			CA			El Dorado Hills			95762			Safeway			2207 Francisco Dr.			916-939-9456			Open 24 hours
+US			NV			Hawthorne			89415			Safeway			Hwy 95			775-945-2159			Open daily 6:00 AM-10:00 PM
+US			CA			Rocklin			95677			Safeway			4805 Granite Dr			916-624-0669			Open daily 6:00 AM-Midnight
+US			CA			Lincoln			95648			Safeway			405 S. Hwy 65			916-408-0800			Open 24 hours
+US			CA			Rocklin			95677			Safeway			2220 Sunset Blvd			916-789-0101			Open daily 5:30 AM-Midnight
+US			CA			Roseville			95661			Safeway			8640 Sierra College Blvd			916-783-2225			Open 24 hours
+US			CA			Folsom			95630			Safeway			1850 Prairie City Rd			916-608-2450			Open 24 hours
+US			CA			Roseville			95678			Safeway			1080 Pleasant Grove Blvd.			916-783-2119			Mon-Fri 9:00AM-8:00PM<br/> Sat-Sun 9:00AM-5:00PM
+US			CA			Jackson			95642			Safeway			12110 Industry Rd.			209-257-0779			Open 24 hours
+US			CA			Roseville			95661			Safeway			989 Sunrise Blvd.			916-773-4001			Open daily 5:30 AM-Midnight
+US			CA			Roseville			95747			Safeway			9045 Woodcreek Oaks Blvd.			916-780-9919			Open 24 hours
+US			CA			Fair Oaks			95628			Safeway			8925 Madison Ave.			916-965-1034			Open 24 hours
+US			CA			Paradise			95969			Safeway			6020 Clark Rd			530-877-7923			Open daily 6:00 AM-Midnight
+US			CA			Citrus Heights			95621			Safeway			7301 Greenback Lane			916-727-2424			Open daily 6:00 AM-Midnight
+US			CA			Fair Oaks			95628			Safeway			5450 Dewey Dr.			916-904-5356			Open daily 5:00 AM-Midnight
+US			CA			Sonora			95370			Safeway			1291 Sanguinetti Rd			209-533-7810			Open daily 6:00 AM-1:00 AM
+US			CA			Rancho Cordova			95670			Safeway			10635 Folsom Blvd			916-364-4940			Open daily 5:00 AM-Midnight			Open daily 5:00 AM-11:00 PM
+US			CA			Sacramento			95842			Safeway			5345 Elkhorn Blvd			916-331-2987			Open daily 6:00 AM-Midnight
+US			CA			Carmichael			95608			Safeway			4040 Manzanita Ave			916-481-2005			Open daily 5:00 AM-Midnight
+US			CA			Sacramento			95825			Safeway			3320 Arden Way			916-483-9389			Open daily 5:00 AM-Midnight
+US			CA			Inglewood			90301			Vons			500 E. Manchester Blvd			310-677-0286			Open daily 5:00 AM-1:00 AM
+US			CA			Gardena			90247			Vons			1260 W Redondo Beach Blvd			310-767-7920			Open daily 6:00 AM-Midnight
+US			CA			Los Angeles			90020			Vons			3461 West Third St.			213-384-6552			Open 24 hours
+US			CA			Los Angeles			90027			Vons			1342 N. Alvarado			213-483-5573			Open daily 6:00 AM-Midnight
+US			CA			Redondo Beach			90278			Vons			4001 Inglewood Ave			310-349-0860			Open daily 6:00 AM-Midnight
+US			CA			Culver City			90230			Pavilions			11030 Jefferson Blvd			310-398-1945			Open daily 6:00 AM-Midnight
+US			CA			Los Angeles			90019			Vons			1430 S. Fairfax Ave			323-939-9335			Open daily 6:00 AM-Midnight
+US			CA			Montebello			90640			Vons			804 Beverly Blvd			323-722-1706			Open daily 6:00 AM-Midnight
+US			CA			Los Angeles			90038			Pavilions			727 N. Vine St.			323-461-4167			Open 24 hours
+US			CA			Los Angeles			90028			Vons			4520 Sunset Blvd			323-662-8107			Open 24 hours
+US			CA			Los Angeles			90045			Vons			6571 W. 80Th St.			310-641-9423			Open daily 6:00 AM-10:00 PM
+US			CA			Los Angeles			90034			Vons			9860 National Blvd			310-836-4161			Open daily 6:00 AM-Midnight
+US			CA			Long Beach			90807			Vons			4550 Atlantic Ave			562-984-1421			Open daily 6:00 AM-Midnight
+US			CA			Lakewood			90712			Vons			4001 Hardwick Ave.			562-602-0030			Open daily 6:00 AM-Midnight
+US			CA			Beverly Hills			90212			Pavilions			9467 W. Olympic Blvd			310-553-5734			Open daily 5:00 AM-1:00 AM
+US			CA			Los Angeles			90066			Vons			4030 Centinela Ave			310-391-1503			Open daily 6:00 AM-1:00 AM
+US			CA			Glendale			91204			Vons			311 W. Los Feliz Blvd			818-246-7161			Open daily 6:00 AM-Midnight
+US			CA			Los Angeles			90034			Vons			3118 S. Sepulveda Blvd			310-477-8717			Open daily 6:00 AM-1:00 AM
+US			CA			Marina Del Rey			90292			Pavilions			4365 Glencoe Ave			310-821-7208			Open daily 5:00 AM-1:00 AM
+US			CA			West Hollywood			90069			Pavilions			8969 Santa Monica Blvd			310-595-1730			Open 24 hours
+US			CA			Manhattan Beach			90266			Vons			410 Manhattan Beach Blvd			310-379-3051			Open daily 6:00 AM-10:00 PM
+US			CA			Lakewood			90713			Pavilions			5500 Woodruff Ave			562-866-3781			Open daily 5:00 AM-1:00 AM
+US			CA			Redondo Beach			90277			Vons			1212 Beryl St			310-374-7987			Open daily 6:00 AM-Midnight
+US			CA			Hermosa Beach			90254			Vons			715 Pier Ave.			310-374-4484			Open 24 hours
+US			CA			Torrance			90503			Vons			4705 Torrance Blvd			310-370-1136			Open daily 6:00 AM-Midnight
+US			CA			Los Angeles			90041			Vons			7311 N. Figueroa St.			323-254-5716			Open daily 5:00 AM-Midnight
+US			CA			South Pasadena			91030			Pavilions			1213 S. Fair Oaks Ave			626-799-2261			Open daily 5:30 AM-Midnight
+US			CA			South Pasadena			91030			Vons			1129 S. Fair Oaks Ave			626-441-3898			Open daily 6:00 AM-11:00 PM
+US			CA			Lakewood			90713			Vons			4226 Woodruff Ave			562-496-4144			Open daily 5:00 AM-Midnight
+US			CA			Pasadena			91105			Vons			155 California Blvd			626-577-7149			Open Daily 24 Hours
+US			CA			Glendale			91206			Vons			561 N Glendale Ave.			818-242-5926			Open daily 6:00 AM-Midnight
+US			CA			Torrance			90503			Vons			24325 Crenshaw Blvd			310-784-1020			Open Daily 5:00AM-1:00AM
+US			CA			Pasadena			91106			Pavilions			845 E. California St			626-449-3968			Open daily 6:00 AM-Midnight
+US			CA			Redondo Beach			90277			Vons			245 Palos Verdes Blvd			310-378-7434			Open daily 6:00 AM-Midnight
+US			CA			Burbank			91506			Pavilions			1110 W. Alameda Ave			818-567-0257			Open daily 6:00 AM-Midnight
+US			CA			Long Beach			90808			Pavilions			5949 E. Spring St			562-496-2151			Open daily 6:00 AM-Midnight
+US			CA			Burbank			91505			Vons			301 N. Pass Ave			818-848-9542			Open 24 hours
+US			CA			Pasadena			91103			Vons			655 N. Fair Oaks Ave			626-578-1233			Open daily 6:00 AM-Midnight
+US			CA			Santa Monica			90401			Vons			710 Brd.Way			310-260-0260			Open daily 6:00 AM-1:00 AM
+US			CA			Long Beach			90815			Vons			1820 Ximeno Ave			562-498-2111			Open daily 6:00 AM-Midnight
+US			CA			Santa Monica			90403			Vons			1311 Wilshire Blvd			310-394-1414			Open daily 6:00 AM-Midnight
+US			CA			Studio City			91604			Vons			4033 Laurel Canyon Blvd			818-985-5401			Open 24 hours
+US			CA			Pasadena			91107			Vons			2355 East Colorado Blvd			626-744-2615			Open daily 6:00AM-Midnight
+US			CA			Long Beach			90802			Vons			600 E. Broadway			562-491-1210			Open daily 6:00 AM-Midnight
+US			CA			Whittier			90603			Vons			15740 Laforge St.			562-943-0516			Open daily 6:00 AM-11:00 PM
+US			CA			Santa Monica			90403			Pavilions			820 Montana Ave			310-395-1682			Open daily 5:00 AM-1:30 AM
+US			CA			Arcadia			91007			Pavilions			745 E. Naomi Ave			626-446-9483			Open daily 6:00 AM-Midnight
+US			CA			Rolling Hills Estates			90274			Pavilions			7 Peninsula Ctr			310-377-1994			Open daily 6:00 AM-11:00 PM
+US			CA			Pasadena			91104			Vons			1390 N. Allen Ave.			626-798-7603			Open daily 6:00 AM-Midnight
+US			CA			Los Alamitos			90720			Vons			11322 Los Alamitos Blvd			562-493-3567			Open daily 5:00 AM-Midnight
+US			CA			Long Beach			90803			Vons			3900 E. Ocean Ave			562-987-3122			Open daily 6:00 AM-Midnight
+US			CA			Montrose			91020			Vons			2039 Verdugo Blvd			818-249-4595			Open daily 6:00 AM-Midnight
+US			CA			Hacienda Heights			91745			Vons			2122 S. Hacienda Blvd.			626-330-4216			Open daily 6:00 AM-Midnight
+US			CA			La Habra			90631			Vons			2101 W. Imperial Hwy			562-905-2800			Open daily 6:00 AM-Midnight
+US			CA			San Pedro			90731			Vons			1221 S. Gaffey St.			310-832-7063			Open daily 6:00 AM-Midnight
+US			CA			Sherman Oaks			91403			Pavilions			14845 Ventura Blvd			818-986-7213			Open daily 6:00 AM-Midnight
+US			CA			La Crescenta			91214			Vons			3233 Foothill Blvd.			818-658-1018			Open daily 5:00 AM-Midnight
+US			CA			San Pedro			90732			Vons			1440 W. 25Th St			310-832-8459			Open daily 5:00 AM-Midnight
+US			CA			Garden Grove			92845			Vons			11861 Valley View St.			714-889-9955			Open daily 5:00 AM-1:00 AM
+US			CA			Seal Beach			90740			Pavilions			1101 Pacific Coast Hwy			562-370-1937			Open daily 5:00 AM-Midnight
+US			CA			Pacific Palisades			90272			Vons			17380 Sunset Blvd			310-454-2502			Open daily 5:00 AM-1:00 AM
+US			CA			Monrovia			91016			Pavilions			130 W. Foothill Blvd			626-303-4547			Open daily 5:00 AM-Midnight
+US			CA			West Covina			91790			Vons			777 Glendora Ave			626-337-5615			Open Daily 6:00AM-11:00PM
+US			CA			Tujunga			91042			Vons			7789 Foothill Blvd			818-353-4917			Open daily 6:00 AM-Midnight
+US			CA			Brea			92821			Vons			780 N. Brea Blvd			714-529-4941			Open daily 6:00 AM-Midnight
+US			CA			Tarzana			91356			Vons			18439 Ventura Blvd			818-881-5527			Open daily 6:00 AM-Midnight
+US			CA			Huntington Beach			92649			Vons			5922 Edinger Ave			714-846-6356			Open daily 6:00 AM-1:00 AM
+US			CA			Anaheim			92805			Vons			130 W. Lincoln			714-535-2288			Open daily 6:00 AM-1:00 AM
+US			CA			Walnut			91789			Vons			350 N. Lemon Ave			909-595-6465			Open daily 6:00 AM-Midnight
+US			CA			Woodland Hills			91364			Vons			19800 W. Ventura Blvd			818-703-5106			6:00AM-Midnight
+US			CA			Reseda			91335			Vons			19333 Victory Blvd			818-881-7020			Open daily 6:00 AM-Midnight
+US			CA			Westminster			92683			Pavilions			16450 Beach Blvd			714-842-8515			Open daily 5:00 AM-Midnight
+US			CA			Covina			91724			Vons			932 E. Badillo			626-967-0072			Open daily 6:00 AM-Midnight
+US			CA			Mission Hills			91345			Vons			10321 Sepulveda Blvd.			818-891-1352			Open daily 6:00 AM-Midnight
+US			CA			Garden Grove			92840			Vons			12961 W. Chapman			714-750-3663			Open daily 6:00 AM-Midnight
+US			CA			Glendora			91740			Vons			431 E. Arrow Hwy			626-914-6015			Open daily 6:00 AM-11:00 PM
+US			CA			Northridge			91324			Vons			9119 Reseda Blvd			818-349-2494			Open daily 6:00 AM-Midnight
+US			CA			Glendora			91740			Vons			435 Foothill Blvd			626-963-2913			Open daily 5:00 AM-Midnight
+US			CA			San Dimas			91773			Vons			1160 Via Verde Ave			909-592-3261			Open daily 6:00 AM-11:00 PM
+US			CA			Granada Hills			91344			Vons			16830 San Fernando Mission Bvd			818-831-8511			Open daily 6:00 AM-Midnight
+US			CA			Diamond Bar			91765			Vons			240 S. Diamond Bar Blvd.			909-861-4615			Open daily 5:00 AM-Midnight
+US			CA			Sylmar			91342			Vons			13730 Foothill Blvd			818-367-1849			Open daily 6:00 AM-11:00 PM
+US			CA			Woodland Hills			91364			Vons			23381 Mulholland Dr			818-223-3221			Open daily 6:00 AM-Midnight
+US			CA			Orange			92865			Vons			2684 N. Tustin Ave			714-637-6651			Open daily 6:00 AM-11:00 PM
+US			CA			Canoga Park			91304			Vons			8201 Topanga Canyon Blvd			818-703-5959			Open daily 6:00 AM-Midnight
+US			CA			West Hills			91307			Pavilions			6534 Platt Ave			818-999-5939			Open daily 6:00 AM-11:00 PM
+US			CA			Huntington Beach			92646			Vons			8891 Atlanta Ave			714-960-4747			Open daily 6:00 AM-1:00 AM
+US			CA			Chatsworth			91311			Vons			20440 Devonshire St.			818-341-7151			Open daily 5:00 AM-Midnight
+US			CA			Anaheim			92807			Vons			5600 Santa Ana Canyon Rd			714-998-3751			Open daily 5:00 AM-Midnight
+US			CA			Yorba Linda			92886			Vons			20445 Yorba Linda Blvd			714-777-0781			Open daily 6:00 AM-Midnight
+US			CA			Santa Ana			92704			Vons			3650 S Bristol St.			714-540-0510			Open daily 5:00 AM-2:00 AM
+US			CA			Costa Mesa			92626			Vons			2701 B. Harbor Blvd			714-751-4270			Open daily 6:00 AM-2:00 AM
+US			CA			Tustin			92780			Vons			17662 17Th St.			714-832-0883			Open daily 6:00 AM-Midnight
+US			CA			La Verne			91750			Vons			1600 Foothill Blvd.			909-593-2572			Open daily 5:00 AM-Midnight
+US			CA			Tustin			92780			Vons			550 E. First St			714-832-9996			Open daily 6:00 AM-Midnight
+US			CA			Anaheim Hills			92808			Pavilions			8010 E. Santa Ana Canyon Rd			714-282-7064			Open daily 6:00 AM-Midnight
+US			CA			Costa Mesa			92627			Vons			185 E. 17Th St.			949-515-3444			Open Daily 5:00AM-1:00AM
+US			CA			Newport Beach			92663			Pavilions			3100 West Balboa Blvd.			949-675-2395			Open Daily 6:00 AM-Midnight
+US			CA			Chino Hills			91709			Vons			4200 Chino Hills Pkwy Ste. 400			909-548-2828			Open daily 5:00 AM-Midnight
+US			CA			Agoura			91301			Vons			5671 Kanan Rd			818-991-2857			Open daily 6:00 AM-Midnight
+US			CA			Simi Valley			93063			Vons			5805 E. Los Angeles			805-522-1193			Open daily 6:00 AM-11:00 PM
+US			CA			Malibu			90265			Pavilions			29211 Heathercliff Rd			310-457-2401			Open daily 6:00 AM-Midnight
+US			CA			Newport Beach			92660			Pavilions			1000 Bayside Dr.			949-760-0975			Open daily 7:00 AM-10:00 PM
+US			CA			Irvine			92620			Pavilions			3901 Portola Pkwy.			714-544-3020			Open daily 5:00 AM-Midnight
+US			CA			Claremont			91711			Vons			550 E. Baseline Rd .			909-621-4644			Open daily 5:00 AM-Midnight
+US			CA			Santa Clarita			91351			Vons			16550 W. Soledad Canyon Rd			661-252-3838			Open daily 6:00 AM-Midnight
+US			CA			Newhall			91321			Vons			24160 Lyons Ave			661-259-9214			Open daily 6:00 AM-Midnight
+US			CA			Newport Beach			92660			Pavilions			2660 San Miguel Dr.			949-759-3880			Open daily 6:00 AM-Midnight
+US			CA			Thousand Oaks			91362			Pavilions			1135 Lindero Canyon Rd			818-597-1261			Open daily: 6:00 AM-11:00 PM
+US			CA			Valencia			91381			Vons			25850 N. The Old Rd			661-254-3570			Open daily 5:00 AM-Midnight
+US			CA			Simi Valley			93063			Pavilions			2938 Tapp Canyon Rd			805-426-6021			Open Daily 5:30AM-Midnight
+US			CA			Newport Coast			92657			Pavilions			21181 Newport Coast Dr.			949-718-4990			Open daily 6:00 AM-Midnight
+US			CA			Thousand Oaks			91361			Vons			2725 Agoura Rd			805-497-1921			Open daily: 6:00 AM-11:00 PM
+US			CA			Upland			91786			Vons			82 West Foothill Blvd			909-981-7709			Open daily 5:00 AM-Midnight
+US			CA			Saugus			91350			Vons			26518 Bouquet Canyon Rd			661-296-8682			Open daily 6:00 AM-Midnight
+US			CA			Santa Clarita			91355			Pavilions			27095 Mcbean Pkwy.			661-286-2508			Open daily 6:00 AM-Midnight
+US			CA			Simi Valley			93065			Vons			1855 E. Cochran St			805-522-9394			Open daily 6:00 AM-Midnight
+US			CA			Simi Valley			93065			Vons			660 E. Los Angeles Ave			805-526-0123			Open daily 6:00 AM-Midnight
+US			CA			Thousand Oaks			91362			Vons			2048 Avenida De Los Arboles			805-492-2497			Mon-Sat: 6:00 AM-Midnight<br/>Sun: 6:00 AM-10:00 PM
+US			CA			Rancho Cucamonga			91701			Vons			8778 19Th St.			909-989-1000			Open daily 5:00 AM-Midnight
+US			CA			Thousand Oaks			91360			Vons			1790 Moorpark Rd			805-497-1803			Mon-Sat: 7:00 AM-11:00 PM<br/>Sun: 7:00 AM-10:00 PM
+US			CA			Laguna Hills			92637			Vons			24270 El Toro			949-581-2771			Mon-Sat: 6:00AM-11:00PM Sun: 6:00AM-10:00PM
+US			CA			Laguna Beach			92651			Pavilions			600 N. Pacific Coast Hwy			949-494-3020			Open daily 6:00 AM-11:00 PM
+US			CA			Eastvale			91752			Vons			6170 Hamner Ave.			951-360-1901			Open daily 5:00 AM-Midnight
+US			CA			Corona			92879			Vons			369 Magnolia Ave			951-549-1900			Open daily 6:00 AM-Midnight
+US			CA			Rancho Cucamonga			91737			Vons			6351 Haven Ave			909-980-4277			Open daily 6:00 AM-Midnight
+US			CA			Newbury Park			91320			Vons			2100 Newbury Rd			805-498-1219			Open daily 6:00 AM-Midnight
+US			CA			Laguna Niguel			92677			Vons			27320 Alicia Pkwy			949-448-9244			Open daily 5:00 AM-1:00 AM
+US			CA			Mission Viejo			92692			Vons			28751 Los Alisos Blvd			949-380-1596			Open daily 6:00 AM-Midnight
+US			CA			Corona			92879			Vons			535 N. Mckinley St.			951-278-8012			Open daily 6:00 AM-Midnight
+US			CA			Moorpark			93021			Vons			4241 Tierra Rejada			805-530-3770			Open daily 6:00 AM-10:00 PM
+US			CA			Mission Viejo			92692			Pavilions			26022 Marguerite Pkwy.			949-582-0672			Open daily 5:30 AM-Midnight
+US			CA			Palmdale			93551			Vons			3027 Rancho Vista Blvd			661-265-9285			Open daily 5:00 AM-Midnight
+US			CA			Laguna Niguel			92677			Vons			30252 Crown Valley Pkwy			949-495-5081			Open daily 6:00 AM-11:00 PM
+US			CA			Avalon			90704			Vons			123 Metropole Ave			310-510-0280			Open daily 7:00 AM-10:00 PM
+US			CA			Rancho Santa Margarita			92688			Pavilions			22451 Antonio Pkwy			949-858-0164			Open Daily 5:00AM-Midnight
+US			CA			Riverside			92505			Vons			3840 La Sierra Ave			951-359-1580			Open daily 6:00 AM-Midnight
+US			CA			Fontana			92336			Vons			7390 Cherry Ave			909-429-3928			Open daily 6:00 AM-Midnight
+US			CA			Ladera Ranch			92694			Pavilions			25636 Crown Valley Pkwy			949-429-5400			Open Daily 5:30AM-Midnight
+US			CA			Camarillo			93012			Vons			5275 Mission Oaks Blvd			805-482-7933			Open daily 6:00 AM-Midnight
+US			CA			San Juan Capistrano			92675			Vons			32401 Camino Capistrano			949-661-7594			Open daily 6:00 AM-Midnight
+US			CA			Lancaster			93536			Vons			4033 W. Ave. L			661-722-7291			Open daily 5:00 AM-Midnight
+US			CA			Fillmore			93015			Vons			636 Ventura St			805-524-1445			Open daily 6:00 AM-Midnight
+US			CA			Corona			92883			Vons			11800 De Palma Rd			951-603-0809			Open Daily 5:00AM-Midnight
+US			CA			Camarillo			93010			Vons			820 Arneill Rd			805-482-8802			Open daily 6:00 AM-Midnight
+US			CA			Riverside			92506			Vons			3520 Riverside Plaza			951-342-7924			Open Daily 5:00AM-Midnight
+US			CA			Santa Paula			93060			Vons			576 W. Main St			805-525-6356			Open daily 6:00 AM-Midnight
+US			CA			Oxnard			93036			Vons			2101 N. Rose Ave			805-981-1495			Open daily 6:00 AM-Midnight
+US			CA			Oxnard			93030			Vons			450 S. Ventura Rd			805-240-7911			Open daily 6:00 AM-Midnight
+US			CA			Oxnard			93035			Vons			1291 S. Victoria Ave.			805-984-0651			Open Daily 6:00AM-Midnight
+US			CA			Ventura			93003			Vons			5688 Telephone Rd.			805-644-1021			Open daily 6:00 AM-Midnight
+US			CA			Lake Elsinore			92532			Vons			31564 Grape St.			951-245-2002			Open 5:00AM-2:00AM
+US			CA			Ventura			93003			Vons			6040 Telegraph Rd.			805-650-2150			Open daily 6:00 AM-Midnight
+US			CA			Ventura			93003			Vons			2764 E. Thompson Blvd.			805-648-0251			Open daily 6:00 AM-1:00 AM
+US			CA			Redlands			92374			Vons			522 N. Orange St			909-793-0447			Open Daily 5:00AM-Midnight
+US			CA			Ventura			93001			Vons			2433 Harbor Blvd			805-642-6761			Open daily 6:00 AM-Midnight
+US			CA			Sun City			92586			Vons			27220 Sun City Blvd			951-679-0127			Open daily 6:00 AM-10:00 PM
+US			CA			Ventura			93001			Vons			115 W. Main St			805-653-6874			Open daily 6:00 AM-10:00 PM
+US			CA			Victorville			92395			Vons			12199 Hesperia Rd.			760-241-2288			Open daily 6:00 AM-midnight
+US			CA			Ojai			93023			Vons			1125 Maricopa Hwy			805-646-4669			Open daily 6:00 AM-Midnight
+US			CA			Yucaipa			92399			Vons			33644 Yucaipa Blvd			909-797-7052			Open daily 5:00 AM-Midnight
+US			CA			Murrieta			92563			Vons			38995 Sky Canyon Dr.			951-600-9583			Open daily 5:00 AM-Midnight
+US			CA			Temecula			92591			Vons			29530 Rancho California Rd			951-695-6773			Open daily 6:00 AM-Midnight
+US			CA			Hemet			92545			Vons			3125 W. Florida St.			951-658-0111			Open daily 6:00 AM-11:00 PM
+US			CA			Oceanside			92057			Vons			845 College Blvd			760-630-4884			Open daily 6:00 AM-1:00 AM
+US			CA			Carlsbad			92008			Vons			2560 El Camino Real			760-729-2771			Open daily 5:00 AM-1:00 AM
+US			CA			Carlsbad			92008			Vons			985 Tamarack Ave			760-729-4722			Open daily 6:00 AM-Midnight
+US			CA			Carpinteria			93013			Vons			850 Linden Ave			805-684-1640			Open daily 6:00AM-Midnight
+US			CA			Vista			92084			Vons			940 S. Santa Fe			760-758-0620			Open daily 6:00 AM-11:00 PM
+US			CA			Big Bear Lake			92315			Vons			42170 Big Bear Blvd			909-866-8459			Open daily 6:00 AM-Midnight
+US			CA			Carlsbad			92009			Vons			6951 El Camino Real			760-431-0157			Open daily 5:00 AM-1:00 AM
+US			CA			San Marcos			92078			Vons			671 S. Rancho Santa Fe			760-471-0170			Open daily 5:00 AM-12:00 PM
+US			CA			Encinitas			92024			Vons			262 N. El Camino Real			760-942-4044			Open daily 5:00 AM-1:00 AM
+US			CA			Encinitas			92024			Vons			453 Santa Fe Dr.			760-633-9770			Open daily 6:00 AM - Midnight
+US			CA			Montecito			93108			Vons			1040 Coast Village Rd			805-969-2112			Open daily 6:00 AM-Midnight
+US			CA			Escondido			92026			Vons			1000 W. El Norte Pkwy			760-747-5920			Open daily 5:00 AM-Midnight
+US			CA			Escondido			92026			Vons			330 W. El Norte Pkwy			760-741-0928			Open Daily 5:00AM-Midnight
+US			CA			Solana Beach			92075			Vons			931 Lomas Santa Fe Dr			858-481-1008			Open daily 6:00 AM-Midnight
+US			CA			Escondido			92027			Vons			2345 E. Valley Pkwy			760-489-5950			Open daily 6:00 AM-Midnight
+US			CA			Escondido			92025			Vons			351 W. Felicita Ave			760-743-8860			Open Daily 5:00AM-Midnight
+US			CA			Del Mar			92014			Vons			2606 Del Mar Heights Rd.			858-755-5304			Open daily 6:00 AM-11:00 PM
+US			CA			Santa Barbara			93105			Vons			3855 State St			805-687-5611			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92130			Vons			3850 Valley Centre Dr			858-793-4661			Open daily 5:00 AM-1:00 AM
+US			CA			Goleta			93117			Vons			163 S. Turnpike Rd			805-967-2181			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92130			Vons			4627 Carmel Mountain Rd.			858-523-1842			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92128			Vons			11986 Bernardo Plaza Dr			858-487-8221			Open daily 5:00 AM-1:00 AM
+US			CA			Barstow			92311			Vons			1270 E. Main St.			760-256-8105			Open daily 6:00 AM-11:00 PM
+US			CA			San Diego			92129			Vons			13255 Black Mountain Rd			858-484-7234			Open daily 5:00 AM-1:00 AM
+US			CA			La Jolla			92037			Pharmacy at Vons			9350 Campus Point Drive
+US			CA			Goleta			93117			Vons			175 N. Fairview Ave.			805-683-8764			Open daily 6:00 AM-Midnight
+US			CA			La Jolla			92037			Vons			7544 Girard Ave			858-454-2620			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92122			Vons			7788 Regents Rd			858-455-6130			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92126			Vons			8310 Mira Mesa Blvd.			858-271-4830			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92131			Vons			10675 Scrpps Poway Pkwy			858-693-0638			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92122			Vons			3993 Governor Dr.			858-453-1883			Open daily 6:00 AM-Midnight
+US			CA			Poway			92064			Vons			13438 Poway Rd			858-748-8833			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92117			Vons			4725 Clairemont Dr.			858-483-4670			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92131			Vons			10016 Scripps Ranch Blvd			858-271-5350			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92109			Vons			1702 Garnet Ave.			858-273-8340			Open daily 5:00 AM-1:00 AM
+US			CA			Bakersfield			93309			Vons			3400 Stine Rd			661-835-0212			Open daily 6:00AM-11:00PM
+US			CA			Desert Hot Springs			92240			Vons			14200 Palm Dr.			760-251-1636			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92111			Vons			5555 Balboa Ave			858-279-4661			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92124			Vons			10460 Clairemont Mesa Blvd			858-560-4565			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92110			Vons			3645 Midway Dr.			619-222-6462			Open Daily 5:00AM-2:00AM
+US			CA			San Diego			92123			Vons			3550 Murphy Canyon Dr.			858-292-5007			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92106			Vons			2495 Truxtun Rd., Suite 100			619-758-1725			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92103			Vons			515 W. Washington St.			619-220-0195			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92103			Pharmacy at Vons			330 Lewis St , 2nd Floor
+US			CA			San Diego			92120			Vons			6555 Mission Gorge Rd			619-284-1355			Open daily 5:00 AM-1:00 AM
+US			CA			Palm Springs			92264			Vons			4733 E. Palm Canyon Dr.			760-324-4502			Open daily 6:00 AM-Midnight
+US			CA			Yucca Valley			92284			Vons			57590 29 Palms Hys			760-365-8998			Open daily 6:00 AM-11:00 PM
+US			CA			Rancho Mirage			92270			Pavilions			36-101 Bob Hope Dr.			760-324-4667			Open daily 5:00 AM-11:00 PM
+US			CA			Bakersfield			93311			Vons			9000 Ming Ave			661-663-0595			Open daily 6:00 AM-Midnight
+US			CA			Bakersfield			93309			Vons			5700 Stockdale Hwy			661-328-6950			Open daily 6:00 AM-Midnight
+US			CA			Palm Desert			92260			Vons			72-675 Highway 111			760-346-2493			Open daily 6:00 AM-Midnight
+US			CA			Santee			92071			Vons			9643 Mission Gorge Rd			619-596-5930			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92116			Vons			3610 Adams Ave			619-280-7634			Open daily 5:00 AM-1:00 AM
+US			CA			San Diego			92104			Vons			4145 30Th St.			619-284-6672			5AM-1AM Seven days a week
+US			CA			Lakeside			92040			Vons			12419 Woodside Ave			619-443-6811			Open daily 6:00 AM-11:00 PM
+US			CA			San Diego			92115			Vons			6155 El Cajon Blvd			619-583-4142			Open daily 6:00 AM-1:00 AM
+US			CA			La Mesa			91942			Vons			5630 Lake Murray Blvd			619-464-1099			Open daily 6:00 AM-Midnight
+US			CA			El Cajon			92020			Vons			2800 Fletcher Pkwy.			619-463-2633			Open daily 5:00 AM-Midnight
+US			CA			Coronado			92118			Vons			868 Orange St.			619-435-6811			Open daily 7:00 AM-11:00 PM
+US			CA			La Mesa			91942			Vons			8011 University Ave.			619-464-1011			Open daily 5:00 AM-Midnight
+US			CA			El Cajon			92021			Vons			950 N. Second St.			619-444-6888			Open daily 6:00 AM-11:00 PM
+US			CA			El Cajon			92021			Vons			13439 Camino Canada			619-390-0147			Open daily 5:00 AM-1:00 AM
+US			CA			La Quinta			92253			Vons			78-271 State Hwy 111			760-564-2001			Open daily 5:00 AM-11:00 PM
+US			CA			El Cajon			92020			Vons			1201 Avocado Blvd			619-440-0881			Open daily 6:00 AM-1:00 AM
+US			CA			La Mesa			91941			Vons			3681 Avocado Blvd			619-670-7207			Open daily 6:00 AM-Midnight
+US			CA			Spring Valley			91977			Vons			933 Sweetwater			619-460-6333			Open Daily 6:00AM-Midnight
+US			CA			Bakersfield			93308			Vons			4500 Coffee Rd.			661-589-0316			Open daily 6:00 AM-Midnight
+US			CA			Bakersfield			93308			Vons			5360 Olive Dr			661-399-6967			Open daily 6:00 AM-11:00 PM
+US			CA			Oildale			93308			Vons			2401 N. Chester Ave.			661-399-4301			Open daily 6:00 AM-Midnight
+US			CA			Lompoc			93436			Vons			729 N. H St.			805-737-4464			Open daily 6:00 AM-Midnight
+US			CA			Lake Isabella			93240			Vons			5610 Lake Isabella Blvd			760-379-4461			Open daily 6:00AM-Midnight
+US			CA			Bonita			91902			Vons			4404 Bonita Rd			619-512-0125			Open daily 5:00 AM-1:00 AM
+US			CA			Chula Vista			91910			Vons			360 E. H St			619-425-4134			Open daily 5:00 AM-1:00 AM
+US			CA			Chula Vista			91911			Vons			870 Third Ave			619-422-2293			Open daily 6:00 AM-Midnight
+US			CA			Chula Vista			91910			Vons			505 Telegraph Canyon Rd			619-421-1417			Open daily 6:00 AM-Midnight
+US			CA			Chula Vista			91915			Vons			2250 Otay Lakes			619-656-0406			Open daily 5:00 AM-Midnight
+US			CA			San Diego			92173			Vons			620 Dennery Rd			619-428-3302			Open daily 6:00 AM-Midnight
+US			CA			San Diego			92154			Vons			665 Saturn Blvd			619-575-2200			Open daily 6:00 AM-Midnight
+US			CA			Chula Vista			91915			Vons			1745 Eastlake Pkwy.			619-397-3467			Open Daily 6:00AM-Midnight
+US			CA			Santa Maria			93454			Vons			817 E. Main St.			805-922-0772			Open daily 6:00 AM-Midnight
+US			CA			Nipomo			93444			Vons			520 W. Tefft St.			805-931-1850			Open daily 6:00 AM-Midnight
+US			CA			Nipomo			93444			Vons			550 West Tefft St.			805-929-7201			6:00AM-10:00PM
+US			CA			Grover Beach			93433			Vons			1758 Grand Ave			805-481-0877			Open daily 6:00 AM-Midnight
+US			CA			San Luis Obispo			93401			Vons			3900 Broad St			805-541-1055			Open daily 6:00 AM-1:00 AM
+US			CA			Los Osos			93402			Vons			1130 Los Osos Valley Rd			805-528-1482			Open daily 6:00 AM-Midnight
+US			CA			Atascadero			93422			Vons			7135 El Camino Real			805-466-4949			Open daily 6:00 AM-Midnight
+US			CA			Paso Robles			93446			Vons			1191 E. Creston Rd			805-239-2744			Open daily 6:00 AM-Midnight
+US			CA			Fresno			93727			Vons			5638 E. Kings Canyon			559-458-0209			Open daily 6:00 AM-Midnight
+US			CA			Clovis			93611			Vons			3100 Fowler Ave.			559-294-6720			Open daily 6:00AM-Midnight
+US			CA			Fresno			93726			Vons			4343 N. Blackstone			559-243-0289			Open daily 6:00 AM-Midnight
+US			CA			Clovis			93611			Vons			1650 Herndon Ave			559-297-6410			Open daily 6:00 AM-Midnight
+US			CA			Fresno			93720			Vons			7733 N. 1St			559-439-4179			Open daily 6:00 AM-Midnight
+US			CA			Fresno			93720			Vons			8949 N. Cedar Ave			559-438-1403			Open daily 6:00 AM-Midnight
+US			CA			Madera			93637			Pak N Save			2237 W. Cleveland			559-661-6440			Open daily 6:00 AM-Midnight
+US			CA			Oakhurst			93644			Vons			40044 Hwy 49			559-642-4250			Open daily 6:00 AM-Midnight
+US			CA			King City			93930			Safeway			530 Canal St			831-385-7820			Open daily 6:00 AM-Midnight
+US			CA			Bishop			93514			Vons			1190 N. Main St.			760-872-9811			Open daily 5:00 AM-1:00 AM
+US			CA			Mammoth Lakes			93546			Vons			481 Old Mammoth Rd.			760-934-4536			Open 24 Hours
+US			CA			Carmel			93923			Safeway			104 Midvalley			831-624-4600			Open 24 hours
+US			CA			Salinas			93905			Safeway			1516 Constitution Blvd.			831-444-3625			Open 24 hours
+US			CA			Carmel			93923			Safeway			5 Crossrd.S Blvd.			831-625-8820			Open 24 hours
+US			CA			Salinas			93906			Safeway			1546 N. Main			831-442-7500			Open 24 hours
+US			CA			Hollister			95023			Safeway			591 Tres Pinos Rd			831-638-3240			Open daily 6:00 AM-11:00 PM
+US			CA			Del Rey Oaks			93940			Safeway			815 Canyon Del Rey Blvd.			831-393-2090			Open 24 hours
+US			CA			Pacific Grove			93950			Safeway			1212 Forest Ave			831-375-8262			Open 24 hours
+US			CA			Prunedale			93907			Safeway			17539 Vierra Canyon Rd			831-663-6702			Open 24 hours
+US			CA			Turlock			95380			Safeway			3051 Countryside Dr.			209-669-2725			Open 24 hours
+US			CA			Modesto			95350			Safeway			2001 Mchenry Ave Suite C			209-571-6280			Open 24 hours
+US			CA			Gilroy			95020			Safeway			905 First St.			408-842-6446			Open 24 hours
+US			CA			Morgan Hill			95037			Safeway			840 E Dunne Ave			408-776-8720			Open 24 hours
+US			CA			Morgan Hill			95037			Safeway			100 Tennant Ave.			408-776-9861			Open 24 hours
+US			CA			Manteca			95336			Safeway			1187 S. Main St			209-824-1144			Mon-Sun 5:30AM-1:00AM
+US			CA			Watsonville			95019			Safeway			2010 Freedom Blvd.			831-728-2640			Open daily 6:00 AM-Midnight
+US			CA			Tracy			95376			Safeway			1801 W. 11Th St.			209-830-2950			Open 24 hours
+US			CA			San Jose			95121			Safeway			1771 E Capitol Expwy			408-238-9800			Open daily 6:00 AM-Midnight
+US			CA			San Jose			95136			Safeway			179 Branham Ln			408-227-4961			Open 24 hours
+US			CA			San Jose			95120			Safeway			6477 Almaden Expwy			408-268-3511			Open 24 hours
+US			CA			San Jose			95127			Safeway			3002 Story Rd			408-259-4233			Open daily 6:00 AM-Midnight
+US			CA			Aptos			95003			Safeway			16 Rancho Del Mar			831-688-2775			Open 24 hours
+US			CA			San Jose			95118			Safeway			4950 Almaden Expwy			408-267-1200			Open daily 6:00 AM-1:00 AM
+US			CA			Stockton			95204			Safeway			2808 Country Club			209-461-5555			Open daily 5:00 AM-Midnight
+US			CA			San Jose			95118			Safeway			1663 Branham Ln			408-267-0550			Open 24 hours
+US			CA			San Jose			95132			Safeway			2558 Berryessa Rd			408-272-2287			Open 24 hours
+US			CA			Stockton			95207			Safeway			6445 Pacific Ave.			209-472-8600			Open daily 5:00 AM-1:00 AM
+US			CA			San Jose			95113			Safeway			100 S. 2Nd St.			408-292-4010			Open daily 6:00 AM-11:00 PM
+US			CA			Soquel			95073			Safeway			2720 41St St.			831-477-7212			Open 24 hours
+US			CA			San Jose			95125			Safeway			1530 Hamilton Ave.			408-264-1523			Open 24 hours
+US			CA			Los Gatos			95032			Safeway			15549 Union Ave			408-559-5750			Open 24 hours
+US			CA			San Jose			95126			Safeway			1300 W. San Carlos			408-882-0999			Open 24 hours
+US			CA			Santa Cruz			95062			Safeway			117 Morrissey Blvd			831-426-7489			Open 24 hours
+US			CA			Santa Cruz			95060			Safeway			2111 Mission St.			831-420-0781			Open 24 hours
+US			CA			Scotts Valley			95066			Safeway			253 Mt Hermon Rd.			831-438-7431			Open 24 hours
+US			CA			Felton			95018			Safeway			6255 Graham Hill Rd			831-335-3532			Open 24 hours
+US			CA			Los Gatos			95030			Safeway			470 N. Santa Cruz Ave.			408-354-9708			Open 24 hours
+US			CA			Los Gatos			95032			Safeway			1500 Pollard Rd			408-374-2050			Open daily 6:00 AM-Midnight
+US			CA			Campbell			95008			Safeway			2341 So Winchester Blvd			408-364-6880			MON-SUN 5AM-1AM
+US			CA			Campbell			95008			Safeway			950 W. Hamilton Ave.			408-871-1272			Mon-Sun 5:00AM-1:00AM
+US			CA			Saratoga			95070			Safeway			12876 Saratoga Sunnyvale Rd			408-867-0180			Open 24 hours
+US			CA			Santa Clara			95050			Safeway			3071 Stevens Creek			408-248-3305			Open 24 hours
+US			CA			San Jose			95129			Safeway			6150 Bollinger Rd			408-257-3070			Open 24 hours
+US			CA			San Jose			95129			Safeway			5146 Stevens Creek			408-556-0610			Open 24 hours
+US			CA			Santa Clara			95050			Safeway			2605 The Alameda Ave.			408-244-6873			Open daily 6:00 AM-2:00 AM
+US			CA			Santa Clara			95051			Safeway			2760 Homestead Rd			408-248-0563			Open 24 hours
+US			CA			Cupertino			95014			Safeway			20620 W Homestead Rd			408-253-0112			Open 24 Hours
+US			CA			Sunnyvale			94087			Safeway			1601 Hollenbeck Ave			408-733-8251			Open 24 hours
+US			CA			Sunnyvale			94087			Safeway			785 East El Camino Real			408-481-3300			Open 24 hours
+US			CA			Sunnyvale			94087			Safeway			150 E. El Camino Real			408-732-1259			Open 24 hours
+US			CA			Santa Clara			95054			Safeway			3970 Rivermark Plaza			408-855-0980			Open 24 hours
+US			CA			Sunnyvale			94087			Safeway			639 So Bernardo Ave			408-732-5900			Open 24 hours
+US			CA			Mountain View			94040			Safeway			1750 Miramonte			650-903-5850			Open 24 hours
+US			CA			Milpitas			95035			Safeway			555 E Calaveras Blvd			408-262-9850			Open 24 hours
+US			CA			Los Altos			94022			Pharmacy at Safeway			255 Second St.
+US			CA			Los Altos			94022			Safeway			160 1st St.			650-941-1801			5:00AM -12:00AM
+US			CA			Mountain View			94043			Safeway			570 N. Shoreline Blvd.			650-961-4868			Open 24 hours
+US			CA			Mountain View			94040			Safeway			645 San Antonio Rd			650-948 4533			Open 24 Hours
+US			CA			Fremont			94539			Safeway			46848 Mission Blvd			510-497-1003			Open 24 hours
+US			CA			Palo Alto			94306			Safeway			2811 Middlefield Rd			650-321-8400			Open 24 hours
+US			CA			Menlo Park			94025			Safeway			325 S Sharon Park Dr.			650-854-3056			Open 24 hours
+US			CA			Menlo Park			94025			Safeway			525 El Camino Real			650-847-2901			Open 24 hours
+US			CA			Fremont			94538			Safeway			3902 Washington Blvd			510-657-1625			Open 24 hours
+US			CA			Fremont			94538			Safeway			39100 Argonaut Way			510-794-1666			Open 24 hours
+US			CA			Redwood City			94061			Safeway			850 Woodside Rd			650-365-2522			Open 24 hours
+US			CA			Redwood City			94063			Pharmacy at Safeway			2710 Middlefield Road
+US			CA			Redwood City			94063			Safeway			1071 El Camino			650-306-1900			Open 24 hours
+US			CA			Newark			94560			Safeway			5877 Jarvis Ave			510-713-3180			Open 24 hours
+US			CA			Union City			94587			Safeway			1790 Decoto Rd			510-429-9090			Open 24 hours
+US			CA			Belmont			94002			Safeway			1100 El Camino			650-596-1730			Open 24 hours
+US			CA			Belmont			94002			Safeway			2100 Ralston Ave			650-591-0235			Open 24 hours
+US			CA			Pleasanton			94566			Safeway			6790 Bernal Ave			925-846-8644			Open 24 hours
+US			CA			Half Moon Bay			94019			Safeway			70 Cabrillo Hwy			650-726-1143			Open 24 hours
+US			CA			San Mateo			94402			Safeway			100 De Anza Blvd			650-341-4039			Open 24 hours
+US			CA			Livermore			94550			Safeway			1554 First St			925-455-5667			Open 24 hours
+US			CA			Foster City			94404			Safeway			921 E Hillsdale Blvd			650-377-0711			Open 24 hours
+US			CA			Pleasanton			94566			Safeway			1701 Santa Rita Rd			925-417-5530			Open 24 hours
+US			CA			Livermore			94550			Safeway			4495 First St			925-455-2520			Open 24 hours
+US			CA			San Mateo			94402			Safeway			1655 El Camino Real			650-341-0374			Open 24 hours
+US			CA			Hayward			94544			Safeway			231 W Jackson St.			510-783-8611			Open daily 6:00 AM-Midnight
+US			CA			Dublin			94568			Safeway			4440 Tassajara Rd.			925-551-4710			Open 24 hours
+US			CA			Dublin			94568			Safeway			7499 Dublin Blvd			925-556-4034			Open 24 hours
+US			CA			San Mateo			94401			Safeway			860 N Delaware St			650-347-2704			Open daily 6:00 AM-Midnight
+US			CA			Burlingame			94010			Safeway			1450 Howard Ave.			650-343-3488			Open 24 hours
+US			CA			Hayward			94541			Safeway			22280 Foothill Blvd			510-582-0700			Open daily 6:00 AM-1:00 AM
+US			CA			Castro Valley			94552			Safeway			4015 East Castro Valley Blvd			510-886-7328			Open 24 hours
+US			CA			Castro Valley			94546			Safeway			20629 Redwood Rd			510-538-3088			Open 24 hours
+US			CA			San Leandro			94579			Safeway			699 Lewelling			510-483-2225			Open daily 6:00 AM-Midnight
+US			CA			San Leandro			94578			Pak N Save			555 Floresta Blvd			510-483-2681			Open daily 6:00 AM-1:00 AM
+US			CA			Millbrae			94030			Safeway			525 El Camino Real			650-652-3416			Open 24 Hours
+US			CA			San Ramon			94582			Safeway			11060 Bollinger Canyon Rd.			925-359-2001			Open 24 hours
+US			CA			San Leandro			94577			Safeway			1499 Washington Ave			510-895-2660			Open daily 6:00 AM-Midnight
+US			CA			Pacifica			94044			Safeway			1380 Linda Mar Blvd			650-359-6707			Open daily 5:00 AM-Midnight
+US			CA			San Ramon			94583			Safeway			2505 San Ramon Valley Blvd.			925-831-9515			Open 24 hours
+US			CA			San Leandro			94577			Safeway			555 Bancroft Ave			510-632-2949			Open daily 6:00 AM-Midnight
+US			CA			Danville			94506			Safeway			3496 Camino Tassajara			925-736-0298			Open 24 hours
+US			CA			South San Francisco			94080			Safeway			170 El Camino Real			650-589-4579			Open daily 6:00 AM-Midnight
+US			CA			Oakland			94621			Pak N Save			610 Hegenberger Rd			510-636-7970			Open daily 6:00 AM-Midnight
+US			CA			Alameda			94502			Safeway			867 Island Dr.			510-521-4833			Open daily 6:00 AM-Midnight
+US			CA			South San Francisco			94080			Safeway			30 Chestnut Ave			650-952-8867			Open daily 6:00 AM-Midnight
+US			CA			South San Francisco			94080			Pak N Save			2255 Gellert Blvd			650-588-9005			Open daily 6:00 AM-1:00 AM
+US			CA			Pacifica			94044			Safeway			12 Manor Plz			650-359-2751			Open daily 6:00 AM-Midnight
+US			CA			Alameda			94501			Safeway			2227 S. Shore Ctr.			510-863-9000			Open 24 hours
+US			CA			Oakland			94619			Safeway			4100 Redwood Rd			510-531-0565			Open daily 6:00 AM-Midnight
+US			CA			Oakland			94602			Safeway			3550 Fruitvale Ave			510-530-7067			Open daily 6:00 AM-Midnight
+US			CA			Discovery Bay			94514			Safeway			14840 Hwy. 4			925-626-6000			Open 24 hours
+US			CA			Alamo			94507			Safeway			200 Alamo Plaza			925-820-8022			Open 24 hours
+US			CA			San Francisco			94112			Safeway			4950 Mission St			415-587-7200			Open 24 hours
+US			CA			Daly City			94015			Safeway			601 Westlake Ctr.			650-755-0576			Open daily 6:00 AM-Midnight
+US			CA			Moraga			94556			Safeway			1355 Moraga Way			925-376-9492			Open 24 hours
+US			CA			San Francisco			94110			Safeway			3350 Mission St			415-826-2866			Open 24 hours
+US			CA			Oakland			94611			Safeway			2096 Mountain Blvd			510-482-2266			Open daily 6:00 AM-Midnight
+US			CA			San Francisco			94127			Safeway			625 Monterey Blvd			415-586-2421			Open daily 6:00 AM-12:00 AM
+US			CA			Oakland			94610			Safeway			3747 Grand Ave			510-465-4187			Open daily 6:00 AM-Midnight
+US			CA			San Francisco			94131			Safeway			5290 Diamond Hts Blvd			415-824-7744			Open daily 6:00 AM-2:00 AM
+US			CA			San Francisco			94103			Safeway			2300 - 16Th St. Unit No.203			415-575-1120			Open 24 hours
+US			CA			Walnut Creek			94595			Safeway			1972 Tice Valley Blvd			925-939-7213			Open daily 6:00 AM-Midnight
+US			CA			Brentwood			94513			Safeway			3110 Balfour Rd.			925-626-6020			Open 24 hours
+US			CA			San Francisco			94107			Safeway			298 King St.			415-633-1001			Open daily 5:00 AM-Midnight
+US			CA			San Francisco			94116			Safeway			730 Taraval St.			415-665-4136			Open daily 6:00 AM-Midnight
+US			CA			Oakland			94618			Safeway			5130 Broadway			510-658-6612			Open 24 hours
+US			CA			San Francisco			94114			Safeway			2020 Market St			415-861-7660			Open 24 hours
+US			CA			Emeryville			94608			Safeway			3889 San Pablo Ave			510-450-1200			Open daily 6:00 AM-Midnight
+US			CA			Brentwood			94513			Safeway			1125 Second St			925-634-6780			Open daily 5:00 AM-1:00 AM
+US			CA			Walnut Creek			94596			Safeway			600 S Brd.Way			925-935-9205			Open 24 hours
+US			CA			San Francisco			94122			Safeway			2350 Noriega St.			415-665-4565			Open daily 6:00 AM-2:00 AM
+US			CA			Berkeley			94705			Pharmacy at Safeway			3210 College Ave.
+US			CA			San Francisco			94115			Safeway			1335 Webster St			415-921-4557			Open daily 6:00 AM-Midnight
+US			CA			San Francisco			94111			Safeway			145 Jackson St.			415-982-3112			Open daily 6:00 AM-9:00 PM
+US			CA			Lafayette			94549			Safeway			3540 Mt Diablo Blvd			925-283-0228			Open 24 hours
+US			CA			San Francisco			94118			Safeway			735 7Th Ave.			415-683-4070			Open 24 hours
+US			CA			San Francisco			94133			Safeway			350 Bay St.			415-781-4374			Open daily 6:00 AM-Midnight
+US			CA			Orinda			94563			Safeway			2 Camino Sobrante			925-254-8792			Open 24 hours
+US			CA			Walnut Creek			94598			Safeway			2941 Ygnacio Valley			925-939-1811			Open daily 6:00 AM-Midnight
+US			CA			Walnut Creek			94598			Safeway			710 Bancroft Rd			925-937-8537			Open 24 hours
+US			CA			San Francisco			94123			Safeway			15 Marina Blvd			415-563-4946			Open 24 hours
+US			CA			San Francisco			94121			Safeway			850 La Playa St.			415-387-4664			Open 24 hours
+US			CA			Clayton			94517			Safeway			5431 Clayton Rd.			925-672-2135			Open 24 hours
+US			CA			Pleasant Hill			94523			Safeway			600 Patterson Blvd			925-933-8243			Open daily 6:00 AM-Midnight
+US			CA			Berkeley			94709			Safeway			1444 Shattuck Place			510-526-3086			Open daily 6:00 AM-Midnight
+US			CA			Pleasant Hill			94523			Safeway			1978 Contra Costa Blvd			925-688-0680			Open 24 hours
+US			CA			Antioch			94509			Safeway			3365 Deer Valley Rd			925-706-4150			Open 24 hours
+US			CA			Albany			94706			Safeway			1500 Solano Ave			510-525-4107			Open 24 hours
+US			CA			Concord			94521			Safeway			4309 Clayton Rd			925-356-2710			Open daily 6:00 AM-1:00 AM
+US			CA			Albany			94706			Pharmacy at Safeway			1395 Solano Ave
+US			CA			Martinez			94553			Safeway			6688 Alhambra Ave.			925-933-0540			Open 24 hours
+US			CA			Pleasant Hill			94523			Safeway			707 Contra Costa Blvd.			925-689-2044			Open 24 hours
+US			CA			Concord			94520			Safeway			2600 Willow Pass Rd			925-689-3240			Open 24 hours
+US			CA			El Cerrito			94530			Safeway			11450 San  Pablo Ave			510-233-8400			Open Daily 5:00 AM-1:00AM
+US			CA			Bay Point			94565			Safeway			660 Bailey Rd			925-458-0181			Open daily 5:00 AM-Midnight
+US			CA			Martinez			94553			Safeway			3334 Alhambra Ave			925-229-0212			Open daily  6:00 AM-Midnight
+US			CA			Mill Valley			94941			Safeway			110 Strawberry Village #100			415-360-9016			Open 24 hours
+US			CA			Mill Valley			94941			Safeway			1 Camino Alto			415-388-6216			Open daily 6:00 AM-11:00 PM
+US			CA			Pinole			94564			Safeway			1421 Tara Hill Dr			510-724-1525			Open daily 6:00 AM-Midnight
+US			CA			Corte Madera			94925			Safeway			137 Corte Madera Town Ctr.			415-927-1960			Open daily 6:00 AM-11:00 PM
+US			CA			San Rafael			94901			Safeway			700 B St			415-456-1453			Open daily 6:00 AM-Midnight
+US			CA			San Anselmo			94960			Safeway			838 Sir Francis Drake			415-456-9157			Open daily 6:00 AM-Midnight
+US			CA			San Rafael			94903			Safeway			950 Las Gallinas Ave.			415-479-6111			Open 24 hours
+US			CA			Rodeo			94572			Safeway			605 Parker Bldg A			510-799-6200			Open daily 6:00 AM-Midnight
+US			CA			Novato			94949			Safeway			5720 Nave Dr.			415-881-9256			Open 24 hours
+US			CA			Benicia			94510			Safeway			50 Solano Sq.			707-745-4047			Open daily 6:00 AM-Midnight
+US			CA			Vallejo			94591			Safeway			122 Robles Dr			707-554-4467			Open daily 6:00 AM-Midnight
+US			CA			Novato			94947			Safeway			900 Diablo Ave			415-898-1503			Open 24 hours
+US			CA			Vallejo			94590			Safeway			709 Lincoln Rd W			707-643-2172			Open daily 6:00 AM-Midnight
+US			CA			Vallejo			94591			Safeway			774 Admiral Callaghan Lane			707-554-8035			Open daily 6:00 AM-Midnight
+US			CA			American Canyon			94503			Safeway			103 American Canyon Rd.			707-649-5150			Open daily 6:00 AM-Midnight
+US			CA			Fairfield			94533			Safeway			5051 Business Ctr Dr.			707-863-4160			Open 24 hours
+US			CA			Petaluma			94954			Safeway			389 S. Mcdowell Blvd			707-766-9097			Open 24 hours
+US			CA			Sonoma			95476			Safeway			477 W Napa St			707-996-0633			Open 24 hours
+US			CA			Napa			94558			Safeway			1620 Clay St			707-252-4122			Open daily 6:00 AM-Midnight
+US			CA			Napa			94558			Safeway			3375 Jefferson St			707-225-3037			Open 24 hours
+US			CA			Fairfield			94533			Safeway			2401 Waterman Dr.			707-427-5640			Open 24 hours
+US			CA			Rohnert Park			94928			Safeway			6340 Commerce Blvd			707-584-8942			Open 24 hours
+US			CA			Vacaville			95688			Safeway			2090 Harbison Dr.			707-452-7277			Open 24 hours
+US			CA			Santa Rosa			95405			Safeway			2785 Yulupa Ave			707-524-4646			Open 24 hours
+US			CA			Sebastopol			95472			Safeway			406 N Main St			707-823-1101			Open 24 hours
+US			CA			Santa Rosa			95404			Safeway			2751 Fourth St.			707-522-1455			Open daily 6:00 AM-Midnight
+US			CA			Santa Rosa			95409			Safeway			100 Calistoga Rd			707-539-1711			Open 24 hours
+US			CA			Santa Rosa			95401			Safeway			1799 Marlow Rd.			707-528-3062			Open 24 hours
+US			CA			Santa Rosa			95403			Safeway			2300 Mendocino Ave			707-569-3100			Open daily 6:00 AM-Midnight
+US			CA			Saint Helena			94574			Safeway			1026 Hunt Ave			707-968-3620			Open daily 6:00 AM-Midnight
+US			CA			Dixon			95620			Safeway			1235 Stratford Ave			707-678-7400			Open 24 hours
+US			CA			Windsor			95492			Safeway			9080 Brooks Rd			707-837-2000			Open 24 hours
+US			CA			Guerneville			95446			Safeway			16405 Hwy 116			707-869-9433			Open 24 hours
+US			CA			Lodi			95242			Safeway			2449 W. Kettleman Ln			209-367-7875			Open 24 hours
+US			CA			Healdsburg			95448			Safeway			1115 Vine St.			707-431-7102			Open 24 hours
+US			CA			Davis			95616			Safeway			2121 Cowell			530-792-8500			Open 24 hours
+US			CA			Davis			95616			Safeway			1451 W Covell Blvd			530-757-4540			Open 24 hours
+US			CA			Elk Grove			95758			Safeway			5021 Laguna Blvd			916-691-3770			Open daily 5:00 AM-Midnight
+US			CA			Sacramento			95829			Safeway			8377 Elk Grove Florin Rd			916-681-8666			Open daily 5:00 AM-1:00 AM
+US			CA			West Sacramento			95691			Safeway			1298 W. Capitol Ave			916-371-5205			Open daily 6:00 AM-11:00 PM
+US			CA			Sacramento			95814			Safeway			1814 19Th St.			916-492-9967			Open 24 hours
+US			CA			Sacramento			95816			Safeway			1025 Alhambra Blvd			916-456-0852			Open 24 hours
+US			CA			Sacramento			95825			Safeway			424 Howe Ave			916-925-1676			Open daily 6:00 AM-2:00 AM
+US			CA			Sacramento			95835			Safeway			2851 Del Paso Rd.			916-285-8840			Open daily 5:00 AM-Midnight
+US			CA			Clearlake			95422			Safeway			14922 Olympic Dr.			707-994-7275			Open daily 6:00 AM-Midnight
+US			CA			Lakeport			95453			Safeway			1071 11Th St			707-263-8072			Open daily 5:00 AM-Midnight
+US			CA			Gridley			95948			Safeway			1596 St Hwy 99			530-846-3762			Open daily 6:00 AM-Midnight
+US			CA			Ukiah			95482			Safeway			653 S. State St			707-467-2700			Open 24 hours
+US			CA			Willits			95490			Safeway			845 S. Main St			707-459-5862			Mon-Sun 5:00 AM-Midnight
+US			AK			Willits			95490			Pharmacy at Safeway			90 S. Main St.
+US			CA			Ft Bragg			95437			Safeway			660 S Main St			707-964-4079			Open 24 hours
+US			CA			Chico			95926			Safeway			1016 W Sacramento Ave			530-895-0244			Open daily 6:00 AM-2:00 AM
+US			CA			Chico			95926			Safeway			720 Mangrove Way			530-895-6300			Open 24 hours
+US			CA			Chico			95973			Safeway			1366 E. Ave			530-899-2320			Open 24 hours
+US			CA			Corning			96021			Safeway			600 Edith St.			530-824-2467			Open daily 6:00 AM-Midnight
+US			CA			Anderson			96007			Safeway			2601 Balls Ferry Rd			530-365-6401			Open daily 6:00 AM-Midnight
+US			CA			Redding			96002			Safeway			1070 E. Cypress Ave			530-226-5871			Open 24 hours
+US			CA			Redding			96001			Safeway			2275 Pine St.			530-247-3030			Open 24 hours
+US			CA			Burney			96013			Safeway			37264 Main St			530-335-3212			Open daily 6:00 AM-11:00 PM
+US			CA			Arcata			95521			Safeway			600 F St			707-822-5217			Open 24 hours
+US			CA			Fortuna			95540			Safeway			701 S Fortuna Blvd			707-725-5104			Open 24 hours
+US			CA			Eureka			95503			Safeway			2555 Harris St			707-269-0133			Open 24 hours
+US			CA			Mckinleyville			95519			Safeway			1503 City Ctr. Rd.			707-840-9770			Open 24 hours
+US			HI			Mililani			96789			Safeway			94-780B Meheula Pkwy			808-623-8111			Open 24 hours
+US			HI			Aiea			96701			Safeway			98-1277 Kaahumanu St			808-483-5900			Open 24 hours
+US			HI			Ewa Beach			96706			Safeway			91-1119 Keaunui Dr.			808-683-3200			Open 24 hours
+US			HI			Kapolei			96707			Safeway			590 Farrington No.400			808-674-0070			Open 24 hours
+US			HI			Honolulu			96818			Safeway			848 Ala Lilikoi St			808-831-6100			Open 24 hours
+US			HI			Honolulu			96813			Safeway			1360 Pali Hwy			808-566-6811			Open 24 hours
+US			HI			Kaneohe			96744			Safeway			46065 Kamehameha Hwy			808-233-5800			Open 24 hours
+US			HI			Honolulu			96814			Safeway			1234 S. Beretania St.			808-535-1780			Open 24 hours
+US			HI			Honolulu			96822			Safeway			2855 E Manoa Rd			808-988-2058			Open 24 hours
+US			HI			Kailua			96734			Safeway			25 Kaneohe Bay Dr.			808-254-2597			Open daily 5:00 AM-Midnight
+US			HI			Honolulu			96816			Safeway			888 Kapahulu Ave.			808-733-2600			Open 24 hours
+US			HI			Kailua			96734			Safeway			200 Hamakua			808-266-5222			Open 24 hours
+US			HI			Kailua			96734			Safeway			1060 Keolu Dr.			808-266-5200			Open daily 6:00 AM-Midnight
+US			HI			Honolulu			96825			Safeway			377 Keahole St			808-396-6337			Open 24 hours
+US			HI			Kapaa			96746			Safeway			4-831 Kuhio Hwy			808-822-2464			Open 24 hours
+US			HI			Lahaina			96761			Safeway			1221 Honapiilani Hwy			808-667-4392			Open 24 hours
+US			HI			Wailuku			96793			Safeway			58 Maui Lani Pkwy Ste 5000			808-243-3522			Mon-Fri 9:00AM-8:00PM</br>Sat-Sun 9:00AM-6:00PM
+US			HI			Kahului			96732			Safeway			170 E Kamehameha Ave			808-877-3377			Open 24 hours
+US			HI			Kihei			96753			Safeway			277 Pi'Ikea Ave			808-891-9120			Open 24 hours
+US			OR			Beaverton			97008			Safeway			6194 S.W. Murray Blvd			503-672-8180			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97225			Safeway			13485 Nw Cornell Rd			503-350-2080			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97225			Safeway			6745 Sw Beaverton Hillsdale Hwy			503-296-7220			Open daily 6:00 AM-1:00 AM
+US			OR			Beaverton			97007			Safeway			14555 Sw Teal Blvd			503-590-9755			Open daily 6:00 AM-1:00 AM
+US			OR			Aloha			97006			Safeway			20535 Sw Tualatin Valley Hwy.			503-259-3180			Open daily 6:00 AM-1:00 AM
+US			OR			Hillsboro			97124			Safeway			2177 N.W. 185Th.			503-645-6631			Open daily 6:00 AM-Midnight
+US			OR			Portland			97219			Safeway			8145 SW Barbur Blvd			503-452-6068			Open daily 5:00 AM–1:00 AM
+US			OR			Tigard			97223			Safeway			15570 S W Pacific Hwy			503-598-6001			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97201			Safeway			1010 Sw Jefferson			503-205-1849			Open daily 5:00 AM-1:00 AM
+US			OR			Portland			97209			Safeway			1303 Nw Lovejoy			503-205-6746			Open daily 5:00 AM-1:00 AM
+US			OR			Portland			97203			Safeway			8330 N. Ivanhoe St.			503-205-1599			Open daily 6:00 AM-1:00 AM
+US			OR			Lake Oswego			97035			Safeway			17779 Boones Ferry Rd			503-675-2500			Open daily 6:00 AM-1:00 AM
+US			OR			Hillsboro			97123			Safeway			2525 Se Tualatin Valley Hwy.			503-681-0256			Open daily 6:00 AM-12:00 Midnight, 7 days a week
+US			OR			Portland			97232			Safeway			1100 Ne Brd.Way			503-528-0500			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97214			Safeway			2800 S.E. Hawthorne			503-236-7070			Open daily 5:00 AM-1:00AM
+US			OR			Lake Oswego			97034			Safeway			401 A Ave			503-675-4480			Open daily 6:00 AM-1:00 AM
+US			OR			Sherwood			97140			Safeway			20685 Sw Roy Rogers			503-625-4760			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97211			Safeway			5920 N.E. Martin Luther King Blvd			503-528-0580			Open Daily 5:00AM-11:00PM
+US			OR			Portland			97202			Safeway			3930 Se Powell Blvd			503-772-4440			Open 24 hours
+US			OR			Portland			97206			Safeway			4515 S.E. Woodstock			503-788-7600			Open 24 hours
+US			OR			Milwaukie			97206			Safeway			4320 Se King Rd.			503-303-1441			5:00 AM-1:00AM Seven days a week
+US			OR			Milwaukie			97267			Safeway			15099 S.E. Mcloughlin Blvd.			503-652-5620			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97217			Safeway			11919 N. Jantzen Ave.			503-247-7980			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97213			Safeway			6901 N.E. Sandy Blvd			503-280-1200			Open 24 hours
+US			OR			West Linn			97068			Safeway			22000 Salamo Rd			503-650-8954			Open daily 6:00 AM-1:00 AM
+US			OR			Milwaukie			97267			Safeway			14840 Se Webster Rd			503-303-1071			5:00AM-1:00AM Daily
+US			WA			Vancouver			98663			Safeway			3707 N. Main St.			360-993-8600			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97230			Safeway			221 N.E. 122Nd Ave			503-261-2550			Open daily 6:00 AM-1:00 AM
+US			OR			Gladstone			97027			Safeway			95 82Nd Dr.			503-723-2680			Open daily 6:00 AM-1:00 AM
+US			WA			Vancouver			98661			Safeway			6701 E. Mill Plain			360-992-5720			Open daily 6:00 AM-1:00 AM
+US			OR			Clackamas			97015			Safeway			12032 S.E. Sunnyside Rd			503-698-1121			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97236			Safeway			3527 S.East 122Nd Ave.			503-760-5448			Open daily 6:00 AM-1:00 AM
+US			OR			Forest Grove			97116			Safeway			2836 Pacific Ave			503-359-8700			5:00 AM-1:00 AM seven days a week
+US			OR			Newberg			97132			Safeway			1140 N. Springbrook Rd			503-537-4001			Open daily 6:00 AM-1:00 AM
+US			WA			Hazel Dell			98665			Safeway			408 N.E. 81St St.			360-574-1141			Open daily 6:00 AM-1:00 AM
+US			OR			Oregon City			97045			Safeway			13434 Colton Place			503-655-8155			Open daily 5:00AM-1:00AM
+US			WA			Vancouver			98661			Safeway			6711 Ne 63Rd St.			360-992-5680			Open daily 6:00 AM-1:00 AM
+US			WA			Vancouver			98684			Safeway			2615 Ne 112Th Ave			360-449-5200			Open daily 6:00 AM-1:00 AM
+US			WA			Vancouver			98684			Safeway			13719 Se Mill Plain Blvd			360-891-4245			Mon-Sun 5:00AM-1:00AM
+US			OR			Gresham			97030			Safeway			1001 S.W. Highland Dr.			503-674-7080			Open daily 6:00 AM-1:00 AM
+US			OR			Portland			97230			Safeway			1541 N.E. 181St  Ave.			503-665-1212			Open daily 6:00 AM-1:00 AM
+US			OR			Canby			97013			Safeway			1051 Sw 1St Ave			503-266-5890			Open daily 6:00 AM-1:00 AM
+US			OR			Damascus			97009			Safeway			20151 S.E. Highway 212			503-658-7000			Open daily 6:00 AM-1:00 AM
+US			WA			Vancouver			98662			Safeway			11696 N.E. 76Th St.			360-944-2660			Open daily 6:00 AM-11:00 PM
+US			OR			Gresham			97030			Safeway			1455 N.E. Division			503-492-7270			Open daily 6:00 AM-1:00 AM
+US			WA			Vancouver			98686			Safeway			13023 Ne Hwy 99, Suite 1			360-566-7980			Open daily 6:00 AM-1:00 AM
+US			WA			Vancouver			98682			Safeway			6700 Ne 162Nd Ave Suite 500			360-944-2680			Open daily 6:00 AM-1:00 AM
+US			OR			Troutdale			97060			Safeway			2501 Sw Cherry Park Rd.			503-674-7000			Open daily 5:00 AM-1:00 AM
+US			WA			Camas			98607			Safeway			800 N.E. Third			360-834-7933			Open daily 6:00 AM-1:00 AM
+US			WA			Battle Ground			98604			Safeway			904 W. Main St.			360-666-2230			Open daily 6:00 AM-1:00 AM
+US			WA			Washougal			98671			Safeway			3307 Evergreen Blvd Bld 5			360-335-2000			Open daily 6:00 AM-1:00 AM
+US			OR			Woodburn			97071			Safeway			1550 N. Pacific Hwy			503-982-2756			Open daily 6:00 AM-1:00 AM
+US			OR			St Helens			97051			Safeway			795 Lower Columbia River Hwy			503-397-2630			Open daily 6:00 AM-1:00 AM
+US			OR			Mcminnville			97128			Safeway			2490 N. Hwy 99 W.			503-435-3120			Open daily 6:00 AM-1:00 AM
+US			OR			Molalla			97038			Safeway			1524 West Main St.			503-829-4848			Open daily 6:00 AM-1:00 AM
+US			OR			Sandy			97055			Safeway			37601 Hwy 26			503-668-3202			Open daily 6:00 AM-1:00 AM
+US			WA			Woodland			98674			Safeway			1725 Pacific Ave			360-225-4370			Open daily 6:00 AM-1:00 AM
+US			OR			Silverton			97381			Safeway			301 Westfield St			503-873-1800			Open daily 6:00 AM-1:00 AM
+US			OR			Keizer			97303			Safeway			4990 River Rd			503-390-8810			Open daily 6:00 AM-1:00 AM
+US			OR			Salem			97303			Safeway			3380 Lancaster Dr. N.E.			503-399-1502			Open daily 6:00 AM-1:00 AM
+US			OR			Salem			97301			Safeway			1265 Ctr. St.			503-566-5540			Open daily 6:00 AM-1:00 AM
+US			OR			Salem			97304			Safeway			1455 Edgewater St. N.W.			503-365-2170			Open daily 6:00 AM-1:00 AM
+US			OR			Salem			97302			Safeway			5660 Commercial St. Se			503-364-4192			Open daily 6:00 AM-Midnight
+US			WA			Kelso			98626			Safeway			411 Three Rivers Dr.			360-636-4548			Open 24 hours
+US			WA			Longview			98632			Safeway			1227 15Th Ave.			360-575-6600			Open 24 hours
+US			WA			Longview			98632			Safeway			2930 Ocean Beach Hwy			360-575-6240			Open daily 6:00 AM-1:00 AM
+US			OR			Dallas			97338			Safeway			138 W.Ellendale			503-831-6000			Open daily 6:00 AM-1:00 AM
+US			OR			Clatskanie			97016			Safeway			401 W. Columbia River Hwy			503-728-2490			Open daily 6:00 AM-11:00 PM
+US			OR			Stayton			97383			Safeway			1535 N. 1St St.			503-769-4814			Open daily 6:00 AM-Midnight
+US			OR			Tillamook			97141			Safeway			1815 4Th St.			503-842-4608			Open 24 hours
+US			OR			Albany			97321			Safeway			1990 14Th Ave. Se			541-812-2380			Open daily 6:00 AM-1:00 AM
+US			OR			Hood River			97031			Safeway			2249 Cascade Ave			541-386-1841			5:00AM-1:00AM
+US			OR			Seaside			97138			Safeway			401 S. Roosevelt			503-738-4700			Open daily 6:00 AM-1:00 AM
+US			OR			Lebanon			97355			Safeway			1983 S. Main St.			541-259-5700			Open daily 6:00 AM-1:00 AM
+US			OR			Corvallis			97330			Safeway			590 Ne Cir. Blvd.			541-753-2966			Open daily 6:00 AM-1:00 AM
+US			OR			Lincoln City			97367			Safeway			4101 N.W. Logan Rd			541-994-8667			Open daily 6:00 AM-1:00 AM
+US			OR			Corvallis			97333			Safeway			450 S.W.Third Ave			541-750-0160			Open daily 6:00 AM-1:00 AM
+US			OR			Astoria			97103			Safeway			3250 Leif Erickson Dr.			503-338-2960			Open daily 6:00 AM-1:00 AM
+US			OR			Corvallis			97333			Safeway			5270 Sw Philomath Blvd			541-738-2100			Open Daily 5:00AM-1:00AM
+US			OR			Sweet Home			97386			Safeway			1540 Main St.			541-367-0670			Open daily 6:00 AM-1:00 AM
+US			OR			The Dalles			97058			Safeway			520 Mt. Hood St.			541-296-9488			5:00AM-1:00AM
+US			WA			Chehalis			98532			Safeway			1100 S. Market Blvd			360-748-3777			Open 24 hours
+US			OR			Newport			97365			Safeway			2220 N. Coast Hwy			541-265-2930			Open daily 6:00 AM-1:00 AM
+US			WA			Centralia			98531			Safeway			1129 Harrison			360-330-0884			Mon-Sun 5:00AM-1:00AM
+US			OR			Junction City			97448			Safeway			1755 Ivy St.			541-998-4520			Open daily 6:00 AM-1:00 AM
+US			OR			Eugene			97401			Safeway			1500 Coburg Rd			541-685-8873			Open daily 5:00 AM-1:00 AM
+US			OR			Springfield			97477			Safeway			1891 Pioneer Pkwy. East			541-747-0715			Open daily 6:00 AM-1:00 AM
+US			OR			Madras			97741			Safeway			80 Ne Cedar			541-325-0460			Open daily 6:00 AM-1:00 AM
+US			OR			Springfield			97478			Safeway			5415 Main St.			541-736-3400			Open daily 6:00 AM-1:00 AM
+US			OR			Eugene			97401			Safeway			145 E. 18Th St.			541-485-5051			Open daily 6:00 AM-2:00 AM
+US			OR			Eugene			97405			Safeway			350 E. 40Th			541-342-4067			Open daily 6:00 AM-1:00 AM
+US			WA			Yelm			98597			Safeway			1109 Yelm Ave. E.			360-458-8830			Open 24 hours
+US			OR			Cottage Grove			97424			Safeway			1500 E. Main St.			541-942-3413			Open daily 6:00 AM-1:00 AM
+US			OR			Florence			97439			Safeway			700 Hwy 101			541-902-1900			Open daily 6:00 AM-1:00 AM
+US			OR			Reedsport			97467			Safeway			1499 Hwy 101			541-271-3142			Open daily 7:00 AM-11:00 PM
+US			OR			North Bend			97459			Safeway			1735 Virginia			541-751-7000			Open daily 6:00 AM-1:00 AM
+US			OR			Roseburg			97470			Safeway			1539 Nw Stephens			541-957-2540			Open daily 6:00 AM-1:00 AM
+US			OR			Coos Bay			97420			Safeway			230 E. Johnson			541-267-1700			Open daily 6:00 AM-1:00 AM
+US			OR			Myrtle Creek			97457			Pharmacy at Safeway			821 South Main St
+US			OR			Coquille			97423			Safeway			155 E. First St.			541-396-2223			Open daily 7:00 AM-11:00 PM
+US						Coquille			97423			Pharmacy at Safeway			3 East First Street
+US			OR			Bend			97702			Safeway			320 W. Century Blvd.			541-389-0085			Open daily 6:00 AM-1:00 AM
+US			OR			Bend			97701			Safeway			2650 N E Hwy 20			541-383-6500			Open daily 6:00 AM-1:00 AM
+US			OR			Bend			97701			Safeway			642 N.E. 3Rd			541-312-6480			Open daily 6:00 AM-1:00 AM
+US			OR			Redmond			97756			Safeway			1705 S. Highway 97			541-504-4160			Open daily 6:00 AM-1:00 AM
+US			OR			Medford			97504			Safeway			1003 Medford Ctr			541-608-3680			Open daily 6:00 AM-1:00 AM
+US			OR			Medford			97501			Safeway			3169 Crater Lake Hwy			541-774-4340			Open daily 6:00 AM-Midnight
+US			OR			Ashland			97520			Safeway			585 Siskiyou Blvd			541-482-4495			Open daily 6:00 AM-1:00 AM
+US			OR			Grants Pass			97527			Safeway			1640 Williams Hwy			541-476-1242			Open daily 6:00 AM-1:00 AM
+US			OR			Grants Pass			97526			Safeway			115 East 7Th St			541-956-7540			Open daily 6:00 AM-1:00 AM
+US			OR			Klamath Falls			97601			Safeway			211 N. Eighth St.			541-273-5502			Open daily 6:00 AM-11:00 PM
+US			OR			Klamath Falls			97603			Safeway			2740 S. 6Th			541-273-3510			Open daily 6:00 AM-1:00 AM
+US			CA			Crescent City			95531			Safeway			475 M St.			707-465-3353			Open 24 hours
+US			WA			Federal Way			98003			Safeway			1207 S. 320Th St.			253-839-8503			Open daily 5:00 AM-1:00 AM
+US			WA			Federal Way			98023			Safeway			2109 S W 336Th St			253-838-9941			Open daily 5:00 AM-1:00 AM
+US			WA			Federal Way			98003			Safeway			28810 Military Rd S.			253-941-1500			Open daily 5:00 AM-2:00 AM
+US			WA			Des Moines			98198			Safeway			27035 Pacific Highway S.			253-946-8087			Open 24 hours
+US			WA			Milton			98354			Safeway			900 E Meridian Suite 12			253-927-2332			Open 24 hours
+US			WA			Auburn			98002			Safeway			101 Auburn Way S.			253-804-0138			Open daily 5:00 AM-1:00 AM
+US			WA			Kent			98032			Safeway			210 Washington Ave. S.			253-852-4454			Mon-Wed: 5:00 AM-1:00 AM<br/>Thu: 12:50 AM-1:00 AM<br/>Fri-Sun: 5:00 AM-1:00 AM
+US			WA			Des Moines			98198			Safeway			21401 Pacific Hwy S			206-824-2737			Open daily 5:00 AM-1:00 AM
+US			WA			Tacoma			98405			Safeway			1112 S. M St.			253-627-8840			Open daily 7:00 AM-11:00 PM
+US			WA			Kent			98030			Safeway			13101 S.E. Kent Kangley Rd.			253-638-7275			Open daily 5:00 AM-1:00 AM
+US			WA			Puyallup			98371			Safeway			1405 E. Main			253-848-2800			Open daily 5:00 AM-1:00 AM
+US			WA			Puyallup			98371			Safeway			611 S Meridian			253-845-2010			Open daily 5:00 AM-1:00 AM
+US			WA			Tacoma			98406			Safeway			2411 N. Proctor			253-752-5570			Open 24 hours
+US			WA			Tacoma			98408			Safeway			1302 S. 38Th			253-471-1630			Open 24 hours
+US			WA			Tacoma			98404			Safeway			1624 72Nd St. E			253-537-2124			Open 24 hours
+US			WA			Tacoma			98408			Safeway			707 S. 56Th			253-471-3477			Open daily 5:00 AM-Midnight
+US			WA			Kent			98031			Safeway			20830 108Th Ave. S.E.			253-854-2814			Open daily 5:00 AM-1:00 AM
+US			WA			Tacoma			98407			Safeway			2637 N. Pearl St.			253-759-9251			Open 24 hours
+US			WA			Covington			98042			Safeway			17051 Se 272Nd			253-630-0063			Open daily 5:00 AM-1:00 AM
+US			WA			Tacoma			98406			Safeway			6201 6Th Ave			253-564-7029			Open 24 hours
+US			WA			Seattle			98188			Safeway			4011 S. 164Th			206-244-2567			Open 24 hours
+US			WA			Puyallup			98373			Safeway			11501 Canyon Rd E.			253-536-4792			Open 24 hours
+US			WA			Burien			98166			Safeway			138 Sw 148Th St			206-243-3043			Open daily 5:00 AM-1:00 AM
+US			WA			Puyallup			98373			Safeway			13308 Meridian E			253-864-7277			Open 24 hours
+US			WA			Tacoma			98466			Safeway			3842 Bridgeport Way			253-565-6215			Open 24 hours
+US			WA			Gig Harbor			98335			Safeway			4831 Point Fosdick Dr. Nw			253-851-6860			Open 24 hours
+US			WA			Renton			98058			Safeway			17230 140Th Ave. Se			425-228-1740			Open 24 hours
+US			WA			Bonney Lake			98390			Safeway			21301 Highway 410			253-862-1212			Open 24 hours
+US			WA			Renton			98055			Safeway			200 S. 3Rd St			425-255-4151			Open daily 5:00 AM-1:00 AM
+US			WA			Lakewood			98499			Safeway			10223 Gravelly Lake Dr. Sw			253-581-2072			Open 24 hours
+US			WA			Maple Valley			98038			Safeway			26916 Maple Valley Rd			425-432-2020			Open 24 hours
+US			WA			Tacoma			98444			Safeway			15805 Pacific Ave S.			253-535-2033			Open daily 5:00 AM-1:00 AM
+US			WA			Renton			98056			Safeway			4300 Ne 4Th			425-226-9370			Open 24 hours
+US			WA			Puyallup			98375			Safeway			5616 176Th St.  East			253-414-1737			Open daily 5:00 AM-1:00 AM
+US			WA			Renton			98056			Safeway			2725 N.E. Sunset Blvd			425-228-5700			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98126			Safeway			9620 28Th Ave Sw			206-935-3996			Open 24 hours
+US			WA			Seattle			98118			Safeway			9262 Rainier Ave S			206-494-1120			Open daily 5:00 AM-Midnight
+US			WA			Orting			98360			Safeway			215 Whitesell St Nw			360-893-0840			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98118			Safeway			3900 S. Othello St.			206-722-5552			Open daily 6:00 AM-Midnight
+US			WA			Enumclaw			98022			Safeway			152 Roosevelt Ave E			360-825-5023			Open 24 hours
+US			WA			Graham			98338			Safeway			10105 224Th St. E.			253-847-7050			Open daily 5:00 AM-1:00 AM
+US			WA			Newcastle			98059			Safeway			6911 Coal Creek Pkwy. Se			425-641-0902			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98116			Safeway			4754 42Nd Ave S W			206-932-6026			Open 24 hours
+US			WA			Seattle			98118			Safeway			3820 Rainier Ave S			206-725-9575			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98116			Safeway			2622 California Ave W			206-937-2272			Open 24 hours
+US			WA			Bellevue			98006			Safeway			3903 Factoria Mall S E			425-641-0414			Open daily 5:00 AM-1:00 AM
+US			WA			Issaquah			98027			Safeway			735 Nw Gilman Blvd.			425-392-0410			Open daily 5:00 AM-1:00 AM
+US			WA			Issaquah			98027			Safeway			1451 Highlands Drive			425-369-3113			Open 24 Hours
+US			WA			Port Orchard			98366			Safeway			3355 Bethel Rd. S.E.			360-876-0805			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98122			Safeway			2201 E. Madison St.			206-494-1518			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98112			Safeway			1410 E. John St.			206-323-4988			Open  daily 5:00AM-1:00AM
+US			WA			Bellevue			98004			Safeway			300 Bellevue Way Ne			425-749-3885			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98119			Safeway			516 1St Ave W			206-494-1685			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98109			Safeway			2100 Queen Anne Ave N.			206-282-8090			Open 24 hours
+US			WA			Bellevue			98005			Safeway			1645 140Th Ave. N.E.			425-373-5263			Open 24 hours
+US			WA			Redmond			98052			Safeway			15000 Ne 24Th St			425-869-7343			Open 24 hours
+US			WA			Bremerton			98312			Safeway			900 N Callow			360-792-9149			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98105			Safeway			3020 Ne 45Th St.			206-522-8350			Open daily 5:00 AM-1:00 AM
+US			WA			Bainbridge Island			98110			Safeway			253 High School Rd. Ne			206-842-7197			5:00AM-1:00AM Daily
+US			WA			Seattle			98105			Safeway			4732 Brooklyn N.E.			206-522-4565			Open daily 6:00 AM-2:00 AM
+US			WA			Sammamish			98074			Safeway			630 228Th Ave. Ne			425-868-4000			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98107			Safeway			1423 Nw Market St			206-784-6480			Open 24 hours
+US			WA			Belfair			98528			Safeway			23961 N.E. State Route 3			360-275-0922			Open daily 5:00 AM-Midnight
+US			WA			Seattle			98115			Safeway			7300 Roosevelt Way Ne			206-525-6348			Open 24 hours
+US			WA			Seattle			98115			Safeway			7340 35Th Ave. N.E.			206-524-7064			Mon-Sun 5:00 AM-1:00 AM
+US			WA			Bremerton			98311			Safeway			1401 N.E. McWilliams			360-373-8911			Open Daily 5:00AM-1:00AM
+US			WA			Kirkland			98033			Safeway			12519 N E 85Th St			425-822-8821			Open 24 hours
+US			WA			Seattle			98117			Safeway			8340 15Th Ave Nw			206-782-7464			Open daily 5:00 AM-1:00 AM
+US			WA			Seattle			98103			Safeway			8704 Greenwood Ave N			206-494-0433			Open daily 5:00 AM-1:00 AM
+US			WA			Redmond			98052			Safeway			17246 Redmond Way			425-885-3323			Open 24 hours
+US			WA			North Bend			98045			Safeway			460 S. W. Mt Si Blvd			425-831-2122			Open 24 hours
+US			WA			Olympia			98516			Safeway			1243 Marvin Rd N E			360-438-3914			Open 24 hours
+US			WA			Seattle			98125			Safeway			12318 15Th Ave. Ne			206-306-0504			Open 24 hours
+US			WA			Kirkland			98033			Safeway			10020 Ne 137Th			425-821-9224			Open daily 5:00 AM-1:00 AM
+US			WA			Lacey			98503			Safeway			6200 Pacific Ave Se			360-486-3400			Open 24 hours
+US			WA			Silverdale			98383			Safeway			2890 Nw Bucklin Hill Rd.			360-692-4488			Open Daily 5:00 AM - 1:00 AM
+US			WA			Olympia			98516			Safeway			4280 Martin Way E.			360-456-7132			Mon-Sun 5:00AM-1:00AM
+US			WA			Shoreline			98133			Safeway			15332 Aurora Ave N			206-363-8683			Open daily 5:00 AM-1:00 AM
+US			WA			Kirkland			98034			Safeway			14444 124Th Ave. Ne			425-821-2112			Open daily 5:00 AM-1:00 AM
+US			WA			Shoreline			98155			Safeway			17202 15Th Ave N E			206-363-3130			Open daily 5:00 AM-1:00 AM
+US			WA			Kenmore			98028			Safeway			6850 Ne Bothell Way			425-487-2001			Open daily 5:00 AM-1:00 AM
+US			WA			Lacey			98503			Safeway			4700 Yelm Rd. Se			360-438-0203			Open 24 hours
+US			WA			Duvall			98019			Safeway			14020 Main St. Ne			425-844-1188			Open daily 5:00 AM-1:00 AM
+US			WA			Woodinville			98072			Safeway			19150 N E Woodinville Duvall			425-788-9150			Open daily 6:00 AM-Midnight
+US			WA			Bothell			98021			Safeway			24040 Bothell Everett Hwy			425-482-2767			Open 24 hours
+US			WA			Edmonds			98026			Safeway			23632 Highway 99			425-778-1411			Open daily 5:00 AM-1:00 AM
+US			WA			Poulsbo			98370			Safeway			19245 10th Ave NE			360-394-0023			Open 24 hours
+US			WA			Tumwater			98501			Safeway			500 Cleveland			360-943-1830			Mon-Sun 5:00AM-1:00AM
+US			WA			Olympia			98502			Safeway			3205 Harrison Ave. Nw			360-352-3498
+US			WA			Olympia			98502			Safeway			3215 Harrison Ave N.W.			360-956-3782			5:00 AM - 1:00 AM
+US			WA			Bothell			98012			Safeway			20711 Bothell Hwy			425-483-1060			Open daily 5:00 AM-1:00 AM
+US			WA			Lynnwood			98036			Safeway			19715 Hwy 99			425-775-3591			Open daily 5:00 AM-1:00 AM
+US			WA			Shelton			98584			Safeway			600 Franklin St			360-426-9978			Open Daily: 5:00AM - 1:00AM
+US			WA			Lynnwood			98036			Safeway			14826 Highway 99 N.			425-743-7771			Open daily 5:00 AM-1:00 AM
+US			WA			Mill Creek			98012			Safeway			13314 Bothell Evertt Hwy			425-337-1180			Open daily 5:00 AM-1:00 AM
+US			WA			Everett			98208			Safeway			5802 134Th Place S.E.			425-332-6175			Open daily 5:00 AM-1:00 AM
+US			WA			Everett			98204			Safeway			11031 19Th Ave S E			425-337-0886			Open daily 5:00 AM-1:00 AM
+US			WA			Monroe			98272			Safeway			19651 Hwy 2			360-794-9292			Open daily 5:00 AM-1:00 AM
+US			WA			Everett			98203			Safeway			7601 Evergreen Way			425-355-1540			Open 24 hours
+US			WA			Snohomish			98290			Safeway			1119 13Th St.			360-568-7215			Open daily 5:00 AM-1:00 AM
+US			WA			Everett			98201			Safeway			4128 Rucker Ave			425-258-3552			Open daily 5:00 AM-1:00 AM
+US			WA			Everett			98201			Safeway			1715 Brd.Way Dr.			425-252-9898			Open daily 5:00 AM-1:00 AM
+US			WA			Lake Stevens			98258			Safeway			717 Hwy. 9			425-249-4000			Open 24 hours
+US			WA			Marysville			98270			Safeway			1258 State St.			360-658-8483			Open 24 hours
+US			WA			Arlington			98223			Safeway			3532 172Nd St			360-653-4144			Open 24 hours
+US			WA			Port Townsend			98368			Safeway			442 W. Sims Way			360-385-2806			Open 24 hours
+US			WA			Port Townsend			98368			Safeway			2611 Sims Way			360-385-1175			Open 24 Hours
+US			WA			Arlington			98223			Safeway			20500 Olympic Place			360-435-3636			Open 24 hours
+US			WA			Cle Elum			98922			Safeway			804 W. First			509-674-2580			Open daily 6:00 AM-11:00 PM
+US			WA			Sequim			98382			Safeway			680F W. Washington			360-681-2905			Open 24 hours
+US			WA			Oak Harbor			98277			Safeway			31565 Sr 20 No.1			360-679-3011			Open 24 hours
+US			WA			Port Angeles			98362			Safeway			2709 E. Hwy 101			360-457-1461			Open 24 hours
+US			WA			Aberdeen			98520			Safeway			221 W Heron			360-533-1955			Mon-Sun 6:00AM-2:00AM
+US			WA			Port Angeles			98362			Safeway			110 E. 3Rd St.			360-457-0788			Open 24 hours
+US			WA			Mt Vernon			98273			Safeway			315 E. College			360-424-8160			Open 24 hours
+US			WA			Leavenworth			98826			Safeway			116 Riverbend Dr.			509-548-5435			Open daily 6:00 AM-11:00 PM
+US			WA			Anacortes			98221			Safeway			911 11Th St			360-293-5393			Open 24 hours
+US			WA			Ellensburg			98926			Safeway			400 N. Ruby St			509-925-2700			Open daily 6:00 AM-Midnight
+US			WA			Wenatchee			98801			Safeway			501 N. Miller St.			509-663-5336			Open daily 5:00 AM-1:00 AM
+US			WA			Yakima			98908			Safeway			5702 Summitview Ave			509-965-3622			Open daily 5:00 AM-1:00 AM
+US			WA			East Wenatchee			98802			Safeway			510 Grant Rd			509-884-0707			Open daily 5:00 AM-1:00 AM
+US			WA			Yakima			98902			Safeway			2204 A W. Nob Hill Blvd			509-452-8860			Open daily 5:00 AM-1:00 AM
+US			WA			Yakima			98902			Safeway			205 N. 5Th Ave			509-453-8833			Open daily 5:00 AM-1:00 AM
+US			WA			Yakima			98901			Safeway			905 E. Meade			509-457-6040			Open daily 5:00 AM-1:00 AM
+US			WA			Bellingham			98226			Pharmacy at Safeway			1225 Sunset Drive Suite 155
+US			WA			Lynden			98264			Safeway			8071 Guide Meridian Rd #101			360-318-0688			Open daily 5:00 AM-1:00 AM
+			CA			Abbotsford			V2T 4W1			Abbotsford Safeway			100-32500 S Fraser Way			604-850-2316			Mon-Sun: 7:00 AM-Midnight
+US			WA			Chelan			98816			Safeway			106 W. Manson Rd			509-682-2615			Open daily 6:00 AM-10:00 PM
+			CA			Surrey			V4A 1N5			Ocean Park  Safeway			12825 16 Ave			604-531-3422			Mon-Sun: 7:00 AM-10:00 PM
+			CA			Surrey			V4A 2H9			Peninsula Village Safeway			700-15355 24 Ave			604-535-8960			Mon-Sun: 7:00 AM-Midnight
+			CA			Langley			V3A 4G7			Fraser Crossing Safeway In Langley			20871 Fraser Highway			604-534-4363			Mon-Sun: 7:00 AM-Midnight
+			CA			Langley			V4W 3N5			Aldergrove Safeway			27566 Fraser Hwy			604-857-1351			Mon-Sun: 7:00 AM-Midnight
+			CA			Langley			V2Y 1A2			Willowbrook Safeway			6153 200 St			604-533-3291			Mon-Sun: 7:00 AM-Midnight
+			CA			Mission			V2V 1A5			Mission Hills Safeway			32520 Lougheed Highway			604-826-5369			Mon-Sun: 7:00 AM-Midnight
+			CA			Chilliwack			V2R 1A2			Sardis Safeway			45610 Luckakuck Way			604-858-8115			Mon-Sun: 7:00 AM-Midnight
+			CA			Delta			V4E 3G3			Sunshine Hills Safeway			6401 120 St.			604-596-4885			Mon-Sun: 7:00 AM-Midnight
+			CA			Surrey			V3W 1V2			Newton Town Centre Safeway			7165 138 St			604-594-9155			Mon-Sun: 7:00 AM-Midnight
+			CA			Ladner			V4K 1W4			Trenant Park Safeway			5275 - 48 Ave			604-940-0051			Mon-Sun: 7:00 AM-Midnight
+			CA			Surrey			V3W 3M9			Strawberry Hills Safeway			7450 120 St			604-594-7341			Mon-Sun: 7:00 AM-Midnight
+			CA			Chilliwack			V2P 4N6			Chilliwack Safeway			45850 Yale Rd			604-795-6428			Mon-Sun: 7:00 AM-Midnight
+			CA			Surrey			V3R 4E4			Fleetwood  Safeway			8860 - 152 St			604-589-4774			Mon-Sun: 7:00 AM-Midnight
+			CA			Maple Ridge			V2X 2P6			Maple Ridge Safeway			20201 Lougheed Hwy			604-460-1553			Mon-Sun: 7:00 AM-Midnight
+			CA			Surrey			V3T 2W6			Surrey Centre Safeway			10355 King George Highway			604-584-8285			Mon-Sun: 7:00 AM-Midnight
+			CA			New Westminster			V3M 0C3			New Westminster Station Safeway			800 Carnarvon St			604-522-2019			Mon-Sun:6:00 AM-Midnight
+			CA			Port Coquitlam			V3C 6K5			Shaughnessy  Safeway			1100-2850 Shaughnessy St			604-945-4072			Mon-Sun: 7:00 AM-Midnight
+			CA			Richmond			V7A 4R6			Broadmoor Safeway			10151 No 3 Rd			604-271-8678			Mon-Sun: 7:00 AM-Midnight
+			CA			New Westminster			V3L 2B8			Mcbride Safeway			800 Mcbride Blvd			604-524-4418			Mon-Sun: 7:00 AM-Midnight
+			CA			Richmond			V7C 1H6			Blundell Safeway			6140 Blundell Rd			604-274-7244			Mon-Sun: 7:00 AM-Midnight
+			CA			Richmond			V7C 1V2			Seafair Safeway			8671 No 1 Rd			604-271-8790			Mon-Sun: 7:00 AM-Midnight
+			CA			Coquitlam			V3K 3P2			Austin Road Safeway			1033 Austin Rd			604-939-2850			Mon-Sun: 7:00 AM-Midnight
+			CA			Burnaby			V3J 1N4			Lougheed Mall Safeway			400-9855 Austin Rd			604-420-3420			Mon-Sun: 7:00 AM-Midnight
+			CA			Coquitlam			V3B 1C6			Sunwood Mall Safeway			100-3025 Lougheed Hwy			604-941-8212			Mon-Sun: 7:00 AM-Midnight
+			CA			Burnaby			V5H 4G1			Royal Oak Safeway			5235 Kingsway			604-438-0838			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V5R 5L4			Collingwood Safeway			3410 Kingsway			604-439-0090			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6P 4Z9			Marpole Safeway			8475 Granville Street			604-261-1204			Mon-Sun: 7:00AM-Midnight
+			CA			Vancouver			V5Z 2M9			Oakridge Safeway			185-650 W 41St Ave			604-263-2575			Mon-Sun: 7:00 AM-Midnight
+			CA			Burnaby			V5B 1S2			Kensington Safeway			6564 E Hastings St			604-291-2901			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V5N 1W3			Broadway & Commercial Safeway			1780 E Brd.Way			604-873-0225			Mon-Sun: 7:00 AM-Midnight
+			CA			Burnaby			V5C 2K2			Burnaby Heights Safeway			4440  Hastings St			604-205-6922			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V5Z 2E2			King Edward  Safeway			990 King Edward Ave W			604-733-0073			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V5Z 3X7			City Square Mall Safeway			555 W 12 Ave			604-872-8762			Mon-Sun: 7:00 AM-Midnight
+			CA			North Vancouver			V7H 2Y4			Parkgate Village Safeway			1175 Mt Seymour Rd			604-924-1302			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6K 2G5			West Broadway Safeway			2733 W Brdway			604-732-5226			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6K 1P2			Kitsilano Safeway			2315 W 4 Ave			604-737-9803			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6J 4R1			Arbutus Safeway			109-4255 Arbutus St			604-731-5331			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6G 1W1			English Bay Safeway			1641 Davie St			604-669-8313			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6R 2J2			Point Grey Safeway			4575 W 10 Ave			604-224-7200			Mon-Sun: 7:00 AM-Midnight
+			CA			Vancouver			V6G 1E2			Robson Safeway			1766 Robson St			604-683-6155			Mon-Sun: 7:00 AM-Midnight
+			CA			North Vancouver			V7J 1S1			Lynn Valley Safeway			1170 E 27Th			604-980-3316			Mon-Sun: 7:00 AM-Midnight
+			CA			North Vancouver			V7N 3X4			Westview Safeway			780 Westview Dr			604-988-6645			Mon-Sun: 7:00 AM-Midnight
+			CA			West Vancouver			V7W 3E7			Some Place Special Safeway			5385 Headland Dr			604-926-2550			Mon-Sat: 7:00 AM-9:00 PM<br/>Sun: 7:00 AM-7:00 PM
+US			WA			Toppenish			98948			Safeway			711 W. First Ave			509-865-5700			Open daily 6:00 AM-Midnight
+US			WA			Sunnyside			98944			Safeway			613 S. 6Th St.			509-837-4610			Open daily 6:00 AM-Midnight
+US			WA			Grandview			98930			Safeway			610 E. Wine Country Rd			509-882-1325			Open daily 6:00 AM-Midnight
+US			WA			Ephrata			98823			Safeway			1150 Basin St S.W.			509-754-4441			Open daily 5:00 AM-1:00 AM
+US			WA			Richland			99352			Safeway			1803 George Washington Way			509-946-9605			Open Daily 5:00AM-1:00AM
+US			WA			Moses Lake			98837			Safeway			601 S. Pioneer Way Suite			509-765-3961			Open daily 5:00 AM-1:00 AM
+US			WA			Kennewick			99336			Safeway			2825 W. Kennewick Ave			509-783-9562			Open daily 5:00AM-Midnight
+US			OR			Hermiston			97838			Safeway			990 Hwy 395 S.			541-564-1280			Open daily 6:00 AM-1:00 AM
+US			WA			Spokane			99202			Safeway			E. 933 Mission Ave			509-482-1987			Open Daily 5:00AM-1:00AM
+US			WA			Spokane			99205			Safeway			1616 West N.West Blvd.			509-327-4974			Open daily 5:00 AM-1:00 AM
+US			WA			Spokane			99205			Safeway			2507 W. Wellesley Ave.			509-327-4593			Open Daily 5:00AM-1:00AM
+US			WA			Spokane			99205			Safeway			W. 902 Francis Ave			509-327-4880			Open Daily 5:00AM-1:00AM
+US			WA			Spokane			99203			Safeway			E 2509 29Th Ave			509-532-0822			Open Daily 5:00AM-1:00AM
+US			WA			Spokane			99207			Safeway			3919 N. Market St.			509-484-5195			Open daily 6:00 AM-1:00 AM
+US			WA			Spokane			99218			Safeway			10100 N Newport Hwy			509-465-2576			Open Daily 5:00AM-1:00AM
+US			WA			Spokane Valley			99212			Safeway			N 1441 Argonne Rd			509-921-7696			Open daily 5:00 AM-1:00 AM
+US			WA			Spokane Valley			99216			Safeway			14020 E. Sprague Ave			509-921-9859			Open Daily 5:00 AM-12:00 AM
+US			WA			Cheney			99004			Safeway			2710 1St St.			509-235-6400			Open Daily 6:00AM-Midnight
+US			WA			Liberty Lake			99019			Safeway			1233 N. Liberty Lake Rd			509-893-7565			Open daily 5:00 AM-1:00 AM
+US			ID			Coeur D'Alene			83814			Safeway			101 Neider Ave.			208-765-4311			Open daily 5:00AM-1:00AM
+US			ID			Coeur D'Alene			83814			Safeway			1001 N. 4Th St.			208-664-6019			Open daily 7:00AM-11:00PM
+US			WA			Davenport			99122			Safeway			1202-1220 Morgan St.			509-725-7151			Open daily 7:00 AM-9:00 PM
+US			WA			Newport			99156			Safeway			121 W Walnut			509-447-2506			Open daily 6:00 AM-Midnight
+US			WA			Chewelah			99109			Safeway			W. 10 Colville Ave			509-935-8383			Open daily 7:00 AM-10:00 PM
+US			ID			Sandpoint			83864			Safeway			702 N. 5Th Ave			208-263-9638			Open daily 5:00 AM-1:00 AM
+US			WA			Colville			99114			Safeway			391 N. Main St			509-684-3782			Open Daily 6:00AM-Midnight
+US			WA			Pullman			99163			Safeway			430 S E Bishop Blvd			509-334-0803			Open Daily 5:00AM-1:00AM
+US			ID			Moscow			83843			Safeway			1320 S. Blaine St.			208-883-0713			Open daily 6:00 AM-Midnight
+US			WA			Grand Coulee			99133			Safeway			320 Midway Ave.			509-633-2411			Open daily 6:00 AM-10:00 PM
+US			ID			Bonners Ferry			83805			Safeway			6519 S. Main St.			208-267-1650			Open daily 6:00 AM-11:00 PM
+US			ID			Lewiston			83501			Safeway			2330 Nez Perce Dr.			208-798-0125			Open Daily 5:00AM-1:00AM
+			CA			Trail			V1R 1M3			Trail Safeway			1599 2 Ave			250-368-8710			Mon-Sun: 7:00 AM-10:00 PM
+US			WA			Walla Walla			99362			Safeway			215 E. Rose St.			509-529-3711			Open daily 5:00 AM-1:00 AM
+US			WA			Walla Walla			99362			Safeway			1600 Plaza Way			509-529-0470			Open daily 5:00 AM-1:00 AM
+US			OR			Milton Freewater			97862			Safeway			455 N. Columbia			541-938-5341			Open daily 6:00 AM-11:00 PM
+US			OR			Pendleton			97801			Safeway			203 Sw 20Th Ave			541-278-4280			Open daily 6:00 AM-1:00 AM
+US			OR			La Grande			97850			Safeway			2111 Adams Ave.			541-663-2700			Open daily 6:00 AM-1:00 AM
+US			AK			Anchorage			99501			Carrs			1340 Gambell St			907-339-0200			Open 24 hours
+US			AK			Anchorage			99501			Safeway			1340 Fairbanks St.			907-339-2999
+US			AK			Anchorage			99508			Carrs			3101 Penland Pkwy.			907-339-5200			Open 24 hours
+US			AK			Anchorage			99503			Carrs			600 E. N.Ern Lights Blvd			907-297-0600			Open 24 hours
+US			AK			Anchorage			99504			Carrs			5600 Debarr Rd			907-339-0900			6:00 AM-2:00AM
+US			AK			Anchorage			99517			Carrs			1650 W. N.Ern Lights Blvd			907-339-0500			Open 24 hours
+US			AK			Anchorage			99504			Carrs			7731 E. Northern Lights Blvd			907-339-1700			Open 24 hours
+US			AK			Anchorage			99507			Carrs			1725 Abbott Rd.			907-339-2800			Open 24 hours
+US			AK			Anchorage			99502			Carrs			4000 W. Diamond Blvd			907-339-1200			Open 24 hours
+US			AK			Anchorage			99515			Carrs			1501 Huffman Rd			907-339-1300			Open 24 hours
+US			AK			Eagle River			99577			Carrs			11409 Business Park Blvd			907-696-9400			Open 24 hours
+US			AK			Eagle River			99577			Great Alaska Tobacco Company			11409 Business Park Way			907-694-2447			Tue-Sun 9:00AM-9:00PM Mon 10:00AM-7:00PM
+US			AK			Wasilla			99654			Carrs			595 E. Parks Hwy			907-352-1100			Open 24 hours
+US			AK			Girdwood			99587			Eagle			1 Hightower Rd			907-783-3900			Open daily 7:00 AM-Midnight
+US			AK			Palmer			99645			Carrs			664 W. Evergreen Ave.			907-761-1400			Open daily 5:00AM-1:00AM
+US			AK			Kenai			99611			Safeway			10576 Kenai Spur Hwy			907-283-6300			Open 24 hours
+US			AK			Soldotna			99669			Safeway			44224 Sterling Hwy			907-260-7541
+US			AK			Soldotna			99669			Safeway			44428 Sterling Hwy S			907-714- 5400			Open 24 hours
+US			AK			Seward			99664			Safeway			1907 Seward Highway			907-224-6900			Open daily 5:00 AM-Midnight
+			CA			Regina			S4P 0S4			Victoria Square Safeway			2223 Victoria Ave E			306-789-3191			Mon-Sun: 8:00 AM-10:00 PM
+			CA			Regina			S4T 1N8			13Th Avenue Safeway			2931-13 Ave			306-522-5453			Mon-Sun: 8:00 AM-10:00 PM
+			CA			Regina			S4S 6H7			Southland Mall Safeway			3015 Gordon Rd			306-586-5140			Mon-Sun: 8:00 AM-10:00 PM
+			CA			Regina			S4R 5R9			Northgate Mall Safeway			353 Albert St N			306-543-8749			Mon-Sun: 8:00 AM-10:00 PM
+			CA			Regina			S4R 4A8			Regent Park Safeway			3859 Sherwood Dr			306-949-7488			Mon-Sun: 8:00 AM-10:00 PM
+			CA			Moose Jaw			S6H 1S6			Moose Jaw Safeway			200 1St Ave Nw			306-693-8033			Mon-Sat: 8:00 AM-9:00 PM<br/>Sun: 10:00 AM-7:00 PM
