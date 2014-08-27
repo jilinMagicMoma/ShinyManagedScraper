@@ -42,29 +42,42 @@ def get_walmart_store_infomation():
 		with open('walmart_store_links.txt', 'a') as f:
 			f.write('\n'.join(links))
 
-def info_dragger(soup, content):
-	try:
-		addr = soup('div', class_='StoreAddress')[0].text
-		name = filter(lambda x: x!='', addr.split('\n'))[0]
-		addr = ','.join(filter(lambda x: x!='', addr.split('\n'))[1:])
-		store_finder = soup('div', class_='StoreFinderDetails')[0]
-		col1 = store_finder('div', style="float:left;width:150px")[0]
-		col2 = store_finder('div', style="float:right;width:150px")[0]
-		col3 = store_finder('div', style="margin:0 165px")[0]
-	except IndexError:
-		with open('ttttt.html', 'w') as f:
-			f.write(content)
-		print 'wrote soup recorded'
+def info_process(s):
+	for i in range(len(s)):
+		s[i] = s[i].strip()
+		s[i] = s[i].replace(u'\xe2\x80\xa2', '')
+		s[i] = s[i].replace('\n', ' ')
+		s[i] = ' '.join(filter(lambda x: x!= '', s[i].split()))
+	return s
+			
+def info_dragger(l):
+	flg = False
+	for i in xrange(5):
+		res = simple_request(l)
+		if res is None:
+			return None
+		soup = BSoup(res.content, 'html5')
+		try:
+			addr = soup('div', class_='StoreAddress')[0].text
+			name = filter(lambda x: x!='', addr.split('\n'))[0]
+			addr = ','.join(filter(lambda x: x!='', addr.split('\n'))[1:])
+			store_finder = soup('div', class_='StoreFinderDetails')[0]
+			col1 = store_finder('div', style="float:left;width:150px")[0]
+			col2 = store_finder('div', style="float:right;width:150px")[0]
+			col3 = store_finder('div', style="margin:0 165px")[0]
+			flg = True
+			break
+		except IndexError:
+			print 'retry'
+			continue
+		except None:#Exception as e:
+			print e
+			return None
+	if not flg:
 		return None
-	except None:#Exception as e:
-		print e
-		log_error('parsing_'+error_file, 'name parsing error: '+l)
-		return None
-
 	try:
-		name, phone, addr, hours, pick_up_site, p_phone, pickup_hours, p_hours = '', '','','','','','',''
-		info_tag = ['Store Hours', 'Store Phone', 'At This Location', 'Pharmacy Phone',
-		 'Pharmacy Hours', 'Site to StoreSM Hours', 'Photo Center Phone',
+		info_tag = ['Store Phone', 'Store Hours', 'At This Location', 'Site to StoreSM Hours', 
+		'Pharmacy Phone', 'Pharmacy Hours', 'Photo Center Phone',
 		 'Vision Center Phone']
 		data = {'Store name':name, 'Store Address':'addr', 'Store Phone':'', 'Store Hours':'', 'At This Location':'', 'Pharmacy Phone':'',
 		 'Pharmacy Hours':'', 'Site to StoreSM Hours':'', 'Photo Center Phone':'',
@@ -73,53 +86,52 @@ def info_dragger(soup, content):
 		cur_tag = 'Unknown'
 		test_data = []
 		for td in col1('td')+col2('td')+col3('td'):
-			if 'class' not in td.attrs:
-				continue
-			if 'BodyMBold' in td['class']:
-				print td.text.encode('utf-8').__repr__()
+			if 'class' in td.attrs and 'BodyMBold' in td['class']:
 				if td.text.strip() in info_tag:
 					cur_tag = td.text.strip()
-			elif 'BodyM' in td['class']:
+			elif td.text.strip() != '':
 				data[cur_tag] += td.text.strip() + ' '
-			else:
-				data[cur_tag] += td.text+' '
+		store_data = [name, addr]
 		for tag in info_tag:
-			print tag + ' : ' + data[tag].encode('utf-8').__repr__()
-		raw_input()
+			store_data.append(data[tag])
+		store_data = info_process(store_data)
 
 	except None:#Exception as e:
 		print e
-		log_error('parsing_'+error_file, 'detail parsing:'+l)
 		return None
-	return '\t\t\t'.join([name, addr, phone, hours, pick_up_site, pickup_hours, p_phone, p_hours]).encode('utf-8')
+	return store_data
 			
 def parse():
-	with open('walmart_store_links.txt', 'r') as f:
-		if not os.path.isfile('walmart_data.txt'):
-			with open('walmart_data.txt', 'w') as fp:
-				fp.write('\t\t\t'.join(['name','addr','phone', 'hours', 'pickup site', 'pickup hours', 'pharmacy phone', 'pharmacy hours']))
-		done_links = set()
-		try:
-			with open('walmart_done_links.txt', 'r') as f:
-				done_links.update(map(lambda x: x.strip(), f.readlines()))
-		except:
-			pass
-		for l in f:
-			l = l.strip()
-			if l in done_links:
-				continue
-			res = simple_request(l)
-			if res is None:
-				log_error('parsing_'+error_file, "open error: "+l)
-			print l
-			soup = BSoup(res.content, 'html5')
-			data = info_dragger(soup, res.content)
-			
-			with open('walmart_data.txt', 'a') as fp:
-				fp.write(data)
+	with open('filtered_walmart_store_links.txt', 'r') as f:
+		links = sorted(list(set(map(lambda x: x.strip(), f.readlines()))))
+	if not os.path.isfile('walmart_data.txt'):
+		tag_name = ['store name','store addr','store phone', 
+					 'business hours', 'pickup site', 
+					 'pickup hours', 'pharmacy phone', 
+					 'pharmacy hours', 'Photo Center Phone', 'Vision Center Phone']
+		with open('walmart_data.txt', 'w') as fp:
+			fp.write('\t\t\t'.join(tag_name) + '\n')
+	done_links = set()
+	try:
+		with open('walmart_done_links.txt', 'r') as fp:
+			done_links.update(map(lambda x: x.strip(), fp.readlines()))
+	except:
+		pass
+	for l in links:
+		l = l.strip()
+		if l in done_links:
+			continue
+		print l
+		data = info_dragger(l)
+		if data is not None:
+			with open('walmart_data.txt', 'a') as f:
+				f.write('\t\t\t'.join(data).encode('utf-8')+'\n')
 			with open('walmart_done_links.txt', 'a') as f:
 				f.write(l+'\n')
 			done_links.add(l)
+		else:
+			print 'fail'
+			log_error('parsing_'+error_file, 'detail parsing:'+l)
 			
 		
 if __name__ == '__main__':
