@@ -56,6 +56,7 @@ def modi(s):
 	s = s.replace('\n', ' ')
 	
 	return s
+
 def get_best_but_store_detail(link):
 	user_agent = {'User-agent': 'Mozilla/5.0'}
 	try:
@@ -64,7 +65,7 @@ def get_best_but_store_detail(link):
 			return None
 	except Exception as e:
 		return  None
-	
+
 	soup = BSoup(res.content, 'html5')
 	data = {'country':'US','state':'','city':'','zip code':'','name':'','address':'','phone':'',
 			         'store hour':'','email':'','service':[],'trade_in':''}
@@ -97,14 +98,19 @@ def get_best_but_store_detail(link):
 		for li in ul('li'):
 			data['service'].append(li.text)
 	data['service'] = ','.join(data['service'])
-	hour_ul = soup('ul', id='store_hours')[0]
-	tag_about = ['#storehours_mon', '#storehours_tue', '#storehours_wed', 
-	 '#storehours_thu', '#storehours_fri', '#storehours_sat',
-	 '#storehours_sun']
-	
-	for about in tag_about:
-		li = hour_ul('li', about=about)[0]
-		data['store hour'] += 'wed: '+li('span', class_='open')[0].text + ' - ' + li('span', class_='close')[0].text
+	try:
+		hour_ul = soup('ul', id='store_hours')[0]
+		tag_about = ['#storehours_mon', '#storehours_tue', '#storehours_wed', 
+		 '#storehours_thu', '#storehours_fri', '#storehours_sat',
+		 '#storehours_sun']
+		for about in tag_about:
+			li = hour_ul('li', about=about)[0]
+			if len(li('span', class_='closed24')) > 0:
+				data['store hour'] += about.split('_')[-1]+': closed'
+			else:
+				data['store hour'] += about.split('_')[-1]+li('span', class_='open')[0].text + ' - ' + li('span', class_='close')[0].text
+	except:
+		print 'no store info available'
 	
 	
 	return [data['country'], data['state'], data['city'], data['zip code'], data['name'],
