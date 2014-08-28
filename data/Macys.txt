@@ -1,0 +1,662 @@
+country			state			city			zip code			address			name			phone			features
+USA 			NY			New York			10001-2101			151 West 34th Street,,			Macy's Herald Square			212-695-4400			PERSONAL_SHOPPER,VISITOR_CENTER,MATTRESS,RESTAURANT,BRIDAL,FURNITURE_GALLERY,BOPS,HAS_EVENTS
+USA 			NJ			Jersey City			07310-1602			20 Mall Drive East,Newport Centre Mall,			Macy's Jersey City			201-255-5200			MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NY			Brooklyn			11201-5214			422 Fulton Street,,			Macy's Brooklyn Downtown			718-875-7200			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NY			Elmhurst			11373			88-01 Queens Boulevard,,			Macy's Queens Furniture Gallery			718-760-7101			FURNITURE_GALLERY,MATTRESS
+USA 			NY			Elmhurst			11373-4937			90-01 Queens Blvd.,,			Macy's Queens - Rego Park			718-271-7200			BRIDAL,MATTRESS,BOPS
+USA 			NY			Flushing			11354-5510			136-50 Roosevelt Avenue,,			Macy's Flushing			718-358-9000			MATTRESS,BOPS
+USA 			NY			Brooklyn			11234-5213			5400 Avenue U,,			Macy's Kings Plaza			718-253-3100			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS
+USA 			NY			Bronx			10462-7495			1441 Metropolitan Avenue,,			Macy's Parkchester			718-828-7000			MATTRESS,BOPS,HAS_EVENTS
+USA 			NY			Bronx			10475			250 Baychester Avenue,,			Macy's Bay Plaza			929-237-7200			MATTRESS,BOPS,HAS_EVENTS
+USA 			NY			Douglaston			11362-0010			242-02 61st Avenue,,			Macy's Douglaston			718-225-7300			MATTRESS,BOPS,HAS_EVENTS
+USA 			NJ			Paramus			07652-2410			275 Route 4 West,,			Macy's Rt. 4 Furniture Gallery			201-342-8501			FURNITURE_GALLERY,MATTRESS
+USA 			NY			Staten Island			10314-5903			98 Richmond Hill Road,,			Macy's Staten Island Furniture Gallery			718-494-4094			FURNITURE_GALLERY,MATTRESS
+USA 			NJ			Paramus			07652-0012			500 Garden State Plaza,,			Macy's Paramus Garden State Plaza			201-843-9100			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NY			Staten Island			10314-5903			112 Richmond Hill Road,Staten Island Mall,			Macy's Staten Island			718-761-3000			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			NJ			West Orange			07052-0012			Prospect Avenue,Essex Green Plaza,			Macy's West Orange			973-736-9323			BOPS
+USA 			CA			Los Angeles			90017-3700			750 West 7th Street,,			Macy's at Macy's Plaza			213-628-9311			MATTRESS,BOPS
+USA 			CA			Baldwin Hills			90008			4005 Crenshaw Blvd.,,			Macy's Baldwin Hills Crenshaw Plaza			323-298-7541			MATTRESS,BOPS
+USA 			CA			Eagle Rock			90041			2828 Colorado Blvd.,,			Macy's  Eagle Rock Plaza			323-258-8303			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Glendale			91210-2101			2100 Glendale Galleria,,			Macy's Glendale Galleria			818-240-8411			BRIDAL,BOPS
+USA 			CA			Los Angeles			90048-6201			8500 Beverly Boulevard,,			Macy's Beverly Center			310-854-6655			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			CA			Pasadena			91101-3509			401 South Lake Avenue,,			Macy's Pasadena Plaza on Lake Avenue			626-792-0211			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Montebello			90640-2168			2000 Montebello Town Center,,			Macy's Montebello			323-201-2111			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Montebello			90640			2000 Montebello Town Center,,			Macy's Montebello Town Center Home Store			(323)201-2111			BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			CA			Culver City			90230-6414			6200 Slauson Avenue,,			Macy's Culver City Center			310-390-8911			BRIDAL,MATTRESS,BOPS
+USA 			CA			Burbank			91502			200 East Cypress,,			Macy's Burbank Town Center			818-841-2100			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Los Angeles			90067-6501			10250 Santa Monica Boulevard,,			Macy's Westfield Century City			310-556-1611			PERSONAL_SHOPPER,BOPS,HAS_EVENTS
+USA 			CA			Los Angeles			90064			10730 W. Pico Blvd.,,			Macy's Westside Pavilion			310-475-4911			BRIDAL,BOPS
+USA 			CA			Los Angeles			90064			10800 West Pico Blvd,,			Macy's Westside Pavilion Furniture Store			310-694-3333			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Downey			90241			400 Stonewood Street,,			Macy's Stonewood Center			562-862-2880			BRIDAL,MATTRESS,BOPS
+USA 			CA			Arcadia			91006			400 S. Baldwin Avenue,,			Macy's Westfield Santa Anita			626-445-5711			BRIDAL,BOPS
+USA 			IL			Chicago			60602			111 North State Street,,			Macy's State Street			312-781-1000			PERSONAL_SHOPPER,VISITOR_CENTER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Chicago			60611			835 North Michigan Avenue,,			Macy's Water Tower			312-335-7700			VISITOR_CENTER,BRIDAL,BOPS,HAS_EVENTS
+USA 			IL			Skokie			60077			1 Old Orchard Shopping Center,,			Macy's Old Orchard			847-329-2700			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Oak Brook			60523			1 Oak Brook Center,,			Macy's Oakbrook			630-684-2400			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			IL			Oak Brook			60521			1717 W 22nd Street,,			Macy's Oakbrook Furniture Gallery			630-645-4980			FURNITURE_GALLERY,MATTRESS
+USA 			IL			Calumet City			60409			1 River Oaks Center,,			Macy's River Oaks			708-418-4000			BRIDAL,MATTRESS,BOPS
+USA 			IL			Orland Park			60462			1 Orland Square,,			Macy's Orland Square			708-873-4100			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Northbrook			60062			1555 Northbrook Court,,			Macy's Northbrook			847-509-5100			MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Bolingbrook			60440			645 Boughton Road,,			Macy's Bolingbrook			(630) 343-4200			RESTAURANT,BRIDAL,BOPS
+USA 			IL			Schaumburg			60173			1 Woodfield Mall,,			Macy's Woodfield			847-706-6000			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			IL			Schaumburg			60173			1200 N Meacham Road,,			Macy's Woodfield Furniture Gallery			847-781-6200			FURNITURE_GALLERY,MATTRESS
+USA 			IL			Bloomingdale			60108			1 Stratford Square Mall,,			Macy's Stratford Square			630-924-4700			MATTRESS,BOPS
+USA 			IL			Vernon Hillis			60061			1 Hawthorn Ctr,Westfield Hawthorn,			Macy's  Hawthorne Center			847-918-2700			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Aurora			60504			1 Fox Valley Center,,			Macy's Fox Valley			630-978-5400			RESTAURANT,BRIDAL,MATTRESS,BOPS
+USA 			IN			Merrillville			46410			2210 Southlake Mall,,			Macy's SouthLake Mall			219-769-9100			BRIDAL,MATTRESS,BOPS
+USA 			NY			Valley Stream			11581-1533			1095 Green Acres Mall,,			Macy's Valley Stream Furniture and Mens			516-837-2100			FURNITURE_GALLERY,MATTRESS
+USA 			NY			Valley Stream			11581-1533			1000 Green Acres Rd S,,			Macy's Valley Stream			516-561-6100			MATTRESS,BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			NY			Manhasset			11030-3084			1100 Northern Blvd.,,			Macy's Manhasset			516-869-8500			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NY			Garden City			11530-3467			630 Old Country Road,Unit A3,			Macy's Roosevelt Field			516-746-8200			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NY			Carle Place			11514-1901			155 Glen Cove Road,,			Macy's Carle Place Furniture Gallery			516-742-8500			FURNITURE_GALLERY,MATTRESS
+USA 			TX			Houston			77070			4000 Willowbrook Mall,,			Macy's Willowbrook Mall			281-955-4300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Houston			77060			500 Greenspoint Mall,,			Macy's Greenspoint Mall			281-875-7300			BOPS
+USA 			TX			Houston			77024			900 Memorial City Mall,,			Macy's Memorial City			713-461-0400			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			The Woodlands			77380			1201 Lake Woodlands Drive,,			Macy's The Woodlands Mall			281-362-6100			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Humble			77338			20131 Highway 59 N,,			Macy's Deerbrook			281-973-3500			BRIDAL,MATTRESS,BOPS
+USA 			TX			Houston			77056-5504			2727 Sage Road,,			Macy's Houston Galleria at Sage			713-968-1985			PERSONAL_SHOPPER,MATTRESS
+USA 			TX			Houston			77056			5135 W. Alabama,,			Macy's Houston Galleria at Hidalgo			832-667-4200			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Houston			77082			800 West Oaks Mall,,			Macy's West Oaks Mall			281-531-3700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Pasadena			77502			1101 East Southmore,,			Macy's Pasadena Town Square			713-475-3250			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Sugar Land			77478			16511 Southwest Freeway,,			Macy's First Colony Mall			281-243-7600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Houston			77075			100 Almeda Mall,,			Macy's Almeda Mall			713-943-4300			BOPS,HAS_EVENTS
+USA 			TX			Pearland			77584			11200 Broadway,Suite 950,			Macy's Pearland Town Center			713-280-2500			BOPS
+USA 			TX			Baytown			77521			5000 San Jacinto Mall,,			Macy's San Jacinto Mall			281-421-4300			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Friendswood			77546			200 BayBrook Mall,,			Macy's BayBrook			281-226-5300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			College Station			77840			1508 Harvey Road,,			Macy's Post Oak Mall (A&M)			979-764-3258			BRIDAL,BOPS
+USA 			NY			Yonkers			10704-1000			800 Central Park Ave.,,			Macy's Cross County			914-964-6680			MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NJ			Paramus			07652			100 Paramus Park,,			Macy's Paramus Park			201-967-1400			MATTRESS,BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			PA			Philadelphia			19107			1300 Market Street,,			Macy's Center City Philadelphia			215-241-9000			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			NJ			Cherry Hill			08002			2000 Rt. 38; Suite 200,Cherry Hill Mall,			Macy's Cherry Hill			856-665-5000			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			PA			Ardmore			19003			40 W. Montgomery Ave.,,			Macy's Suburban Square			610-645-1399			BOPS,HAS_EVENTS
+USA 			PA			Philadelphia			19149			2399 Cottman Avenue,,			Macy's Northeast (Roosevelt Mall)			215-331-5500			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			NJ			Maple Shade			08052			493 Route 38 West,,			Macy's Furniture Gallery			856-667-6495			FURNITURE_GALLERY,MATTRESS
+USA 			NJ			Deptford			08096			1750 Almonesson Road,,			Macy's Deptford			856-848-3300			MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			PA			Springfield			19064			Baltimore Pike & Sproul Road,Springfield Mall,			Macy's Springfield PA			610-328-1234			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NJ			Moorestown			08057			400 West Rt. 38,,			Macy's Moorestown			856-642-6442			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NJ			Voorhees			08043			6003 Voorhees Town Center,,			Macy's Echelon Mall			856-772-1800			MATTRESS,BOPS
+USA 			PA			Plymouth Meeting			19462			4444 Plymouth Meeting Mall,,			Macy's Plymouth Meeting			610-825-1700			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			PA			Willow Grove			19090			2500 West Moreland Road,,			Macy's Willow Grove			215-658-4700			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			PA			King Of Prussia			19406			680 West DeKalb Pike,The Court at King of Prussia,			Macy's King of Prussia			610-337-9350			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS
+USA 			PA			Bensalem			19020			U.S. Rt. 1 & Bristol Rd.,,			Macy's Neshaminy Mall			215-355-4000			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			PA			North Wales			19454			Montgomery Mall,Routes 202 & 309,			Macy's Montgomery			215-362-9100			BRIDAL,MATTRESS,BOPS
+USA 			PA			Langhorne			19047-1824			2300 East Lincoln Highway,,			Macy's Oxford Valley			215-752-1340			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS
+USA 			AZ			Phoenix			85016-4202			2410 E. Camelback Road,,			Macy's Biltmore Fashion Park			602-468-2100			PERSONAL_SHOPPER,VISITOR_CENTER,BRIDAL,BOPS
+USA 			AZ			Scottsdale			85251			7014 East Camelback Road,Suite 5000,			Macy's Scottsdale Fashion Square			480-840-0333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			AZ			Phoenix			85021			9700 Metro Parkway,,			Macy's Metro Center			602-943-2351			BOPS
+USA 			AZ			Phoenix			85032-7702			4500 E. Cactus Road,,			Macy's Paradise Valley Mall			602-494-2100			BRIDAL,BOPS
+USA 			AZ			Chandler			85226			3107 West Chandler Blvd,,			Macy's Chandler Fashion Center			480-821-8611			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			AZ			Glendale			85308			7600 W. Arrowhead Towne Ctr.,,			Macy's Arrowhead Towne Center			623-979-7900			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			AZ			Gilbert			85295			2190 East Williams Field Road,,			Macy's Santan Village			480-792-6333			BRIDAL,BOPS
+USA 			AZ			Mesa			85206			6535 E. Southern Avenue,,			Macy's Superstition Springs Center			480-807-1400			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			AZ			Tucson			85705-1662			4470 N. Oracle Road,,			Macy's Tucson Mall			520-798-2100			BRIDAL,BOPS
+USA 			AZ			Tucson			85711-3902			5850 E. Broadway Street,,			Macy's Park Place			520-322-2100			VISITOR_CENTER,BRIDAL,BOPS
+USA 			NY			White Plains			10601-2601			100 Main Street,White Plains Galleria,			Macy's White Plains			914-946-5015			MATTRESS,BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			TX			San Antonio			78205			151 East Bowie Street,,			Macy's San Antonio Rivercenter			210-554-6850			BOPS
+USA 			TX			San Antonio			78224			2310 Southwest Military Drive,,			Macy's South Park			210-334-2000			BOPS
+USA 			TX			San Antonio			78216			7400 San Pedro Ave.,Suite 200,			Macy's North Star Mall			210-340-4200			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			San Antonio			78238			6301 Northwest Loop 410,,			Macy's Ingram Park Mall			210-647-2400			BOPS
+USA 			TX			San Antonio			78256			15900 La Cantera Parkway,,			Macy's La Cantera			210-332-4800			BRIDAL,BOPS
+USA 			TX			San Antonio			78247			6909 N. Loop 1604 East,,			Macy's Rolling Oaks Shopping Center			210-651-8800			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Austin			78746			2901 Capitol of Texas Highway,,			Macy's Barton Creek Square Mall			512-329-2300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Austin			78759			11701 North MoPac Expressway,,			Macy's at The Domain			(512) 490-3300			BRIDAL,BOPS,HAS_EVENTS
+USA 			TX			Austin			78613			11250 Lake Stop Blvd.,,			Macy's Lakeline Mall			512-918-7300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Temple			76502			3111 S. 31st Street,,			Macy's Temple Mall (Colonial)			254-770-3700			BRIDAL,BOPS
+USA 			TX			Corpus Christi			78411			5488 South Padre Island Drive,,			Macy's La Palmera Mall			361-994-2238			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Laredo			78041			5300 San Dario,,			Macy's Mall del Norte			956-724-3020			BOPS
+USA 			CA			San Diego			92108-1205			7017 Friars Road,,			Macy's Fashion Valley			619-299-9811			PERSONAL_SHOPPER,BOPS
+USA 			CA			San Diego			92101-6145			160 Horton Plaza,,			Macy's Westfield Horton Plaza			619-231-4747			BOPS
+USA 			CA			San Diego			92108-4206			1555 Camino de La Reina,,			Macy's Mission Valley Home			619-291-1111			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			San Diego			92108			1702 Camino Del Rio North,,			Macy's Westfield Mission Valley			619-297-2511			BOPS
+USA 			CA			San Diego			92122-1201			4333 La Jolla Village Drive,,			Macy's Westfield UTC			858-453-2060			BRIDAL,BOPS
+USA 			CA			National City			91950			3000 Plaza Bonita Road,,			Macy's Westfield Plaza Bonita			619-267-3500			BOPS
+USA 			CA			Chula Vista			91910-5339			555 Broadway Avenue,,			Macy's Chula Vista Center			619-427-1161			BOPS
+USA 			CA			La Mesa			91942-3016			5500 Grossmont Center Drive,,			Macy's Grossmont Center			619-465-1121			BOPS,HAS_EVENTS
+USA 			CA			El Cajon			92020			291 Fletcher Pkwy.,,			Macy's Westfield Parkway			619-440-1011			BOPS
+USA 			CA			Chula Vista			91944			2015 Birch Road,,			Macy's Otay Ranch Town Center			619-591-7100			BOPS,HAS_EVENTS
+USA 			CA			Escondido			92025-8005			220 E. Via Rancho Pkwy,,			Macy's Westfield North County			760-489-2336			BRIDAL,MATTRESS,BOPS
+USA 			CA			Carlsbad			92008-1202			2559 El Camino Real,,			Macy's Westfield Plaza Camino Real			760-729-9121			RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Temecula			92591			40780 Winchester Blvd.,,			Macy's Temecula Promenade			951-541-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Mission Viejo			92691			300 Shops At Mission Viejo,,			Macy's at The Shops at Mission Viejo			949-364-3111			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Laguna Hills			92653-3613			24100 Laguna Hills Mall,,			Macy's Laguna Hills Mall			949-586-1901			BOPS
+USA 			TX			Dallas			75225			8687 North Central Expressway,,			Macy's NorthPark Center			469-232-3600			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Mesquite			75150			4000 Town East Blvd.,,			Macy's Town East			972-681-6700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Dallas			75237			3550 West Camp Wisdom Road,,			Macy's Redbird (Southwest Ctr)			972-780-6700			BOPS
+USA 			TX			Dallas			75240-5061			13375 Noel Road,,			Macy's Dallas Galleria			214-295-1300			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Irving			75062			3801 Irving Mall,,			Macy's Irving Mall			972-257-4800			MATTRESS,BOPS
+USA 			TX			Garland			75040			701 Horseshoe Drive,,			Macy's Firewheel Town Center			972-244-2500			BRIDAL,BOPS
+USA 			TX			Plano			75075			801 North Central Expressway,,			Macy's Collin Creek Mall			972-422-8700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Plano			75093			6209 West Park Blvd,,			Macy's -  The Shops at Willow Bend			469-366-3676			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Lewisville			75067			2401 S. Stemmons Frwy.,,			Macy's Vista Ridge Mall			972-315-5600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Arlington			76015			3841 South Cooper Street,,			Macy's Parks at Arlington			817-472-4500			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Frisco			75034			2609 Preston Road,,			Macy's Stonebriar Centre			972-731-3600			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Hurst			76053			1101 Melbourne Road,Suite 3000,			Macy's North East Mall			817-317-5300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TX			Fairview			75069			201 Stacy Road,,			Macy's Village at Fairview			972-649-5800			BRIDAL,BOPS
+USA 			TX			Denton			76205			2201 I35 East South,,			Macy's Golden Triangle			940-783-4000			BOPS
+USA 			TX			Fort Worth			76132			4650 South Hulen Street,,			Macy's Hulen Mall			817-294-6900			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Santa Clara			95050			2801 Stevens Creek Blvd.,,			Macy's Westfield Valley Fair			408-248-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			San Jose			95122-1347			2210 Tully Road,,			Macy's Eastridge			408-238-3333			BOPS
+USA 			CA			San Jose			95123-1215			5411 Thornwood Drive,,			Macy's Westfield Oakridge			408-224-3333			MATTRESS,BOPS
+USA 			CA			Cupertino			95014-2507			10333 Wolfe Road,,			Macy's Vallco (Cupertino)			408-255-3433			BOPS
+USA 			CA			Sunnyvale			94086-6153			200 W. Washington Avenue,,			Macy's Sunnyvale			408-732-3333			BOPS
+USA 			CA			Newark			94560-5253			200 Newpark Mall,,			Macy's Newpark Mall			510-797-3333			BRIDAL,MATTRESS,BOPS
+USA 			CA			Palo Alto			94304-1412			300 Stanford Shopping Center,,			Macy's Stanford Shopping Center			650-326-3333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Union City			94587-2026			1208 Whipple Road,,			Macy's Union City Furniture Clearance			510-441-8833			
+USA 			CA			Hayward			94545-2156			800 Southland Mall,,			Macy's Southland Mall			510-786-4300			MATTRESS,BOPS
+USA 			CA			Pleasanton			94588-3213			1300 Stoneridge Mall,,			Macy's Stoneridge Shopping Center			925-463-3333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Pleasanton			94588-3001			4255 Rosewood Drive,,			Macy's Pleasanton Furniture Store			925-227-0333			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Capitola			95010			1865 41st Avenue,,			Macy's Capitola Mall			831-621-3333			BOPS,HAS_EVENTS
+USA 			CA			San Mateo			94403-3408			301 Hillsdale Mall,,			Macy's Hillsdale Mall			650-341-3333			BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			San Mateo			94403-2729			2838 South El Camino,,			Macy's Hillsdale Furniture			650-350-1111			FURNITURE_GALLERY,MATTRESS
+USA 			CA			San Leandro			94578-1947			15555 E. 14th Street,,			Macy's Bayfair Center			510-357-3333			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			West Covina			91790			1111 Plaza Drive,,			Macy's Plaza at West Covina			626-962-5400			BRIDAL,MATTRESS,BOPS
+USA 			CA			City of Industry			91748			1600 South Azusa Ave.,#400,			Macy's Puente Hills Mall			626-965-5941			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Brea			92821-5762			200 Brea Mall,,			Macy's Brea Mall			714-990-1400			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Montclair			91763			5200 Montclair Plaza Lane,,			Macy's Montclair Plaza			909-621-3011			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Cerritos			90701			500 Los Cerritos Center,,			Macy's Los Cerritos Center			562-860-0411			BRIDAL,BOPS
+USA 			CA			Lakewood			90712-2409			5100 Lakewood Blvd.,,			Macy's Lakewood Center			562-529-5111			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Santa Ana			92701			2850 North Main Street,,			Macy's Westfield MainPlace			714-547-7211			BRIDAL,MATTRESS,BOPS
+USA 			FL			Gainesville			32605			6671 Newberry Road,,			Macy's Oaks Mall			352-333-2300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Daytona Beach			32114			1700 W. International Speedway Blvd.,,			Macy's Volusia Mall			386-254-3300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Ocala			34474			3100 S.W. College Rd,,			Macy's Paddock Mall			352-873-5300			BOPS
+USA 			FL			Sanford			32771			330 Town Center Circle,,			Macy's Seminole Towne Center			407-328-3300			MATTRESS,BOPS
+USA 			FL			Altamonte Springs			32701			451 E. Altamonte Dr.,,			Macy's Altamonte Mall			407-830-2300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Altamonte Springs			32714			820 West Town Parkway,,			Macy's Altamonte Furniture Gallery			407-389-2500			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Oviedo			32765			1400 Oviedo Market Place Blvd.,,			Macy's Oviedo Marketplace			407-971-7300			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Savannah			31406			7804 Abercorn Ext.,,			Macy's Oglethorpe Mall			912-353-3611			BRIDAL,MATTRESS,BOPS
+USA 			FL			Orlando			32803			3505 East Colonial Dr.,,			Macy's Orlando Fashion Square			407-896-5300			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			FL			Orlando			32839			4298 Millenia Blvd.,,			Macy's The Mall at Millenia			407-264-2300			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS
+USA 			FL			Orlando			32809			8001 S. Orange Blossom Trail,,			Macy's Florida Mall			407-854-2300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Merritt Island			32952			777 E. Merritt Island Causeway,,			Macy's Merritt Square Mall			321-454-1300			MATTRESS,BOPS
+USA 			FL			Wesley Chapel			33543			2230 Bruce B Downs Blvd,,			Macy's at the Shops at Wiregrass			813-528-4300			VISITOR_CENTER,BRIDAL,BOPS
+USA 			FL			Port Richey			34668			9409 U.S. 19 North,,			Macy's Gulfview Square			727-836-1400			MATTRESS,BOPS
+USA 			FL			Tallahassee			32301			1500 Apalachee Parkway,,			Macy's Governor's Square Mall			850-325-2800			BRIDAL,MATTRESS,BOPS
+USA 			IN			Indianapolis			46220			6101 North Keystone Avenue,,			Macy's Glendale Shopping Center			317-255-6611			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			IN			Greenwood			46142			1251 U.S. 31 North,Greenwood Park Mall,			Macy's Greenwood Park Mall			317-882-6247			BRIDAL,MATTRESS,BOPS
+USA 			IN			Indianapolis			46250			6020 East 82nd Street,Castleton Mall,			Macy's Castleton Square			317-579-4500			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			IN			Bloomington			47401			3068 East Third Street,,			Macy's College Mall			812-333-8781			BOPS
+USA 			IN			Muncie			47303			3501 N. Granville Avenue,,			Macy's Muncie Mall			765-286-0011			BOPS
+USA 			IN			LaFayette			47905			2415 Sagamore Parkway S,Suite D,			Macy's Tippecanoe Mall			765-447-2141			BRIDAL,BOPS,HAS_EVENTS
+USA 			IN			Terre Haute			47802			3401 S. US Hwy 41,,			Macy's Honey Creek Square			812-234-1546			BRIDAL,BOPS
+USA 			OH			Cincinnati			45251			9531 Colerain Avenue,,			Macy's Northgate Mall			513-245-5200			BRIDAL,MATTRESS,BOPS
+USA 			KY			Florence			41042			5000 Mall Road,,			Macy's Florence Mall			859-525-5600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Cincinnati			45246			11700 Princeton Road,,			Macy's Tri-County Mall			513-782-2395			BRIDAL,MATTRESS,BOPS
+USA 			OH			Cincinnati			45202			505 Vine Street,,			Macy's Fountain Place			513-361-4200			BOPS
+USA 			OH			Cincinnati			45236			7800 Montgomery Road,Sycamore Plaza,			Macy's Kenwood Furniture Gallery			513-745-8980			FURNITURE_GALLERY,MATTRESS
+USA 			OH			Cincinnati			45236			7875 Montgomery Road,,			Macy's Kenwood Towne Center			513-247-6400			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			OH			Dayton			45459			2700 Miamisburg-Centerville Rd.,,			Macy's Dayton			937-439-2152			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			IN			Fort Wayne			46805			4201 Coldwater Road,,			Macy's Glenbrook Shopping Center			260-484-1561			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			San Francisco			94102-2202			170 O'Farrell Street,,			Macy's Union Square			415-397-3333			PERSONAL_SHOPPER,VISITOR_CENTER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			San Francisco			94132-1905			1 Stonestown Mall,,			Macy's Stonestown Galleria			415-753-4000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Daly City			94015-2345			1 Serramonte Center,,			Macy's Serramonte Center			650-994-3333			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Corte Madera			94925-1201			1400 Redwood Highway,,			Macy's The Village at Corte Madera			415-927-3333			PERSONAL_SHOPPER,BOPS
+USA 			CA			Richmond			94806-1913			2500 Hilltop Mall Road,,			Macy's Hilltop Mall			510-222-3333			MATTRESS,BOPS
+USA 			CA			San Rafael			94903-3629			1000 Northgate Dr,,			Macy's The Mall at Northgate			415-499-5200			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			CA			Walnut Creek			94596-5129			1301 Broadway Plaza,,			Macy's Broadway Plaza			925-279-3333			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			CA			Novato			94945-5003			100 Vintage Way,,			Macy's Novato Furniture Store			415-892-3333			BRIDAL,FURNITURE_GALLERY,MATTRESS
+USA 			CA			Concord			94520-5801			341 Sun Valley Mall,,			Macy's Sun Valley Shopping Center			925-689-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Columbus			43221			3180 Kingsdale Center,,			Macy's Kingsdale Center Mall			614-459-6494			BOPS
+USA 			OH			Columbus			43232			4141 Refugee Road,,			Macy's Eastland Furniture			614-860-1621			FURNITURE_GALLERY,MATTRESS
+USA 			OH			Columbus			43232			2727 South Hamilton Road,,			Macy's Eastland Mall			614-863-6907			BOPS,HAS_EVENTS
+USA 			OH			Columbus			43219			4141 Easton Loop E,,			Macy's Easton Town Center			614-342-2300			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			OH			Dublin			43016			5033 Tuttle Crossing Blvd.,,			Macy's Tuttle Crossing at Hayden Run			614-726-3690			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Columbus			43016			5123 Tuttle Crossing Blvd.,,			Macy's Tuttle Crossing			614-760-1200			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			OH			Dublin			43016			5700 Britton Parkway,,			Macy's Tuttle Furniture			614-718-1100			FURNITURE_GALLERY,MATTRESS
+USA 			OH			Columbus			43240			1300 Polaris Parkway,,			Macy's Polaris Fashion Place			614-880-6300			BRIDAL,MATTRESS,BOPS
+USA 			OH			Springfield			45504			1475 Upper Valley Pike,,			Macy's Upper Valley Mall			937-328-5900			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Beavercreek			45431			2727 Fairfield Commons Blvd,,			Macy's Fairfield Commons			937-320-2312			BRIDAL,MATTRESS,BOPS
+USA 			OH			Mansfield			44906			655 Richland Mall,,			Macy's Richland Mall			419-529-2411			MATTRESS,BOPS
+USA 			OH			Lima			45805			2600 Elida Road,,			Macy's Lima Mall			419-331-0321			RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Fort Worth			76116			2000 Green Oaks Road,,			Macy's Ridgmar			817-570-2400			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NC			Charlotte			28211			4400 Sharon Road,,			Macy's SouthPark Mall			704-365-1000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NC			Charlotte			28216			6845 Northlake Mall Drive,,			Macy's Northlake Mall			704-599-8137			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NC			Pineville			28134			11001 Carolina Place Pkwy.,,			Macy's Carolina Place			704-542-7800			MATTRESS,BOPS
+USA 			NC			Winston-Salem			27103			3320 Silas Creek Pkwy.,,			Macy's Hanes Mall			336-768-6330			BRIDAL,MATTRESS,BOPS
+USA 			NC			Greensboro			27407			5410 Hornaday Road,,			Macy's Wendover			336-856-0854			BOPS
+USA 			SC			Columbia			29223			7201-100 Two Notch Road,,			Macy's Columbia Mall			803-699-2100			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			NC			Greensboro			27408			700 Friendly Center Road,,			Macy's Friendly Center			336-855-7711			BRIDAL,BOPS
+USA 			SC			Greenville			29607			700 Haywood Road,,			Macy's Haywood Mall			864-297-2020			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			NC			Fayetteville			28303			100 Cross Creek Mall,,			Macy's Cross Creek Mall			910-864-1550			BRIDAL,MATTRESS,BOPS
+USA 			NC			South Durham			27713			6910 Fayetteville Road suite 300,,			Macy's The Streets of South Point			919-361-7039			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NC			Durham			27701			1058 West Club Blvd.,,			Macy's Northgate Mall			919-286-9770			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NC			Cary			27511			1105 Walnut Street,,			Macy's Cary Town Center			919-460-9001			BOPS
+USA 			NC			Raleigh			27612			4325 Glenwood Avenue,,			Macy's Crabtree Valley Mall			919-510-8700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NC			Raleigh			27616			3801 Sumner Blvd.,,			Macy's Triangle Town Center			919-760-1856			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Augusta			30909			3450 Wrightsboro Road,,			Macy's Augusta Mall			706-731-5020			BRIDAL,MATTRESS,BOPS
+USA 			MI			Dearborn			48126			18900 Michigan Avenue,,			Macy's Fairlane			313-436-7600			MATTRESS,BOPS
+USA 			MI			Harper Woods			48225			18000 Vernier Rd,,			Macy's Eastland			313.245.2200			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MI			Southfield			48075			21500 Northwestern Highway,,			Macy's Northland			248-443-6000			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MI			Taylor			48180			23000 Eureka Road,,			Macy's Southland			734-374-5030			RESTAURANT,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MI			Troy			48083			500 W 14 Mile Road,,			Macy's Oakland			248-597-2200			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MI			Troy			48084			2750 West Big Beaver Road,,			Macy's Somerset			248-816-4000			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,BOPS,HAS_EVENTS
+USA 			MI			Westland			48185			35000 West Warren Avenue,,			Macy's Westland			734-458-5400			RESTAURANT,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MI			Sterling Heights			48313			14200 Lakeside Circle,,			Macy's Lakeside			586-566-2800			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MI			Novi			48377			27550 Novi Road,,			Macy's Twelve Oaks			248-344-6800			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,MATTRESS,BOPS
+USA 			MI			Ann Arbor			48104			700 Briarwood Circle,,			Macy's Ann Arbor			734-998-5000			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			OH			Toledo			43623			5001 Monroe Street,,			Macy's Toledo			419-479-2300			BRIDAL,MATTRESS,BOPS
+USA 			MI			Ft Gratiot			48059			4440 24th Avenue,,			Macy's Port Huron			810-385-2400			BOPS
+USA 			MI			Flint			48507			4600 Miller Raod,,			Macy's Flint			810-230-5700			RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Sandusky			44870			4314 Milan Road,,			Macy's Sandusky Mall			419-627-1000			BRIDAL,BOPS
+USA 			MI			Okemos			48864			1982 W Grand River,,			Macy's East Lansing			517-347-4400			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			TX			El Paso			79912			750 Sunland Park Drive,,			Macy's Sunland Park Mall			915-225-4006			BOPS
+USA 			TX			El Paso			79925			8401 Gateway West,,			Macy's Cielo Vista Mall			915-225-6200			BRIDAL,BOPS
+USA 			TN			Memphis			38117			Oak Court,4545 Poplar,			Macy's Oak Court			901-766-4199			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TN			Memphis			38116			Southland Mall,1300 Southland Mall,			Macy's Southland Mall			901-348-1267			MATTRESS,BOPS
+USA 			TN			Bartlett			38133			2840 Germantown Parkway,,			Macy's Wolfchase Galleria			901-937-2600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TN			Collierville			38017			4660 Merchants Park Circle,,			Macy's Carriage Crossing			901-861-5520			BOPS
+USA 			TN			Jackson			38305			2021 North Highland Avenue,,			Macy's Old Hickory Mall			731-668-6291			BRIDAL,MATTRESS,BOPS
+USA 			MO			Cape Girardeau			63701			100 West Park Mall,,			Macy's Cape Girardeau			573-335-8595			BRIDAL,BOPS
+USA 			IL			Carbondale			62901			1237 East Main,,			Macy's University Mall			618-529-4400			BRIDAL,BOPS
+USA 			TN			Franklin			37067			1790 Galleria Blvd.,,			Macy's Cool Springs			615-771-2100			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			TN			Nashville			37215			3813 Hillsboro Pike,,			Macy's Green Hills			615-383-3300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MA			Boston			02111			450 Washington Street,,			Macy's Boston			617-357-3000			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			MA			Cambridge			02141			100 Cambridgeside Pl,Cambridgeside Galleria,			Macy's Cambridge			617-621-3800			BRIDAL,BOPS
+USA 			MA			Saugus			01906			1277 Broadway Route 1,,			Macy's Square One Mall (Saugus)			781-231-8400			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MA			Braintree			02184-2804			250 Granite Street,South Shore Plaza,			Macy's South Shore Mall			781-848-3800			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MA			Burlington			01803-5310			1300 Middlesex Turnpike,Burlington Mall,			Macy's Burlington			781-272-6000			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS
+USA 			MA			Peabody			01960-0065			210 Andover St.,,			Macy's North Shore Mall			978-531-3800			PERSONAL_SHOPPER,MATTRESS,BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			MA			Natick			01760-1515			1245 Worcester Road,,			Macy's Natick			508-653-3800			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			MA			Framingham			01701-5359			1 Worcester Road,Shoppers World,			Macy's Framingham Furniture Gallery			508-650-6025			FURNITURE_GALLERY,MATTRESS
+USA 			MA			Brockton			02301-1810			200 Westgate Drive,,			Macy's Westgate			508-583-0700			BOPS
+USA 			MA			Hanover			02339			1775 Washington Street,,			Macy's Hanover Mall			781-829-2200			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MA			Marlborough			01752			601 Donald Lynch Blvd,,			Macy's Marlborough			508-303-3800			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NH			Salem			03079-2900			85 Rockingham Park Blvd,,			Macy's Salem			603-890-3800			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			NH			Nashua			03060-5730			310 Daniel Webster Hwy.,Pheasant Lane Mall,			Macy's Nashua			603-891-3800			BRIDAL,BOPS
+USA 			MA			Kingston			02364			101 Independence Mall Way,,			Macy's Independence Mall			781-585-1400			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MA			North Attleboro			02760			1029 South Washington Street,Emerald Square,			Macy's Attleboro			508-699-0220			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			WA			Seattle			98181			1601 Third Avenue,,			Macy's Downtown Seattle			206-506-6000			RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Bellevue			98004			400 Bellevue Square,,			Macy's Bellevue Square			425-688-6000			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Seattle			98125			401 NE Northgate Way # 602,,			Macy's Northgate Mall			206-440-6000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Redmond			98052			15340 N.E. 24th Street,,			Macy's Redmond Furniture Gallery			425-688-6850			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Tukwila			98188			500 South Center Mall,,			Macy's Southcenter Mall			(425) 656-6000			BRIDAL,MATTRESS,BOPS
+USA 			WA			Redmond			98052			7400 166th Ave NE,,			Macy's Redmond Town Center			425-498-6000			BRIDAL,BOPS
+USA 			WA			Tukwila			98188			17750 Southcenter Pkwy.,,			Macy's Tukwila Furniture Gallery			425-656-6850			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Tukwila			98188			17855 Southcenter Parkway,,			Macy's Tukwila Furniture Clearance Center			206-575-2164			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Lynnwood			98036			2909 Alderwood Mall Blvd.,,			Macy's Lynnwood Furniture Gallery			425-712-6850			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Lynnwood			98037			18700 Alderwood Mall Blvd.,,			Macy's Alderwood Mall			425-712-6000			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Silverdale			98383			3102 NW Randall Way,,			Macy's Silverdale Furniture Gallery			360-613-6850			FURNITURE_GALLERY,MATTRESS,HAS_EVENTS
+USA 			WA			Silverdale			98383			10315 Silverdale Way,,			Macy's Kitsap Mall			360-613-6000			BRIDAL,BOPS
+USA 			WA			Federal Way			98003			1901 South SeaTac Mall,,			Macy's The Commons at Federal Way			253-529-6000			BRIDAL,MATTRESS,BOPS
+USA 			WA			Everett			98204			1502 SE Everett Mall Way,,			Macy's Everett Mall			425-710-6000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			WA			Tacoma			98409			4502 South Steele #700,,			Macy's Tacoma Mall			253-471-6800			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			CO			Denver			80206			2500 E. 1st Ave,,			Macy's Cherry Creek Furniture Store			303-394-3333			FURNITURE_GALLERY,MATTRESS
+USA 			CO			Denver			80209			15 South Steele Street,,			Macy's Cherry Creek Mall			303-390-2200			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CO			Denver			80238			8298 Northfield Blvd,,			Macy's Northfield Stapleton			303-227-7222			BOPS
+USA 			CO			Aurora			80012			14200 E. Alameda Avenue,,			Macy's Town Center at Aurora			303-214-1860			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CO			Centennial			80122			6801 S. University Blvd.,,			Macy's Southglenn Shopping Center			303-729-1123			BOPS
+USA 			CO			Centennial			80122			6797 South Vine Street,,			Macy's Southglenn Furniture			303-703-3333			FURNITURE_GALLERY,MATTRESS
+USA 			CO			Littleton			80123			8501 W. Bowles Avenue,,			Macy's Southwest Plaza			303-729-2862			BOPS
+USA 			CO			Littleton			80124			8455 Park Meadows Center Drive,,			Macy's Park Meadows			303-566-6370			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CO			Westminster			80023			14535 Delaware Street,,			Macy's Orchard Town Center			303.457.7333			BOPS
+USA 			CO			Broomfield			80021			11 West FlatIron Circle,,			Macy's Flatiron Crossing			303-222-4000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CO			Boulder			80301			1900 29th Street,,			Macy's Twenty Ninth Street Mall			303-218-5955			BRIDAL,BOPS
+USA 			CO			Loveland			80538			5995 Skypond Drive,,			Macy's The Promenade Shops at Centerra			970-612-1401			BRIDAL
+USA 			CO			Colorado Springs			80920			1750 Briargate Blvd.,,			Macy's Chapel Hills Mall			719-593-3333			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CO			Fort Collins			80525			225 East Foothills Pkwy.,,			Macy's Foothills Mall			970-226-5300			BOPS
+USA 			WA			E. Wenatchee			98802			445 Valley Mall Pkwy,,			Macy's Wenatchee Valley Mall			509-881-6000			BRIDAL,BOPS
+USA 			WA			Union Gap			98903			2525 Main Street,,			Macy's Valley Mall			509-577-6000			BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			WA			Richland			99352			1310 Tapteal Drive,,			Macy's Columbia Furniture Gallery			509-737-6850			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Kennewick			99336			400 Columbia Center,,			Macy's Columbia Center			509-734-6000			BRIDAL,BOPS
+USA 			WA			Puyallup			98373			3500 S. Meridian,,			Macy's South Hill Mall			253-840-7000			BRIDAL,BOPS,HAS_EVENTS
+USA 			TN			Goodlettsville			37072			1000 Rivergate Parkway,,			Macy's Rivergate			615-859-5251			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			KY			Bowling Green			42104			2625 Scottsville Road,,			Macy's Greenwood Mall			270-783-8850			BRIDAL,BOPS
+USA 			KY			Owensboro			42301			5000 Frederica Street,,			Macy's Towne Square Mall			270-685-4411			BOPS
+USA 			IN			Evansville			47715			800 N. Greenriver Road,,			Macy's Evansville			812-473-9244			BRIDAL,MATTRESS,BOPS
+USA 			KY			Louisville			40219			4809 Outer Loop,,			Macy's Jefferson Mall			502-966-1800			BRIDAL,MATTRESS,BOPS
+USA 			KY			Louisville			40222			7900 Shelbyville Road,,			Macy's Oxmoor Center Mall			502-423-3000			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			KY			Lexington			40503			3301 Nicholasville Road,,			Macy's Fayette Mall			859-271-7200			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			AL			Birmingham			35243			614 Brookwood Village,,			Macy's Brookwood			205-868-2600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MD			Baltimore			21244			6901 Security Blvd.,,			Macy's Security Square Mall			410-944-8040			BOPS
+USA 			MD			Towson			21204			813 Dulaney Valley Road,,			Macy's Towson Town Center			410-337-3600			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MD			Baltimore			21236			8200 Perry Hall Blvd.,,			Macy's White Marsh			410-931-2000			MATTRESS,BRIDAL,FURNITURE_GALLERY,BOPS,HAS_EVENTS
+USA 			MD			Glen Burnie			21061-4367			7900 Ritchie Highway,,			Macy's Marley Station			410-766-2055			BOPS
+USA 			MD			Bel Air			21014			696 Bel Air Rd,Harford Mall,			Macy's Bel Air			410-879-9801			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MD			Owings Mills			21117-4214			10200 Mill Run Circle,Town Center Mall,			Macy's Owings Mills			410-363-7700			BOPS
+USA 			MD			Columbia			21044			10300 Little Patuxent Pkwy.,Columbia Mall,			Macy's Columbia			410-997-3000			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MD			Annapolis			21401			1295 Annapolis Mall,,			Macy's Annapolis Mall			410-266-0800			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MD			Bowie			20716			15300 Emerald Way,Bowie Towne Center,			Macy's Bowie Towne Center			301-860-1675			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MD			Hyattsville			20782			3500 East-West Hwy.,,			Macy's Prince Georges Plaza			301-559-8800			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MD			Wheaton			20902			11160 Veirs Mill Road,Wheaton Mall,			Macy's Wheaton			240-880-4200			BOPS,HAS_EVENTS
+USA 			MD			Gaithersburg			20877			701 Russell Avenue,,			Macy's Lakeforest Mall			301-948-3360			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MD			Bethesda			20817			7125 Democracy Blvd.,,			Macy's Montgomery Mall			301-469-6800			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			DC			Washington			20005			1201 G. Street,N.W.,			Macy's Downtown-Metro Center			202-628-6661			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MD			Marlow Heights			20748			4101 Branch Ave.,,			Macy's Marlow Heights			301-423-3300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OR			Portland			97204			621 South West 5th Avenue,,			Macy's Downtown Portland			503-223-0512			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			OR			Portland			97232			1100 Lloyd Center,,			Macy's Lloyd Center			503-281-4797			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OR			Tigard			97223			9009 SW Hall Blvd.,,			Macy's Tigard Furniture Gallery			503-207-7800			FURNITURE_GALLERY,MATTRESS
+USA 			OR			Tigard			97223			9300 S.W. Washington Square Road,,			Macy's Washington Square			503-620-3311			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			OR			Portland			97086			12100 S.E. 82nd Avenue,,			Macy's Clackamas Town Center			503-653-8811			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			OR			Hillsboro			97124			2055 NW Allie Ave,,			Macy's at The Streets of Tanasbourne			503-617-6999			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Vancouver			98662			8208 N.E. Vancouver Mall Drive,,			Macy's Westfield Vancouver Mall			360-256-4411			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			OR			Salem			97301			831 Lancaster Drive N.E.,,			Macy's Salem			503-361-6800			BOPS
+USA 			OR			Salem			97301			400 High Street N.E.,,			Macy's Salem Center			(503) 363-2211			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			WA			Kelso			98626			331 Three Rivers Drive,,			Macy's Three Rivers Mall			360-414-6000			BOPS
+USA 			OR			Eugene			97401			100 Valley River Center,,			Macy's Valley River Center			541-342-6611			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			WA			Olympia			98502			625 Black Lake Boulevard,#301,			Macy's Westfield Capital			360-534-7000			BRIDAL,BOPS,HAS_EVENTS
+USA 			WA			Olympia			98502			2905 Harrison Avenue NW,,			Macy's Olympia Furniture Gallery			360-534-7850			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Tacoma			98408			1767 S 48th St,,			Macy's Tacoma Furniture Gallery			253-471-5400			FURNITURE_GALLERY,MATTRESS
+USA 			OK			Oklahoma City			73118			1901 N.W. Expressway,,			Macy's Penn Square Mall			405-841-2800			BRIDAL,BOPS
+USA 			OK			Oklahoma City			73134			2501 West Memorial,,			Macy's Quail Springs Mall			405-752-4900			BRIDAL,BOPS
+USA 			OK			Tulsa			74135			4143 S. Yale Avenue,,			Macy's Promenade			918-610-7500			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OK			Tulsa			74133			8707 East 71st Street,,			Macy's Woodland Hills			918-250-2990			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NV			Las Vegas			89109			3200 Las Vegas Blvd,,			Macy's Fashion Show			702-731-5111			PERSONAL_SHOPPER,BOPS,HAS_EVENTS
+USA 			NV			Las Vegas			89109			3634 Maryland Pkwy.,,			Macy's The Boulevard			702-791-2100			BOPS,HAS_EVENTS
+USA 			NV			Las Vegas			89102-8720			4450 W. Spring Mountain Road,,			Macy's Las Vegas Home			702-579-6333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NV			Las Vegas			89107-3102			4100 Meadows Lane,,			Macy's Meadows Mall			702-258-2100			BOPS
+USA 			NV			Henderson			89014			1304 Sunset Road,,			Macy's Galleria Mall at Sunset			702-458-7300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Victorville			92392			14580 Bear Valley Road,,			Macy's Victor Valley			760-493-3300			BOPS,HAS_EVENTS
+USA 			CA			Palm Desert			92260			72810 Highway 111,,			Macy's Westfield Palm Desert Furniture Store			760-346-9300			FURNITURE_GALLERY
+USA 			CA			Palm Desert			92260-3313			72780 Highway 111,,			Macy's Westfield Palm Desert			760-346-9300			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			San Bernardino			92408-1951			400 Inland Center Drive,,			Macy's San Bernardino			909-888-1444			BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Moreno Valley			92553			22400 Town Gate Circle,,			Macy's Moreno Valley Mall			951-656-1611			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Rancho Cucamonga			91739-8801			7855 Kew Avenue,,			Macy's Victoria Gardens			(909) 646-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Palmdale			93551			1123 Rancho Vista Blvd,,			Macy's Antelope Valley #414			661-456-3333			BOPS,HAS_EVENTS
+USA 			NM			Albuquerque			87110-3400			6600 Menual,,			Macy's Coronado Center			505-889-2100			BRIDAL,BOPS
+USA 			NM			Albuquerque			87114			10000 Coors Bypass NW,,			Macy's Cottonwood Mall			505-897-3600			BOPS
+USA 			CA			Fresno			93710-8104			1732 E. Shaw Avenue,,			Macy's Fresno Furniture			559-222-6611			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Fresno			93726-0350			4888 N. Fresno Street,,			Macy's Fashion Fair Mall			559-228-3333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Fresno			93720			7890 N. Blackstone Ave,,			Macy's Shops at River Park			559-451-3333			BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Visalia			93277			2211 S. Mooney Blvd.,,			Macy's Visalia			559-622-1111			BOPS
+USA 			CA			Modesto			95356-0502			500 Vintage Faire,,			Macy's Vintage Faire Mall			209-575-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Bakersfield			93304-4147			2601 Ming Avenue,,			Macy's Valley Plaza Mall			661-832-5550			BRIDAL,BOPS
+USA 			CA			Salinas			93901			200 Northridge Center,,			Macy's North Ridge Mall			831-443-1111			BOPS
+USA 			CA			Tracy			95304			3400 Naglee Road,,			Macy's West Valley - Tracy			209-221-4500			BOPS
+USA 			CA			Monterey			93940-6154			100 Del Monte Center,,			Macy's Del Monte Shopping Center			831-372-3333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Monterey			93940-6158			260 Del Monte Center,,			Macy's Del Monte Shopping Center Furniture Store			831-372-3333			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Stockton			95207-5612			5242 Pacific Avenue,,			Macy's Sherwood Mall			209-477-3333			BRIDAL,BOPS
+USA 			CA			Santa Maria			93454			302 Town Center East,,			Macy's Santa Maria Town Center			805-349-8940			BRIDAL,BOPS
+USA 			CA			Antioch			94509			2500 Somersville Road,,			Macy's Antioch Somersville Towne Center			(925) 219-3333			BOPS
+USA 			CA			Fairfield			94533-3427			1544 Travis Blvd,,			Macy's Westfield Solano			707-428-3333			BRIDAL,BOPS
+USA 			NJ			Woodbridge Township			07095-0010			237 Woodbridge Center Dr,,			Macy's Woodbridge			732-636-2450			MATTRESS,BRIDAL,BOPS
+USA 			NJ			Edison			08837-4408			275 Parsonage Road,Menlo Park Mall,			Macy's Menlo Park			732-549-4400			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NJ			Springfield			07081-3144			114 Route 22 West,Route 22 & Stern Ave.,			Macy's Rt. 22 Furniture Gallery			973-376-8699			FURNITURE_GALLERY,MATTRESS
+USA 			NJ			Short Hills			07078-2718			1220 Morris Turnpike,Short Hills Mall,			Macy's Short Hills			973-467-0800			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NJ			South Plainfield			07080			6305 Hadley Road,,			Macy's Middlesex			908-561-8400			BOPS
+USA 			NJ			East Brunswick			08816			755 Route 18,,			Macy's East Brunswick			732-238-1400			MATTRESS,BRIDAL,BOPS
+USA 			NJ			Livingston			07039-4995			112 Eisenhower Pkwy,Livingston Mall,			Macy's Livingston			973-994-2000			MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Sacramento			95814-3304			414 K Street,,			Macy's Downtown Plaza Sacramento			916-444-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Sacramento			95815-5001			1701 Arden Way,,			Macy's Arden Fair Mall			916-925-2845			BOPS
+USA 			CA			Sacramento			95825			3500 El Camino Avenue,,			Macy's Country Club Plaza			916-485-3885			BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Citrus Heights			95610-6904			6000 Sunrise Blvd,,			Macy's Sunrise Mall			916-962-3333			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Roseville			95678			1152 Galleria Blvd.,,			Macy's Roseville Furniture			916-786-5333			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Roseville			95678-1917			1197 Galleria Blvd.,,			Macy's Westfield Galleria at Roseville			916-771-3333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Torrance			90503-5710			21600 Hawthorne Blvd.,,			Macy's Del Amo Fashion Center			310-370-8511			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Westminster			92683			300 Westminster Mall,,			Macy's Westminster Mall			714-657-3333			BRIDAL,BOPS
+USA 			CA			Redondo Beach			90278			1801 Hawthorne Blvd.,,			Macy's South Bay Galleria			310-370-2511			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Manhattan Beach			90266-3629			3400 Sepulveda Blvd.,,			Macy's Manhattan Village			310-546-5525			BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Costa Mesa			92626-7706			3333 Bear Street,,			Macy's South Coast Plaza Home			714-708-3333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Costa Mesa			92626-1811			3333 Bristol Street,,			Macy's South Coast Plaza			714-556-0611			PERSONAL_SHOPPER,RESTAURANT,BOPS,HAS_EVENTS
+USA 			KS			Prairie Village			66206			4000 West 71st,,			Macy's Prairie Village Shopping Ctr			913-262-1355			BRIDAL,BOPS
+USA 			MO			Independence			64057			18809 E. 39th Street,,			Macy's Independence Center			816-795-1688			BRIDAL,MATTRESS,BOPS
+USA 			MO			Kansas City			64155			400 N.W. Barry Road,,			Macy's Metro North Mall			816-468-4646			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			KS			Overland Park			66214			11201 W. 95th Street,,			Macy's Oak Park			913-888-4910			BRIDAL,BOPS
+USA 			KS			Overland Park			66214			11201 West 95th Street,,			Macy's Oak Park Furniture			913-888-4910			FURNITURE_GALLERY,MATTRESS
+USA 			KS			Leawood			66209			5100 West 119th St.,,			Macy's Town Center PLaza			913-563-3996			BRIDAL,BOPS
+USA 			MO			Lee's Summit			64086			900 NW Blue Parkway,,			Macy's Summit Fair			816-600-3500			BOPS
+USA 			MO			Columbia			65203			201 North Stadium Boulevard,,			Macy's Biscayne Commons			573-446-8755			BRIDAL,BOPS
+USA 			MO			Joplin			64801			101 N Range Line Road,,			Macy's North Park Mall			417-782-6500			BRIDAL,BOPS
+USA 			MO			Springfield			65804			2825 S Glenstone Ave # 100,,			Macy's Battlefield Mall			417-882-1500			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			TX			Beaumont			77706			6175 Eastex Fwy.,,			Macy's Parkdale Mall			409-924-6700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			VA			Virginia Beach			23452			701 South Lynnhaven Pkwy.,,			Macy's Lynnhaven Mall			757-306-0666			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			VA			Norfolk			23502			880 N. Military Highway,,			Macy's Military Circle			757-461-2911			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			VA			Chesapeake			23320			1401 Greenbrier Pkwy.,,			Macy's Greenbrier			757-424-6260			BRIDAL,BOPS
+USA 			VA			Chesapeake			23321			4200 Portsmouth Blvd,,			Macy's Chesapeake			757-465-9738			BOPS
+USA 			VA			Hampton			23666			3000 Allainby Way,,			Macy's Peninsula Town Center			757-827-8900			FURNITURE_GALLERY,MATTRESS
+USA 			VA			Newport News			23602			12300 Jefferson Ave.,,			Macy's Patrick Henry			757-249-1656			BRIDAL,BOPS
+USA 			VA			Colonial Heights			23834			170 South Park Cir,South Park Mall,			Macy's South Park Mall			804-526-4400			BRIDAL,BOPS
+USA 			VA			Glen Allen			23059			10101 Brook Road,Suite 500,			Macy's Virginia Center Commons			804-261-3991			BRIDAL,BOPS
+USA 			VA			Richmond			23235			11504 Midlothian Turnpike,,			Macy's Chesterfield Town Center			804-794-5800			BRIDAL,BOPS
+USA 			VA			Richmond			23229			1406 Parham Road,,			Macy's Regency Square			804-740-6700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			VA			Richmond			23233			11872 West Broad Street,,			Macy's Short Pump			804-364-8209			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MD			Salisbury			21801			2304 N. Salisbury Blvd.,,			Macy's Centre at Salisbury			410-860-0660			BRIDAL,BOPS
+USA 			VA			Fredericksburg			22407			3102 Plank Road,,			Macy's Spotsylvania Mall			540-786-5525			BRIDAL,BOPS
+USA 			MD			Waldorf			20603			11200 Mall Circle,,			Macy's St. Charles Town Center			301-870-5800			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Atlanta			30326			3393 Peachtree Road,NE,			Macy's Lenox  Square Mall			404-231-2800			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			GA			Decatur			30034			2731 Candler Road,,			Macy's South Dekalb Mall			404-243-2600			MATTRESS,BOPS
+USA 			GA			Atlanta			30331			2841 Greenbriar Parkway,,			Macy's Greenbriar Mall			404-346-2690			MATTRESS,BOPS
+USA 			GA			Decatur			30033			2144 Lawrenceville Highway,,			Macy's North Dekalb Mall			404-329-2600			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Atlanta			30339			1300 Cumberland Mall,,			Macy's Cumberland Mall			770-434-2600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Atlanta			30345			4800 Briarcliff Road,,			Macy's Northlake Mall			770-491-2985			MATTRESS,BOPS
+USA 			GA			Atlanta			30346			4300 Ashford Dunwoody Road,,			Macy's Perimeter  Mall			770-396-2800			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			GA			Atlanta			30346			4300 Ashford Dunwoody Road,,			Macy's Perimeter Furniture Showroom			770-396-2800			FURNITURE_GALLERY,MATTRESS
+USA 			GA			Morrow			30260			1500 Southlake Mall,,			Macy's Southlake Mall			770-961-3300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Lithonia			30038			8030 Mall Parkway,,			Macy's Stonecrest Mall			678-526-2300			BRIDAL,MATTRESS,BOPS
+USA 			GA			Duluth			30096			3360 Ventura Parkway,,			Macy's Gwinnett  Furniture			770-623-2200			FURNITURE_GALLERY,MATTRESS
+USA 			GA			Douglasville			30135			6690 Douglas Blvd.,,			Macy's Arbor Place			678-391-2300			BRIDAL,MATTRESS,BOPS
+USA 			GA			Alpharetta			30022			7231 North Point Parkway,,			Macy's North Point Furniture			678-795-2512			FURNITURE_GALLERY,MATTRESS
+USA 			GA			Duluth			30096			2100 Pleasant Hill Road,,			Macy's Gwinnett Place Mall			770-497-2600			BOPS
+USA 			GA			Kennesaw			30144			400 Ernest W Barrett Parkway,,			Macy's Town Center Mall			770-423-2600			BRIDAL,BOPS,HAS_EVENTS
+USA 			VA			Lynchburg			24502			3419 Candlers Mtn. Rd.,,			Macy's River Ridge Mall			434-239-5611			BRIDAL,BOPS
+USA 			VA			Roanoke			24012			4841 Valley View Blvd. N.W.,,			Macy's Valley View Mall			540-362-0900			BRIDAL,BOPS,HAS_EVENTS
+USA 			SD			Sioux Falls			57106			4001 West 41st Street,,			Macy's Sioux Falls			605-361-4500			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			FL			Miami			33131			22 East Flagler Street,,			Macy's Downtown Miami			305-577-1500			RESTAURANT,MATTRESS,BOPS
+USA 			FL			Miami Beach			33139			1675 Meridian Ave.,,			Macy's South Beach			305-674-6300			VISITOR_CENTER,BOPS
+USA 			FL			Hialeah			33012			1777 West 49th Street,,			Macy's Westland			305-825-7300			MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Miami			33172			1205 N.W. 107th Ave,,			Macy's International Mall West Dade			305-594-6300			RESTAURANT,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Miami			33156			7303 S.W. 88 Street,Center of Mall,			Macy's Dadeland			305-662-3400			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Aventura			33180			19535 Biscayne Blvd.,,			Macy's Aventura			305-682-3300			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			FL			Miami			33156			13251 South Dixie Highway,,			Macy's South Dade Furniture Gallery			305-254-5700			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Miami			33176-5881			9100 SW 136th Street,,			Macy's The Falls			305-278-3300			RESTAURANT,MATTRESS,BOPS
+USA 			FL			Pembroke Pines			33026			11605 Pines Blvd.,,			Macy's Pembroke Lakes Mall			954-438-2400			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Pembroke Pines			33027			13640 Pines Blvd.,,			Macy's Pembroke Pines Furniture Gallery			954-438-2500			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Miami			33189			20507 S. Dixie Highway,,			Macy's Southland Mall			305-252-5200			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Plantation			33388			8000 W. Broward Blvd.,,			Macy's Broward Mall			954-475-3400			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Ft. Lauderdale			33304			2314 E. Sunrise Blvd.,,			Macy's Galleria			954-537-2300			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Fort Lauderdale			33308			4501 N. Federal Highway,,			Macy's Fort Lauderdale Furniture Gallery			954-567-6500			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Coral Springs			33071			9129 West Atlantic Blvd,,			Macy's Coral Square			954-345-3300			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MN			Minneapolis			55402			700 On The Mall,,			Macy's Minneapolis			612-375-2200			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MN			Bloomington			55425-5509			4000 S.W. Court,,			Macy's Mall of America			952-888-3333			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			MN			Roseville			55113			900 Rosedale Center,,			Macy's Rosedale			651-639-6600			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			MN			Roseville			55113			1375 Commerce Street,,			Macy's Rosedale Furniture Gallery			651-639-2040			FURNITURE_GALLERY,MATTRESS
+USA 			MN			Edina			55435			100 Southdale Center,,			Macy's Southdale			952-924-6600			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,BOPS,HAS_EVENTS
+USA 			MN			Edina			55435			7235 France Avenue South,,			Macy's Southdale Furniture Gallery			952-896-2160			FURNITURE_GALLERY,MATTRESS
+USA 			MN			Minnetonka			55305			12411 Wayzata Blvd,,			Macy's Ridgedale			952-591-6600			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MN			Maplewood			55109			3001 White Bear Avenue,,			Macy's Maplewood			651-773-6600			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MN			Burnsville			55306			14251 Burnhaven Drive,,			Macy's Burnsville			952-435-4812			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MN			St. Cloud			56301			4201 Division Street,,			Macy's St Cloud			320-654-4300			BRIDAL,BOPS,HAS_EVENTS
+USA 			MN			Rochester			55902			901 Apache Mall,,			Macy's Rochester			507-280-5400			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			WI			Eau Claire			54701			4606 Golf Road,,			Macy's Eau Claire			715-833-5000			BRIDAL,BOPS
+USA 			WI			La Crosse			54601			3900 US Hwy 16,Valley View Mall,			Macy's La Crosse			608-781-7800			BRIDAL,BOPS,HAS_EVENTS
+USA 			OH			University Heights			44118			2201 Warrensville Center Road,,			Macy's University Heights Square			216-382-6000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Richmond Heights			44143			641 Richmond Road,,			Macy's Richmond Town Square Mall			440-684-1800			BRIDAL,BOPS
+USA 			OH			North Olmsted			44070			25801 Brookpark Road,,			Macy's Great Northern			440-777-7000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Strongsville			44136			17447 Royalton Road,,			Macy's Southpark Center			440-846-7000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Mentor			44060			7850 Mentor Avenue,,			Macy's Great Lakes Mall			440-255-4411			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Elyria			44035			3000 Midway Mall,,			Macy's Midway Mall			440-324-6663			BOPS
+USA 			OH			Akron			44313			3265 West Market Street,,			Macy's Summit Mall			330-867-8888			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			OH			Stow			44224			4301 Kent Road,,			Macy's Stow-Kent Plaza			330-688-8281			BOPS
+USA 			OH			Akron			44310			2000 Brittain Road,,			Macy's Chapel Hill Shopping Center			330-633-0800			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Canton			44718			4300 Belden Village Avenue,,			Macy's Belden Village Mall			330-494-8200			BRIDAL,MATTRESS,BOPS
+USA 			OH			Niles			44446			5403 Youngstown-Warren Road,,			Macy's Eastwood Mall			330-652-5801			MATTRESS,BOPS
+USA 			OH			Youngstown			44512			7401 Market Street,,			Macy's Southern Park Mall			330-758-8661			VISITOR_CENTER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			PA			Hermitage			16148			3515 E. State Street,,			Macy's Shenango Mall			724-981-7410			BRIDAL,BOPS
+USA 			HI			Honolulu			96814			1450 Ala Moana Boulevard,,			Macy's Ala Moana Center			808-941-2345			PERSONAL_SHOPPER,VISITOR_CENTER,RESTAURANT,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			HI			Honolulu			96814			1450 Ala Moana Blvd., Suite 2074,,			Macy's Jewel Gallery			808-941-2345			
+USA 			HI			Honolulu			96815			2314 Kalakaua Avenue,,			Macy's Ohana Waikiki Beachcomber			808-926-5217			VISITOR_CENTER,BOPS
+USA 			HI			Honolulu			96816			4211 Waialae Avenue,,			Macy's Kahala Mall			808-737-5429			VISITOR_CENTER,BOPS,HAS_EVENTS
+USA 			HI			Aiea			96701			98-205 Kaonohi St.,,			Macy's Pearlridge Center			808-486-6701			VISITOR_CENTER,MATTRESS,BOPS
+USA 			HI			Kaneohe			96744			46-056 Kamehameha Highway,,			Macy's Windward Center			808-235-6612			VISITOR_CENTER,MATTRESS,BOPS,HAS_EVENTS
+USA 			HI			Kailua			96734-3455			573 Kailua Road,,			Macy's Kailua			808-262-5395			VISITOR_CENTER,BOPS
+USA 			HI			Kaanapali			96761			200 Nohea Kai Drive,,			Macy's Hyatt Regency			808-667-7785			BOPS
+USA 			HI			Maui			96732			275 Kaahumanu Avenue,Kahului,			Macy's Ka'ahumanu			808-877-3361			PERSONAL_SHOPPER,VISITOR_CENTER,BOPS,HAS_EVENTS
+USA 			HI			Lihue			96766			3-2600 Kaumualii Hwy.,,			Macy's Kukui Grove			808-245-7751			VISITOR_CENTER,BOPS,HAS_EVENTS
+USA 			HI			Waikoloa			96738			250 Waikoloa Beach Drive,Suite B-6,			Macy's Kings' Shops			808-886-5385			BOPS
+USA 			HI			Kailua-Kona			96740			74-5475 Kamakaeha Avenue,,			Macy's Makalapua Center			808-329-6300			BOPS
+USA 			LA			Metarie			70002			3301 Veterans Memorial Boulevard,,			Macy's Lakeside Shopping Center			504-484-4600			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS
+USA 			LA			Kenner			70065-2845			1401 West Esplanade,,			Macy's The Esplanade			504-461-4800			MATTRESS,BOPS
+USA 			LA			Baton Rouge			70809			6301 Bluebonnet Blvd.,,			Macy's Mall Of Louisiana			225-757-7000			BRIDAL,MATTRESS,BOPS
+USA 			LA			Baton Rouge			70815			9301 Cortana,,			Macy's Cortana			225-201-8200			MATTRESS,BOPS
+USA 			LA			Lafayette			70503			5733 Johnston Street,,			Macy's Acadiana			337-981-8000			BRIDAL,BOPS
+USA 			CA			Santa Clarita			91355			26450 McBean Pkwy,,			Macy's Westfield Valencia Town Center			661-287-5911			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Santa Barbara			93101-3329			701 State Street,,			Macy's Paseo Nuevo			805-963-4566			BRIDAL,MATTRESS,BOPS
+USA 			CA			Simi Valley			93065			1475 Simi Town Center Way,,			Macy's Simi Valley Town Center			805-581-3333			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Santa Barbara			93105			3805 State Street,,			Macy's La Cumbre Plaza			805-687-6411			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Ventura			93003-3439			477 S. Mills Rd.,,			Macy's Pacfic View Mall			805-642-7511			BRIDAL,BOPS
+USA 			CA			Thousand Oaks			91360-4216			590  W. Hillcrest Drive,,			Macy's The Oaks			805-496-4444			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Northridge			91324-2503			9301 Tampa Avenue,,			Macy's Northridge Fashion Center			818-885-6611			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Canoga Park			91304			21900 Vanowen Street,,			Macy's Westfield Topanga Plaza			818-883-7211			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			Woodland Hills			91367			6101 Owensmouth Avenue,,			Macy's Woodland Hills Furniture			818-313-8844			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Woodland Hills			91367-3627			6100 Topanga Canyon Blvd.,,			Macy's Westfield Promenade			818-313-8844			MATTRESS,FURNITURE_GALLERY,BOPS
+USA 			CA			North Hollywood			91606			6150 Laurel Canyon Road,,			Macy's Laurel Plaza			818-766-4111			FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CA			Newport Beach			92660-6903			101 Newport Center Drive,,			Macy's Fashion Island			949-640-8333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Irvine			92618			93 Fortune Dr,,			Macy's Irvine Spectrum Center			949-341-9111			BOPS
+USA 			MO			St. Louis			63117			1550 St. Louis Galleria,,			Macy's St. Louis Galleria			314-726-1810			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			MO			St. Louis			63129			10 South County Center way,,			Macy's South County Center			314-892-0110			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			IL			Fairview Heights			62208			200 St. Clair Square,,			Macy's St. Clair Square			618-624-2000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MO			St. Louis			63131			2 West County Center,,			Macy's West County Center			314-966-0017			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MO			Chesterfield			63017			49 Chesterfield Mall,,			Macy's Chesterfield Mall			636-532-3800			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Alton			62002			100 Alton Square,,			Macy's Alton Square			618-463-4100			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MO			St. Peters			63376			#1 Mid Rivers Mall,,			Macy's Mid Rivers Mall			636-278-6660			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			IL			Springfield			62704			101 White Oaks Mall,,			Macy's White Oaks			217-787-9900			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			IL			Bloomington			61701			1615 East Empire Street,,			Macy's Eastland Mall			309-665-0622			BOPS
+USA 			IL			Champaign			61820			2000 North Neil Street,,			Macy's Market Place			217-363-5600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			IL			Peoria			61613			2200 West War Memorial Drive,,			Macy's Peoria			309-682-2600			BRIDAL,BOPS
+USA 			CA			Riverside			92503-4156			3500 Tyler Mall,,			Macy's Galleria at Tyler			951-687-1021			BRIDAL,BOPS
+USA 			TX			McAllen			78503			2100 South 10th Street,,			Macy's La Plaza Mall			956-631-7700			BRIDAL,BOPS
+USA 			PA			Pittsburgh			15219			400 Fifth Avenue,,			Macy's Downtown Pittsburgh			412-232-2000			RESTAURANT,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			PA			Pittsburgh			15241			100 South Hills Village,South Hills Village Mall,			Macy's South Hills Furniture			412-854-6800			FURNITURE_GALLERY,MATTRESS
+USA 			PA			Homestead			15120			162 East Bridge St.,,			Macy's Waterfront			412-685-5100			BRIDAL,MATTRESS,BOPS
+USA 			PA			Pittsburgh			15237			1014 Ross Park Mall Drive,,			Macy's Ross Park Furniture			412-630-4040			FURNITURE_GALLERY,MATTRESS
+USA 			PA			Pittsburgh			15237			1004 Ross Park Mall,,			Macy's Ross Park Mall			412-366-1400			BRIDAL,BOPS,HAS_EVENTS
+USA 			PA			West Mifflin			15122			3075 Clairton Road,,			Macy's Century III Mall			412-655-1300			BOPS
+USA 			PA			Pittsburgh			15241			100 South Hills Village,,			Macy's South Hills Village Mall			412-854-6800			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			PA			Pittsburgh			15205			3000 Robinsons Center Drive,,			Macy's Mall at Robinson Town Center			412-787-9777			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			PA			Monroeville			15146			400 Monroeville Mall,,			Macy's Monroeville Mall			412-858-3700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			PA			Tarentum			15084			100 Pittsburgh Mills Circle,,			Macy's Frazer Heights Galleria at PM			724-274-1000			BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			PA			Monaca			15061			100 Beaver Valley Mall,,			Macy's Beaver Valley Mall			724-774-9100			MATTRESS,BOPS
+USA 			PA			Washington			15301			1500 West Chestnut Street,,			Macy's Washington Crown Centre			724-222-7100			BRIDAL,BOPS
+USA 			PA			Greensburg			15601			5256 State Route 30,,			Macy's Westmoreland Mall			724-836-6000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			OH			Steubenville			43952			100 Mall Drive,,			Macy's Fort Steuben Mall			740-264-7341			BOPS
+USA 			OH			St. Clairsville			43950			67800 Mall Ring Road,,			Macy's Ohio Valley Mall			740-695-5900			BOPS
+USA 			OH			Cincinnati			45255			7440 Beechmont Ave.,,			Macy's Anderson Town Center			513-624-4280			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			WV			Barboursville			25504			Unit 300 Huntington Mall,,			Macy's Huntington Mall			304-733-0244			BRIDAL,BOPS
+USA 			NJ			Wayne			07470-6901			200 Us Highway 46,,			Macy's Rt. 46 Furniture Gallery			973-785-0407			FURNITURE_GALLERY,MATTRESS
+USA 			NJ			Wayne			07470			100 Route 46,,			Macy's Willowbrook			973-785-9525			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			IL			Rockford			61112			7200 Harrison Avenue,,			Macy's Cherryvale			815-332-2424			BRIDAL,MATTRESS,BOPS
+USA 			IL			Joliet			60435			3340 Mall Loop Drive,,			Macy's Louis Joliet			815-254-5200			BRIDAL,BOPS
+USA 			NY			Cheektowanga			14225			4 Walden Galleria,,			Macy's Walden Galleria			716-684-6267			PERSONAL_SHOPPER,BRIDAL,BOPS
+USA 			NY			Blasdell			14219			3701 S. McKinley Parkway,,			Macy's McKinley Mall			716-825-1470			BRIDAL,BOPS
+USA 			NY			Amherst			14226			730 Alberta Dr,Boulevard Mall,			Macy's Boulevard			716-837-9400			BRIDAL,BOPS
+USA 			NY			Williamsville			14221			4545 Transit Road,,			Macy's Eastern Hills			716-631-5800			BOPS
+USA 			NY			Rochester			14626			397 Greece Ridge Center,,			Macy's Mall at Greece Ridge Center			585-723-8890			BRIDAL,BOPS
+USA 			NY			Rochester			14623			20 Miracle Mile Drive,,			Macy's The Marketplace			585-424-6224			BRIDAL,BOPS
+USA 			NY			Victor			14564			7979 Victor - Pittsford Road,,			Macy's Eastview Mall			585-223-9181			BRIDAL,BOPS,HAS_EVENTS
+USA 			PA			Erie			16509			850 Mill Creek Mall,,			Macy's Millcreek Mall			814-868-5211			BRIDAL,MATTRESS,BOPS
+USA 			NY			Horsehead			14845			3300 CHAMBERS ROAD SOUTH,,			Macy's Arnot Mall			607-739-3717			BOPS
+USA 			NY			Clay			13041			4081 New York State #31,Great Northern Mall,			Macy's Clay			315-622-4655			BOPS
+USA 			NY			Syracuse			13204			9509 Destiny USA Drive,,			Macy's Destiny USA			315-466-3333			BRIDAL,BOPS
+USA 			NY			DeWitt			13214			3649 Erie Boulevard,,			Macy's Shoppingtown Mall			315-446-4646			BOPS
+USA 			PA			State College			16801			2900 East College Avenue,,			Macy's Nittany Mall			814-235-5200			BOPS
+USA 			IN			Mishawaka			46545			6501 North Grape Road,,			Macy's University Park Mall			(574) 277-2950			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MI			Battle Creek			49015			5725 Beckley Road,,			Macy's Battle Creek			269-979-5800			BRIDAL,BOPS
+USA 			MI			Portage			49002			6666 S Westnedge Avenue,,			Macy's Kalamazoo			269-324-4400			BRIDAL,BOPS
+USA 			FL			Winter Haven			33880			231 Citi Centre Street,,			Macy's Citi Center			863-297-6300			BOPS
+USA 			FL			Lakeland			33809			3800 U.S. 98 North,,			Macy's Lakeland Square Mall			863-853-7200			MATTRESS,BOPS
+USA 			FL			Melbourne			32904			1700 West New Haven Avenue,,			Macy's Melbourne Square Mall			321-837-5300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Brandon			33511			638 Brandon Town Center,,			Macy's Westfield Brandon			813-651-5200			BRIDAL,MATTRESS,BOPS
+USA 			OR			Bend			97701			3188 North Highway 97,,			Macy's Bend River Mall			(541) 317-6000			BRIDAL,BOPS,HAS_EVENTS
+USA 			FL			St. Petersburg			33710			6901 22nd Ave North,,			Macy's Tyrone Square			727-346-2300			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Tampa			33611			4130 Gandy Blvd.,,			Macy's Tampa Furniture Gallery			813-805-5270			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Tampa			33609			298 WestShore Plaza,,			Macy's WestShore Plaza			813-286-5300			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS
+USA 			FL			Clearwater			33761			27001 U.S. Highway 19 North,,			Macy's Westfield Countryside			727-724-7312			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Clearwater			33761			26256 U.S. Highway 19 North,,			Macy's Countryside Furniture Gallery			727-712-5525			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Tampa			33625			7801 Citrus Park Town Center,,			Macy's Westfield Citrus Park			813-926-7300			MATTRESS,BRIDAL,BOPS
+USA 			FL			Bradenton			34205			303 U.S. 301 Blvd. West,,			Macy's DeSoto Square			941-745-5300			MATTRESS
+USA 			FL			Tampa			33612			2201 University Mall,,			Macy's University Square Mall			813-975-2200			MATTRESS,BOPS
+USA 			FL			Sarasota			34239			600 Southgate Shopping Plaza,,			Macy's Westfield Southgate			941-329-3300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Sarasota			34238			8201 South Tamiami Trail,,			Macy's Westfield Sarasota Square			941-925-5300			MATTRESS,BOPS
+USA 			WI			Madison			53705			702 North Midvale Blvd,,			Macy's Hilldale			608-232-2400			BRIDAL,BOPS
+USA 			WI			Wauwatosa			53226			2500 N Mayfair Road,,			Macy's Mayfair			414-471-3700			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			WI			Greendale			53129			5300 S. 76th Street,,			Macy's Southridge			414-209-1400			MATTRESS,BOPS
+USA 			IL			Gurnee			60031			6124 West Grand Avenue,,			Macy's Gurnee Mills			224.399.4800			BOPS
+USA 			IL			West Dundee			60118			1000 Spring Hill Mall,,			Macy's Spring Hill			847-551-4800			BOPS
+USA 			WI			Appleton			54913			4311 W Wisconsin Avenue,,			Macy's Fox River			920-730-6500			BRIDAL,BOPS
+USA 			CA			Sherman Oaks			91423-1918			14000 Riverside Drive,,			Macy's Westfield Fashion Square			818-788-8350			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			NV			Reno			89502-6502			5100 Meadowood Mall,,			Macy's Meadowood Mall			775-826-8333			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NV			Reno			89502-6025			6011 South Virginia Street,,			Macy's Reno Furniture			775 789 3533			FURNITURE_GALLERY,MATTRESS
+USA 			CA			Redding			96003-3808			1291 Hilltop Drive,,			Macy's Mt. Shasta Mall			530-722-9111			BRIDAL,BOPS
+USA 			VA			Springfield			22150-1707			6400  T. Springfield Mall,,			Macy's Springfield			703-719-6100			BOPS
+USA 			NY			Hicksville			11801-2701			100 Broadway Mall,,			Macy's Hicksville			516-938-6800			MATTRESS,FURNITURE_GALLERY,BOPS
+USA 			NY			Huntington Station			11746-4417			160 Walt Whitman Rd,,			Macy's Walt Whitman Mall			631-427-7200			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS
+USA 			NY			Massapequa			11758-4326			400 Sunrise Mall,Westfield Sunrise,			Macy's Massapequa			516-795-2000			MATTRESS,BRIDAL,BOPS
+USA 			ID			Boise			83704			370 North Milwaukee,,			Macy's Boise Towne Square			208-373-6000			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			ID			Nampa			83687			1406 N. Galleria Drive,,			Macy's Nampa Gateway			208-463-6800			BOPS
+USA 			ID			Twin Falls			83301			1379 Poleline Road East,,			Macy's Magic Valley Mall			208-736-6800			BRIDAL,BOPS
+USA 			ID			Lewiston			83501			1806 19th Avenue,,			Macy's Lewiston Town Center			208-798-6000			BRIDAL,BOPS
+USA 			WA			Walla Walla			99362			54 East Main Street,,			Macy's Downtown Walla Walla			509-527-6000			BOPS
+USA 			AL			Birmingham			35244			2600 Riverchase Galleria,,			Macy's Riverchase Galleria			205-985-2600			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			GA			Columbus			31904			3091 Manchester Expressway,,			Macy's Peachtree Mall			706-478-2300			BRIDAL,BOPS
+USA 			GA			Kennesaw			30144			400 Ernest W Barrett Parkway,,			Macy's Town Center Furniture			678-290-2500			FURNITURE_GALLERY,MATTRESS
+USA 			NY			Johnson City			13790			601 Harry L Drive,,			Macy's Binghamton (Oakdales)			607-797-4990			BRIDAL,BOPS
+USA 			NY			New Hartford			13413			Sangertown Square Mall,,			Macy's Sangertown Square (Utica)			315-734-0585			BRIDAL,BOPS
+USA 			PA			Pennsdale			17756			300 Lycoming Mall Circle,Suite 320,			Macy's Lycoming Mall (Williamsport)			570-546-6998			BRIDAL,BOPS
+USA 			VA			Manassas			20109			8270 Sudley Road,,			Macy's Manassas Mall			703-368-7131			BOPS
+USA 			VA			Alexandria			22304			5701 Duke Street,,			Macy's Landmark			703-354-1900			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Spokane			99201			Main and Wall Streets,,			Macy's Downtown Spokane			509-626-6000			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			WA			Spokane			99207			4770 N. Division,,			Macy's Northtown Mall			509-482-6800			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			WA			Spokane			99216			14740 East Indiana Ave.,,			Macy's Spokane Valley Mall			509-893-6000			BRIDAL,BOPS,HAS_EVENTS
+USA 			ID			Coeur d'Alene			83814			West 200 Hanley Ave. #4,,			Macy's Silver Lake Mall			208-772-8700			BOPS
+USA 			ID			Moscow			83843			2132 West Pullman Road,,			Macy's Palouse Mall			208-892-6000			BOPS
+USA 			GA			Macon			31206			3661 Eisenhower Parkway,,			Macy's Macon Mall			478-471-3985			BRIDAL,MATTRESS,BOPS
+USA 			TX			Tyler			75703			4700 South Broadway,,			Macy's Broadway Square			903-534-6990			BRIDAL,BOPS
+USA 			NY			West Nyack			10994			1920 Palisades Center Drive,,			Macy's Palisades Center			845-358-7990			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			NY			Nanuet			10954-2700			200 Nanuet Mall,Route 59,			Macy's Nanuet			845-623-4100			MATTRESS,BOPS
+USA 			GA			Athens			30606			3700 Atlanta Highway,Georgia Square Mall,			Macy's Georgia Square Mall			706-353-4847			BRIDAL,MATTRESS,BOPS
+USA 			GA			Buford			30519			3333 Buford Drive,,			Macy's Mall of Georgia			678-546-4300			BRIDAL,MATTRESS,BOPS
+USA 			CT			Waterford			06385-4202			850 Hartford Turnpike,Crystal Mall,			Macy's Waterford			860-443-6911			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			NY			Hampton Bays			11946-2277			190 West Montauk Highway,,			Macy's Hampton Bays			631-728-5500			BOPS
+USA 			CT			Meriden			06450			470 Lewis Avenue,,			Macy's Meriden Square			203-238-0741			BRIDAL,MATTRESS,BOPS
+USA 			CT			Manchester			06040			183 Pavilions Drive,,			Macy's Pavilions at Buckland Hills			860-644-6700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CT			Farmington			06032			100 Westfarms Mall,,			Macy's Westfarms Mall			860-561-3030			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CT			Milford			06460			1201 Post Road,,			Macy's Connecticut Post Mall			203-877-9393			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			RI			Warwick			02886-1689			400 Bald Hill Road,Warwick Mall,			Macy's Warwick			401-737-3800			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CT			Waterbury			06702			575 Union Street,,			Macy's Brass Mill Center			203-757-1131			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CT			Enfield			06082			90 Elm Street,,			Macy's Enfield Square			860-741-2111			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			RI			Providence			02903			7 Providence Place,,			Macy's Providence			401-351-9900			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			CT			Trumbull			06611-4204			5065 Main Street,,			Macy's Trumbull			203-374-7200			MATTRESS,BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			NY			Lake Grove			11755-1299			2 Smith Haven Mall,,			Macy's Smith Haven			631-724-4900			PERSONAL_SHOPPER,MATTRESS,BRIDAL,BOPS,HAS_EVENTS
+USA 			NY			Lake Grove			11755			580 Smith Haven Mall,,			Macy's Smith Haven Furniture			631-240-2100			FURNITURE_GALLERY,MATTRESS
+USA 			MA			Swansea			02777-4116			Route 6 & 118,Swansea Mall Drive,			Macy's Swansea			508-677-4400			BOPS
+USA 			MA			Springfield			01129			1655 Boston Road,,			Macy's Eastfield Mall			413-543-4700			BOPS
+USA 			WV			Charleston			25301			201 Lee Street,East,			Macy's Charleston Town Center			304-345-9450			BRIDAL,BOPS,HAS_EVENTS
+USA 			MI			Kentwood			49512			3165 28th St SE,,			Macy's Grand Rapids			616-940-2100			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			MI			Grandville			49418			3850 Rivertown Parkway,,			Macy's Grandville			616-257-4900			BRIDAL,BOPS
+USA 			MI			Lansing			48917			5700 W Saginaw Highway,,			Macy's West Lansing			517-886-4400			BOPS
+USA 			MI			Saginaw			48604			4750 Fashion Square Mall,,			Macy's Saginaw			989-797-6300			PERSONAL_SHOPPER,RESTAURANT,BRIDAL,BOPS
+USA 			MI			Traverse City			49684			3400 South Airport Road W,,			Macy's Traverse City			231-929-6800			BRIDAL,BOPS,HAS_EVENTS
+USA 			UT			Salt Lake City			84111			21 South Main Street,,			Macy's City Creek Center			801-736-8950			BRIDAL,BOPS
+USA 			UT			West Valley City			84119			3601 South 2700 West,,			Macy's Valley Fair Mall			801-963-0191			MATTRESS,BOPS
+USA 			UT			Salt Lake City			84117			4835 Highland Drive,,			Macy's Cottonwood Mall			801-278-0052			BRIDAL,MATTRESS,BOPS
+USA 			UT			Sandy			84070			10600 South 110 West,,			Macy's South Town Ctr			801-576-0081			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			UT			Layton			84041			1000 Layton Hills Mall,,			Macy's Layton Hills			801-546-5000			BRIDAL,MATTRESS,BOPS
+USA 			UT			Orem			84097			543 East University Parkway,,			Macy's University Mall			801-227-3000			BRIDAL,FURNITURE_GALLERY,BOPS
+USA 			ID			Idaho Falls			83404			2240 East 17th Street,,			Macy's Grand Teton Mall			208-535-6000			BOPS
+USA 			GA			Alpharetta			30022			5000 North Point Circle,,			Macy's North Point Mall			770-410-2600			BRIDAL,BOPS,HAS_EVENTS
+USA 			MA			Auburn			01501			385 South Bridge Street,,			Macy*s  Auburn			1-508-721-0011			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MA			Leominster			01453			106 Commercial Road,Whitney Field Mall,			Macy's Mall At Whitney Field			978-537-1264			BOPS
+USA 			MA			Taunton			02780			2 Galleria Mall Drive,,			Macy's Silver City(Taunton)			508-880-0030			BOPS
+USA 			MA			North Dartmouth			02747			362 State Road,,			Macy's North Dartmouth			508-994-0300			BOPS
+USA 			FL			Pompano Beach			33064			1200 N.E. 23rd Street,,			Macy's Pompano Citi Centre			954-786-6300			MATTRESS,BOPS
+USA 			FL			Boca Raton			33431			5700 West Glades Rd.,,			Macy's Boca Town Center			561-393-4400			PERSONAL_SHOPPER,BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Boca Raton			33431			9339 Glades Rd.,,			Macy's Boca Raton Furniture Gallery			561-620-4500			FURNITURE_GALLERY,MATTRESS
+USA 			FL			Boynton Beach			33426-3315			801 N. Congress Avenue,,			Macy's Boynton Beach Mall			561-738-4200			MATTRESS,BOPS
+USA 			CA			Santa Rosa			95401-8507			800 Santa Rosa Plaza,,			Macy's Santa Rosa Plaza			707-523-3333			PERSONAL_SHOPPER,BRIDAL,BOPS,HAS_EVENTS
+USA 			CA			Santa Rosa			95401-3508			555 Coddingtown  Center,,			Macy's Coddingtown Mall			707-579-3333			FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Jensen Beach			34957			3106 N.W. Federal Highway,,			Macy's Treasure Coast Square			772-232-4300			BRIDAL,MATTRESS,BOPS
+USA 			FL			Vero Beach			32966			6200 20th Street,,			Macy's Indian River Mall			772-564-2300			MATTRESS,BOPS
+USA 			FL			Palm Beach Gardens			33410			3107 PGA Blvd.,,			Macy's Palm Beach Gardens			561-775-2231			MATTRESS,RESTAURANT,BRIDAL,FURNITURE_GALLERY,BOPS,HAS_EVENTS
+USA 			FL			Palm Beach Gardens			33410			3107 PGA Blvd,,			Figs at The Gardens						PERSONAL_SHOPPER,RESTAURANT,VISITOR_CENTER,BRIDAL,FURNITURE_GALLERY,MATTRESS
+USA 			FL			West Palm Beach			33401			575 Rosemary Avenue,,			Macy's CityPlace			561-242-4085			BOPS
+USA 			FL			Wellington			33414			10316 Forest Hill Blvd.,,			Macy's The Mall at Wellington Green			561-493-2000			BRIDAL,MATTRESS,BOPS
+USA 			WA			Bellingham			98226			4295 Guide Meridian,,			Macy's Bellingham Furniture Gallery			360-715-6850			FURNITURE_GALLERY,MATTRESS
+USA 			WA			Bellingham			98226			50 Bellis Fair Parkway,,			Macy's Bellis Fair Parkway			360-715-6000			BRIDAL,BOPS
+USA 			WA			Burlington			98233			700 Cascade Mall Drive,,			Macy's Cascade Mall			360-707-6000			BRIDAL,MATTRESS,BOPS
+USA 			MA			Holyoke			01041			400 Whitney Avenue,,			Macy's Holyoke Mall			413-538-7360			PERSONAL_SHOPPER,BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			MA			Lanesborough			01237			Rt. 8. Old State Road,,			Macy's Berkshire Mall (Pittsfield)			413-499-3600			BOPS
+USA 			FL			Ft. Myers			33901			4125 Cleveland Ave.,,			Macy's Edison Mall			239-477-3300			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS
+USA 			FL			Naples			34102			1800 9th Street North,,			Macy's Coastland Center			239-434-1300			BRIDAL,MATTRESS,BOPS,HAS_EVENTS
+USA 			FL			Port Charlotte			33948			1441 Tamiami Trail,,			Macy's Port Charlotte Town Center			941-764-5300			MATTRESS,BOPS
+USA 			OR			Roseburg			97470			1460 N.W. Garden Valley Blvd.,,			Macy's Roseburg Valley Mall			541-957-6000			BOPS
+USA 			OR			North Bend			97459			1611 Virginia Ave,,			Macy's Pony Village Mall			(541) 751-6000			BOPS
+USA 			OR			Medford			97501			1800 North Riverside Drive,,			Macy's Rogue Valley Mall			541-772-3700			BRIDAL,FURNITURE_GALLERY,MATTRESS,BOPS,HAS_EVENTS
+USA 			CA			El Centro			92243			3551 South Dogwood Ave,,			Macy's Imperial Valley Mall			760-352-5901			BOPS,HAS_EVENTS
